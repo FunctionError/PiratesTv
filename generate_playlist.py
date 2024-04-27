@@ -2,6 +2,23 @@ import os
 import requests
 import re
 
+def is_channel_live(url):
+    try:
+        response = requests.get(url, stream=True, timeout=5)
+        # First check if the response is OK
+        if response.status_code == 200:
+            try:
+                # Then try to read the first chunk of content
+                next(response.iter_content(1024))
+                return True
+            except StopIteration:
+                return False
+        return False
+    finally:
+        response.close()
+    except requests.RequestException:
+        return False
+
 def read_m3u_playlist(source):
     playlist = []
     if source is None:
@@ -9,43 +26,48 @@ def read_m3u_playlist(source):
         return []
 
     if source.startswith("http"):
-        response = requests.get(source)
-        content = response.text
+        try:
+            response = requests.get(source)
+            content = response.text
+        except requests.RequestException as e:
+            print(f"Error fetching playlist from {source}: {e}")
+            return []
     else:
-        with open(source, 'r') as f:
-            content = f.read()
-
-    # Debugging: Print the content to verify it's being read correctly
-    print("Content fetched:", content[:500])  # Print the first 500 characters of the content
+        try:
+            with open(source, 'r') as f:
+                content = f.read()
+        except IOError as e:
+            print(f"Error reading file {source}: {e}")
+            return []
 
     pattern = re.compile(r'#EXTINF:(.*?)(?: tvg-logo="(.*?)")?(?: group-title="(.*?)")?,(.*?)\n(.*?)\n', re.DOTALL)
     matches = pattern.findall(content)
-    print("Matches found:", len(matches))  # Number of matches found
-
+    
     for match in matches:
         duration, logo, group, channel_name, url = match
-        print("Processing:", url)  # Print each URL being processed
-        if '.m3u8' in url:
+        if '.m3u8' in url and is_channel_live(url):
             playlist.append({'logo': logo, 'group': group, 'channel_name': channel_name, 'url': url})
     return playlist
 
 def combine_playlists(playlist_sources, priority_order):
     combined_playlist = []
+    seen_channels = set()
 
-    for source in priority_order:
+    for source in priority_order + playlist_sources:
         source_playlist = read_m3u_playlist(source)
-        combined_playlist.extend(source_playlist)
-
-    priority_channels = set(channel['channel_name'] for channel in combined_playlist)
-    for source in playlist_sources:
-        source_playlist = read_m3u_playlist(source)
-        source_playlist = [channel for channel in source_playlist if channel['channel_name'] not in priority_channels]
-        combined_playlist.extend(source_playlist)
+        for channel in source_playlist:
+            channel_identity = (channel['channel_name'].strip().lower(), channel['url'].strip())
+            if channel_identity not in seen_channels:
+                seen_channels.add(channel_identity)
+                combined_playlist.append(channel)
 
     return combined_playlist
 
-def write_to_file(playlist, output_file):
+def write_to_file(playlist, output_file, include_credits=False):
+    credit_text = "# All the links in this file are collected from public sources. If anyone wants to remove their source, please let us know. We respect your opinions and efforts, so we will not object to removing your source. https://www.t.me/PiratesTv_admin\n"
     with open(output_file, 'w') as f:
+        if include_credits:
+            f.write(credit_text)
         for item in playlist:
             f.write("#EXTINF:-1 tvg-logo=\"%s\" group-title=\"%s\",%s\n%s\n" % (item['logo'], item['group'], item['channel_name'], item['url']))
 
@@ -58,8 +80,9 @@ if __name__ == "__main__":
         os.getenv('PRIORITY_PLAYLIST_URL_1'),
     ]
     output_file = 'combined_playlist.m3u'
+    include_credits = True  # Set to False to exclude credits
 
     combined_playlist = combine_playlists(playlist_sources, priority_order)
-    write_to_file(combined_playlist, output_file)
+    write_to_file(combined_playlist, output_file, include_credits)
 
     print("Combined and filtered playlist written to", output_file)
