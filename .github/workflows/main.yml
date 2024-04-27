@@ -14,7 +14,9 @@ jobs:
     env:
       PLAYLIST_SOURCE_URL_1: ${{ secrets.PLAYLIST_SOURCE_URL_1 }}
       PLAYLIST_SOURCE_URL_2: ${{ secrets.PLAYLIST_SOURCE_URL_2 }}
+      PLAYLIST_SOURCE_URL_3: ${{ secrets.PLAYLIST_SOURCE_URL_3 }}  # New playlist source URL
       PRIORITY_PLAYLIST_URL_1: ${{ secrets.PRIORITY_PLAYLIST_URL_1 }}
+      PRIORITY_PLAYLIST_URL_2: ${{ secrets.PRIORITY_PLAYLIST_URL_2 }}  # New priority playlist URL
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
@@ -42,4 +44,4 @@ jobs:
         with:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          message: "M3U files updated successfully! 🚀"
+          message: "M3U files updated successfully with new sources! 🚀"
