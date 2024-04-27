@@ -14,10 +14,11 @@ def is_channel_live(url):
             except StopIteration:
                 return False
         return False
-    finally:
-        response.close()
     except requests.RequestException:
         return False
+    finally:
+        if 'response' in locals():  # Check if 'response' is defined
+            response.close()
 
 def read_m3u_playlist(source):
     playlist = []
