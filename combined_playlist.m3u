@@ -202,8 +202,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_2084
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOPQG_jdqFLGFDT3N7oGo1QfIHe8F2DPM56j1dWzGpMQ&s" group-title="", ATN BANGLA 
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc5pK6jhNsENck0sGY-Gv2IIsGpmrRxZl91s0rzagAjg&s"group-title=" " group-title="", BANGLA VISION (YT) 
-https://ythls.armelin.one/channel/UCAIEufoszs1J38-pKECORRg.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVCkYi5tQI2oWkJcXnAA8sX8yWKu4WnfsNQ&usqp=CAU"group-title=" " , MOVIE BANGLA 
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdjDdxzJ32w-f_fPqJ1RPuzqr3xYb-ZkcNg-tFex7UXw&s" group-title="", GREEN TV 
@@ -351,6 +349,10 @@ http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
 http://cdn01.palki.tv/live/Channel24-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Bangla News" group-title="",Ekhone TV
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jago%20News%2024.jpeg"group-title="Jagobd" group-title="",Jago News 24
+https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TBN24.png" group-title="Bangla News",TBN 24 USA
+https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="Bangla Music" group-title="",ATN Music
 https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Bangla Movies",Amar Bangla
