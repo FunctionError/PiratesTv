@@ -75,10 +75,12 @@ def write_to_file(playlist, output_file, include_credits=False):
 if __name__ == "__main__":
     playlist_sources = [
         os.getenv('PLAYLIST_SOURCE_URL_1'),
-        os.getenv('PLAYLIST_SOURCE_URL_2')
+        os.getenv('PLAYLIST_SOURCE_URL_2'),
+        os.getenv('PLAYLIST_SOURCE_URL_3')  # Added third source URL
     ]
     priority_order = [
         os.getenv('PRIORITY_PLAYLIST_URL_1'),
+        os.getenv('PRIORITY_PLAYLIST_URL_2')  # Added second priority URL
     ]
     output_file = 'combined_playlist.m3u'
     include_credits = True  # Set to False to exclude credits
