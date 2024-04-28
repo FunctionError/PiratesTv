@@ -89,8 +89,6 @@ https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YjYF0c3/IMG-20240126-083829.png" group-title="JAGOBD  CHANNELS", Green TV
 https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NjgzxKW/IMG-20240126-084336.png" group-title="JAGOBD  CHANNELS",Independent TV
-https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tMqqJ5/IMG-20240126-085651.png"group-title="JAGOBD  CHANNELS" group-title="",iON TV UK 
 https://livess.ncare.live/live-orgin/iontvuk.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sPqKzqb/IMG-20240126-111848.jpg" group-title="JAGOBD  CHANNELS",Jago News 24
@@ -159,8 +157,12 @@ https://livess.ncare.live/live-orgin/nasatv.stream/chunks.m3u8
 https://ythls.armelin.one/channel/UCAIEufoszs1J38-pKECORRg.m3u8
 #EXTINF:-1 tvg-logo="" group-title="YOUTUBE  CHANNELS"tvg-logo="https://i.ibb.co/JBPFpf1/IMG-20240126-085138.jpg",Channel 24
 https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="YOUTUBE  CHANNELS" tvg-logo="https://i.ibb.co/tPSbC6D/IMG-20240126-092155.png",Channel i
+https://ythls.armelin.one/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S3GmF3b/IMG-20240126-084426.png" group-title="YOUTUBE  CHANNELS",DBC News
 https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="YOUTUBE  CHANNELS" tvg-logo="https://i.ibb.co/BwMpnr3/IMG-20240129-063118.jpg",Ekhon Tv
+https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NjgzxKW/IMG-20240126-084336.png" group-title="YOUTUBE  CHANNELS",Independent TV
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8sVYKmM/IMG-20240126-084123.jpg" group-title="YOUTUBE  CHANNELS",Jamuna TV
@@ -515,6 +517,8 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://livess.ncare.live/live-orgin/dwnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png"group-title="English News" group-title="",France 24
+https://livess.ncare.live/live-orgin/fr24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSv6JJBp/WION-TV-logo.jpg" group-title="English News", WION
 http://cdn01.palki.tv/live/WION-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Surongo.jpeg" group-title="Bangla Movies",Surongo
@@ -587,8 +591,6 @@ https://freeiptv25.netlify.app/live/stream_6.m3u8
 https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Jagobd" group-title="",ATN Bangla UK(Jagobd)
 https://livess.jagobd.com.bd/live-orgin/atnbanglauk-off.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Jagobd" group-title="",Channel I(Jagobd)
-https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="BD" group-title="",Channel I(BD)
 http://208.86.19.13:81/510.stream/index.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="BDIX" group-title="",Ekushay TV(BDIX)
@@ -693,6 +695,8 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 https://freeiptv25.netlify.app/live/bdix/app/Rtvmusic.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Youtube" tvg-logo="https://imgpile.com/images/58YDwk.jpg",RTV Music(Youtube)
 https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BD" tvg-logo="https://imgpile.com/images/58YDwk.jpg",RTV Music(BD)
+https://rtv-music.mssarena71.workers.dev/stream/RtvMusic/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD" tvg-logo="",Movie Bangla(BD)
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Jagobd" tvg-logo="",Movie Bangla(Jagobd)
@@ -847,6 +851,8 @@ https://od.lk/s/ODRfNzIxOTE5NjZf/HGTV.m3u8
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/discoverpakistan.stream/live-orgin/discoverpakistan.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="BD",Nasa TV(BD)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Jagobd",Nasa TV(Jagobd)
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nasatv.stream/live-orgin/nasatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Ayna"Cartoon Network(Ayna)
 https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=cartoonnetwork
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Toffee"Cartoon Network(Toffee)
