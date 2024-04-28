@@ -95,14 +95,14 @@ http://cdn01.palki.tv:80/live/EkattorTV-M/tracks-v1a1/mono.m3u8
 http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png"group-title="Bangla News" group-title="",Channel 24
 http://cdn01.palki.tv/live/Channel24-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Bangla News" group-title="",Ekhone TV
+https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jago%20News%2024.jpeg"group-title="Jagobd" group-title="",Jago News 24
 https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TBN24.png"group-title="Bangla News" group-title="",TBN 24 USA
 https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png"group-title="Bangla Movies" group-title="",Amar Bangla
 https://livess.ncare.live/live-orgin/amarbanglatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png"group-title="Bangla Movies" group-title="",Amar Digital
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg"group-title="Kolkata Bangla" group-title="",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png"group-title="Kolkata Bangla Movies" group-title="",Khushboo Bangla
@@ -401,10 +401,8 @@ https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024" group-title="",IPL 2024 Live Hindi
 https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Bangla News" group-title="",Ekhone TV
-https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Bangla +
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="Bangla Music" group-title="",ATN Music
+https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies" tvg-logo="",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies" tvg-logo="", South Station
@@ -561,14 +559,10 @@ http://cdn01.palki.tv:80/live/EkhonTV-M/tracks-v1a1/mono.m3u8
 https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TBN24.png" group-title="Palki",TBN 24 USA
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BD",Mon TV Music(BD)
-https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD" tvg-logo="https://imgpile.com/images/58YDwk.jpg",RTV Music(BD)
 https://freeiptv25.netlify.app/live/bdix/app/Rtvmusic.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Youtube" tvg-logo="https://imgpile.com/images/58YDwk.jpg",RTV Music(Youtube)
 https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BD" tvg-logo="https://imgpile.com/images/58YDwk.jpg",RTV Music(BD)
-https://rtv-music.mssarena71.workers.dev/stream/RtvMusic/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD" tvg-logo="",Movie Bangla(BD)
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Jagobd" tvg-logo="",Movie Bangla(Jagobd)
@@ -577,8 +571,6 @@ https://livess.jagobd.com.bd/live-orgin/moviebanglalink2.stream/chunks.m3u8
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="BD",Enter 10 Bangla(BD)
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BD",Bangla +(BD)
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png" group-title="BD",Khushboo Bangla(BD)
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="BD",Sangeet Bangla(BD)
@@ -605,6 +597,8 @@ http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
 http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Subir" group-title="",Eurosports(Subir)
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="BD" group-title="",EurosportsMOB)
+http://148.113.5.31:8106/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="BD" group-title="",Eurosports HD(BD)
 https://od.lk/s/ODRfNzIxOTM2OTdf/Eurosport_HD_English.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="BD" group-title="",Eurosports(BD)
