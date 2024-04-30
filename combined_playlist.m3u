@@ -159,8 +159,6 @@ https://ythls.armelin.one/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
 https://freeott.site/discovery/Animal_Planet.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/99f28633-718f-472e-95bd-d0b1a9d64725_180x180_zee24.jpg" group-title="",24 GHANTA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/1/14/Channel_Dinraat_logo.png" group-title="",DINRAAT CHANNEL
-https://ythls.armelin.one/channel/UCILYNzZvWNUPaALmDJBIMAw.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QThBcw4.png" group-title="",CTVN AKD PLUS
 https://ythls.armelin.one/channel/UC1UOne4B9wIrMe0KMwe-7_g.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB17AF_miOKoFqEnzWGJn2VUG0muqR82TGuQ&s" group-title="",KOLKATA TV
@@ -318,8 +316,6 @@ https://i.mjh.nz/SamsungTVPlus/USBA3400003IP.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20240401T235859SQUARE.png" group-title="", PARAMOUNT MOVIE CHANNEL
 https://i.mjh.nz/SamsungTVPlus/USAJ26000054W.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024" group-title="",IPL 2024 Star Sports 1
-http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024" group-title="",IPL 2024 ATN National
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024" group-title="",IPL 2024 Live English
@@ -374,6 +370,8 @@ http://cdn01.palki.tv/live/Channel24-M/index.m3u8
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jago%20News%2024.jpeg"group-title="Jagobd" group-title="",Jago News 24
 https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TBN24.png" group-title="Bangla News",TBN 24 USA
+https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="Bangla Music" group-title="",ATN Music
 https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Bangla Movies",Amar Bangla
@@ -400,8 +398,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Manoranjan Movies
 http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports" group-title="",Star Sports 1 HD
-http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports" group-title="",Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports" group-title="",Eurosports HD
@@ -420,8 +416,6 @@ https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="Sports" group-title="",Bein Sports 1
 https://edge2.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%202.jpeg"group-title="Sports" group-title="",Bein Sports 2
-https://edge2.laotv.la/live/Bsport2/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",ATN Abganisthan
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Information" group-title="",Discovery HD Multi Audio
@@ -430,8 +424,6 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Information" group-title="",Discovery Hindi HD
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png"group-title="Information" group-title="",Discovery English HD
-https://ctrl.laotv.la/live/Discovery/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="Information" group-title="",Discovery Science Multi Audio
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png"group-title="Information" group-title="",Investigation Discovery Multi Audio
