@@ -187,6 +187,11 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_18.m3u8
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34886-jqc7dybs-v2/imageContent-34886-jqc7dybs-m2.png" group-title="", DD NEWS HD
 https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGgnb5jY/Picsart-24-04-23-05-24-43-288.png" , ZEE ANMOL CINEMA 2
+ 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA9Q15SNNhNO2Sz3rilpi3NGVGB0aEVFeLgVan177vgA&s"group-title="" group-title="", WWE LIVE
+https://ctrl.laotv.la/live/WWE/index.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22882/zee-bollyworld/thumbh_20240326_214845_270.jpg"group-title="" , ZEE BOLLYWORLD 
 https://stream.ads.ottera.tv/cl/240427comoquc25rmk75rnansg/640x360_350000_2_f.m3u8?i=475_6640
 
@@ -237,10 +242,6 @@ https://epiconvh.s.llnwi.net/showbox/master.m3u8
 https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqoWA5s4a1VZjR2NCQOYFQGJ2Toiw0JnlPxW2d7vdpA&s" group-title="", HAR PAL GEO
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71Et8Ve0gGL.png" group-title="", AMAR BANGLA 
-https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp9yyLWA-BV74K2OCNyMC6yM4t-UehDh6u8yxs_qje&s" group-title="", MON TV BANGLA 
-https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0MKA51IDlpXxLjr5b10GOTFQqdJOGPFW8uUrwLr2hnw&s" group-title=" ", CHANNEL VISION BANGLA 
 https://channelvision.livebox.co.in/channelvisionhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ttXLXI-2VVQmU2leDIVIUuRBTn_Slo7Q0UI2U2XUXA&s" group-title=" ", AAJ TAK HD
@@ -257,8 +258,6 @@ https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf2rhUpqcQDKjSjNoC7HCuBekHB-R4gDDYi3BKPxvq1Q&s"group-title="" group-title="", CHANNEL I(YT)
 https://ythls.armelin.one/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEgU1S8L89sMvS9WtcqOipfMfxslQvAGBgS_M3186LNoXPuA65U10a0ox2&s=10" group-title="", AMAR BANGLA DIGITAL 
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfCz1xOUxuUTrlgQgfKAHCvL9xE2w6iItKccMA2KYJOg&s" group-title="", DBC NEWS 
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStd15nT6p_uWQa__3gvxbGzOP1czLAlLH5yLZRX6g&s"group-title="" group-title="", RTV MUSIC
@@ -362,12 +361,10 @@ http://cdn01.palki.tv/live/Channel24-M/index.m3u8
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jago%20News%2024.jpeg"group-title="Jagobd" group-title="",Jago News 24
 https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TBN24.png" group-title="Bangla News",TBN 24 USA
+https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="Bangla Music" group-title="",ATN Music
 https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Bangla Movies",Amar Bangla
-https://livess.ncare.live/live-orgin/amarbanglatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Bangla Movies",Amar Digital
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Kolkata Bangla" group-title="",Colors Bangla
 https://himel-op.top/portal/ditto.m3u8?id=745
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Kolkata Bangla",Enter 10 Bangla
@@ -392,20 +389,24 @@ http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports" group-title="",Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports" group-title="",Eurosports
-http://148.113.5.31:8106/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports" group-title="",Eurosports HD
 https://od.lk/s/ODRfNzIxOTM2OTdf/Eurosport_HD_English.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports" group-title="",Eurosports
 https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/Eurosport.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDTtqBsd/31682adb-c504-409d-b2ea-d43245491a9a-original.png" group-title="Sports", True Premier 1 [Thailand]
 https://edge1.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y7n7Cvs/ba4c4510-e966-11ed-896e-69ce273284a6-webp-original.png" group-title="Sports", True Premier 2 [Thailand]
+https://edge1.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kc3WJZ8Q/1e8bbb60-f973-11e9-91cd-2f79be09d2b3-original.png" group-title="Sports", True Sports 2 [Thailand]
+https://edge1.laotv.la/live/TrueSport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
 https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Real Madrid TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="Sports" group-title="",Bein Sports 1
+https://edge2.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%202.jpeg"group-title="Sports" group-title="",Bein Sports 2
 https://edge2.laotv.la/live/Bsport2/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",ATN Abganisthan
