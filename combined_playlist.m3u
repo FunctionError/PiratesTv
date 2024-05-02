@@ -277,8 +277,6 @@ https://trkvz-live-clean.ercdn.net/alqurantv/alqurantv.m3u8
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcvZJrOL_hk8nWxhzVMRU_DK9I3XcYRCY7EZJ9jZq_xA&s"group-title="", ANIMAL PLANET HINDI
 https://synzx.in/D/Animal_Planet.m3u8
-#EXTINF:-1 tvg-logo="" group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ92_ENvb98nPez-Lz3cxSuepuIUpNJBrjhLzZhWn727w&s"group-title="",TLC  HINDI 
-https://mhdtvmax.net/delta/discovery/api/TLC_Hindi.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQx3dnD3hhSbjvbjsI34H_AuLXH4UMlbR4rPpZPtsT0w&s" group-title="", DISCOVERY KIDS HINDI
 https://synzx.in/D/Discovery_Kids.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300032J7_20240319T022500SQUARE.png" group-title="", FOX SOUL
@@ -605,8 +603,12 @@ https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="English News" group-title="",Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English News" group-title="",DW
+https://livess.ncare.live/live-orgin/dwnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png"group-title="English News" group-title="",France 24
+https://livess.ncare.live/live-orgin/fr24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSv6JJBp/WION-TV-logo.jpg" group-title="English News", WION
 http://cdn01.palki.tv/live/WION-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Surongo.jpeg" group-title="Bangla Movies",Surongo
