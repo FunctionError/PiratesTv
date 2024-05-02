@@ -1,0 +1,58 @@
+name: M3U Generator
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Runs every 30 minutes
+  push:
+    branches:
+      - main  # Runs on push to the main branch
+  workflow_dispatch:  # Allows manual triggering of the workflow
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      PLAYLIST_SOURCE_URL_1: ${{ secrets.PLAYLIST_SOURCE_URL_1 }}
+      PLAYLIST_SOURCE_URL_2: ${{ secrets.PLAYLIST_SOURCE_URL_2 }}
+      PLAYLIST_SOURCE_URL_3: ${{ secrets.PLAYLIST_SOURCE_URL_3 }}
+      PRIORITY_PLAYLIST_URL_1: ${{ secrets.PRIORITY_PLAYLIST_URL_1 }}
+      PRIORITY_PLAYLIST_URL_2: ${{ secrets.PRIORITY_PLAYLIST_URL_2 }}
+      PRIORITY_PLAYLIST_URL_3: ${{ secrets.PRIORITY_PLAYLIST_URL_3 }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run script
+        run: |
+          chmod +x autorun.sh
+          ./autorun.sh
+
+      - name: Commit changes if any
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || git commit -m "M3U files updated by bot 🤖"
+
+      - name: Pull latest changes from remote
+        run: git pull origin main --rebase
+
+      - name: Push changes
+        run: git push origin main
+
+      - name: Notify via Telegram
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          message: "M3U files updated successfully with new sources! 🚀"
