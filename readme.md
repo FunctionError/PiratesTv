@@ -26,6 +26,11 @@ This script is designed to merge and keep up-to-date m3u links collected from pu
 
 - [@FunctionError](https://www.github.com/FunctionError)
 
+### 📺 Join us 👇
+
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/piratestv_ch)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/piratestv403)
+
 
 ## Screenshots
 
