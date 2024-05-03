@@ -65,7 +65,7 @@ def combine_playlists(playlist_sources, priority_order):
     return combined_playlist
 
 def write_to_file(playlist, output_file, include_credits=False):
-    credit_text = "# All the links in this file are collected from public sources. If anyone wants to remove their source, please let us know. We respect your opinions and efforts, so we will not object to removing your source. https://www.t.me/PiratesTv_admin\n"
+    credit_text = "# All the links in this file are collected from public sources. If anyone wants to remove their source, please let us know. We respect your opinions and efforts, so we will not object to removing your source. https://www.t.me/PiratesTv_ch\n"
     with open(output_file, 'w') as f:
         if include_credits:
             f.write(credit_text)
