@@ -45,6 +45,7 @@ Primarily focused on Bangladeshi users (Use Vlc for PC)
 https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 ```
 
+
 # Contributing
 
 Contributions are always welcome! Feel Free To Clone This Project. For Major Changes, Please Open An Issue First To Discuss What You Would Like To Change Or Add, Thank You ! 🖤
@@ -61,8 +62,22 @@ This repository collects m3u files collected from multiple public sources. There
 
    </details>
 
+# Play List sources
+ <details close>
+<summary> See hare 😍
 
+</summary>
+
+
+- [@FunctionError](https://www.github.com/FunctionError)
+
+- [@subir](https://github.com/subirkumarpaul/)
+
+- [@HimelOP_Official](@HimelOP_Official)
+
+- ### 
+
+   </details>
 
 # **License**
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://github.com/FunctionError/PiratesTv/blob/main/LICENSE)
