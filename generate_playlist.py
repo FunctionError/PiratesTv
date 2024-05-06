@@ -17,7 +17,7 @@ def is_channel_live(url):
     except requests.RequestException:
         return False
     finally:
-        if 'response' in locals():  # Check if 'response' is defined
+        if 'response' in locals():  
             response.close()
 
 def read_m3u_playlist(source):
@@ -67,6 +67,7 @@ def combine_playlists(playlist_sources, priority_order):
 def write_to_file(playlist, output_file, include_credits=False):
     credit_text = "# All the links in this file are collected from public sources. If anyone wants to remove their source, please let us know. We respect your opinions and efforts, so we will not object to removing your source. https://www.t.me/PiratesTv_ch\n"
     with open(output_file, 'w') as f:
+        f.write("#EXTM3U\n")  
         if include_credits:
             f.write(credit_text)
         for item in playlist:
@@ -76,15 +77,15 @@ if __name__ == "__main__":
     playlist_sources = [
         os.getenv('PLAYLIST_SOURCE_URL_1'),
         os.getenv('PLAYLIST_SOURCE_URL_2'),
-        os.getenv('PLAYLIST_SOURCE_URL_3')  # Added third source URL
+        os.getenv('PLAYLIST_SOURCE_URL_3')  
     ]
     priority_order = [
         os.getenv('PRIORITY_PLAYLIST_URL_1'),
         os.getenv('PRIORITY_PLAYLIST_URL_2'),
-        os.getenv('PRIORITY_PLAYLIST_URL_3')  # Added second priority URL
+        os.getenv('PRIORITY_PLAYLIST_URL_3')  
     ]
     output_file = 'combined_playlist.m3u'
-    include_credits = True  # Set to False to exclude credits
+    include_credits = True  
 
     combined_playlist = combine_playlists(playlist_sources, priority_order)
     write_to_file(combined_playlist, output_file, include_credits)
