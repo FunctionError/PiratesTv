@@ -20,16 +20,12 @@ https://ytapi-2.piratestv.workers.dev/@banglavisionlive.m3u8
 https://ytapi-2.piratestv.workers.dev/@channel24digital.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/eqxKhU9ty3Kr1CsG8bYcsAvXzEItOmE4qMxydBPg0i6w1jBiAiz6dJjnggYXz9mJQ1R05ZGv=s176-c-k-c0x00ffffff-no-rj" group-title="", group-title="News", Ntv Live
 https://ytapi-2.piratestv.workers.dev/@NTVDigitalLive.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/oG8z-BPo2bbfUxta79CTDiK0PLBJMp329D0v3aJTT44F8YAP1SwYBfL9pC2fTVljqkdlHMZUOpw=s176-c-k-c0x00ffffff-no-rj" group-title="", group-title="News", Ekhon Live
-https://ytapi-2.piratestv.workers.dev/@ekhontv.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/YKrh5sIYpesEIHbjfgqwFjFx3ZgIjM_zak2z0LO8QENSgrmgKBes1m65POj9jkmzm0qoKwgl=s176-c-k-c0x00ffffff-no-rj" group-title="", group-title="News", Al Jazeera English
 https://ytapi-2.piratestv.workers.dev/@aljazeeraenglish.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mGInWY5NqAdwf25hydl8yex5nuT7vcEqmoT4VKSyiDNLm3=s176-c-k-c0x00ffffff-no-rj" group-title="", group-title="News", Reuters
 https://ytapi-2.piratestv.workers.dev/@Reuters.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/r2ZGA9E-wWJha_PIoNh8df3C_Y8uenieTqQ-Qj2-ibWQ6T__-mVxUvplOqoagFLsicskn-j3sw=s176-c-k-c0x00ffffff-no-rj" group-title="", group-title="News", WINO
 https://ytapi-2.piratestv.workers.dev/@WION.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lYbTbvSwnfhpFV8qVUtpksrKJlthZTLi0ap9H_fcznABI=s176-c-k-c0x00ffffff-no-rj" group-title="", group-title="Music", RTV Music
-https://ytapi-2.piratestv.workers.dev/@RtvMusic.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/RRL8O751UsFCCL1U6tVCLlWr19skngM4dbAEb6EGE4Rcqqz842sf9bQGBk3IfnPlkcFvNyknyA=s176-c-k-c0x00ffffff-no-rj" group-title="", group-title="Explore", Nat Geo WILD
 https://ytapi-2.piratestv.workers.dev/@NatGeoWild.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Ban Vs Zim
@@ -56,6 +52,8 @@ http://cdn01.palki.tv:80/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
 http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla" group-title="",ATN Bangla
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla" group-title="",ATN Bangla UK
+https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="Bangla" group-title="",Ekushay TV
 http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangla" group-title="",NTV UK
@@ -141,129 +139,19 @@ https://od.lk/s/ODRfNzIxOTM2OTdf/Eurosport_HD_English.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports" group-title="",Eurosports
 https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/Eurosport.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="Sports" group-title="",PTV Sports
-https://webhdrus.onlinehdhls.ru/lb/premium450/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="Sports" group-title="",PTV Sports
 http://121.91.61.106:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="Sports" group-title="",A Sports
 http://121.91.61.106:8000/play/a03o/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="Sports" group-title="",A Sports
-https://webhdrus.onlinehdhls.ru/lb/premium269/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports" group-title="",Ten Sports PK
 http://121.91.61.106:8000/play/a04h/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports" group-title="",Ten Sports PK
-https://webhdrus.onlinehdhls.ru/lb/premium741/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo="" group-title="",Fast Sports
 http://121.91.61.106:8000/play/a042/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports" group-title="",Willow Xtra
-https://webhdrus.onlinehdhls.ru/lb/premium598/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Viaplay Sports 1
-https://webhdrus.onlinehdhls.ru/lb/premium451/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Sports TV 1
-https://webhdrus.onlinehdhls.ru/lb/premium31/index.m3u8?|referer=https://claplivehdplay.ru
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Sports TV 2
-https://webhdrus.onlinehdhls.ru/lb/premium74/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Sports TV 3
-https://webhdrus.onlinehdhls.ru/lb/premium454/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Fox Sports 501
-https://webhdrus.onlinehdhls.ru/lb/premium369/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Fox Sports 502
-https://webhdrus.onlinehdhls.ru/lb/premium820/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Fox Sports 503
-https://webhdrus.onlinehdhls.ru/lb/premium821/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Fox Sports 504
-https://webhdrus.onlinehdhls.ru/lb/premium822/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Fox Sports 505
-https://webhdrus.onlinehdhls.ru/lb/premium823/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Fox Sports 506
-https://webhdrus.onlinehdhls.ru/lb/premium824/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Fox Sports 507
-https://webhdrus.onlinehdhls.ru/lb/premium825/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
 https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Real Madrid TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BD" group-title="",Astro Cricket
-https://webhdrus.onlinehdhls.ru/lb/premium370/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",SKY Sports Football
-https://webhdrus.onlinehdhls.ru/lb/premium469/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",SKY Sports 
-https://webhdrus.onlinehdhls.ru/lb/premium35/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",SKY Sports Cricket
-https://webhdrus.onlinehdhls.ru/lb/premium65/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",SKY Sports Mix
-https://webhdrus.onlinehdhls.ru/lb/premium449/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",SKY Sports Arena
-https://webhdrus.onlinehdhls.ru/lb/premium36/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",SKY Sports Action
-https://webhdrus.onlinehdhls.ru/lb/premium37/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",SKY Sports Golf
-https://webhdrus.onlinehdhls.ru/lb/premium70/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="Sports" group-title="",Bein Sports(BD
-https://webhdrus.onlinehdhls.ru/lb/premium420/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="Sports" group-title="",Bein Sports 1 English
-https://webhdrus.onlinehdhls.ru/lb/premium61/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="Sports" group-title="",Bein Sports 1
-https://webhdrus.onlinehdhls.ru/lb/premium91/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%202.jpeg"group-title="Sports" group-title="",Bein Sports 2 English
-https://webhdrus.onlinehdhls.ru/lb/premium90/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%202.jpeg"group-title="Sports" group-title="",Bein Sports 2
-https://webhdrus.onlinehdhls.ru/lb/premium92/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%203.jpeg"group-title="Sports" group-title="",Bein Sports 3 English
-https://webhdrus.onlinehdhls.ru/lb/premium46/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%203.jpeg"group-title="Sports" group-title="",Bein Sports 3
-https://webhdrus.onlinehdhls.ru/lb/premium92/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%203.jpeg"group-title="Sports" group-title="",Bein Sports 3
-https://webhdrus.onlinehdhls.ru/lb/premium64/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%204.jpeg"group-title="Sports" group-title="",Bein Sports 4
-https://webhdrus.onlinehdhls.ru/lb/premium94/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%204.jpeg"group-title="Sports" group-title="",Bein Sports 4
-https://webhdrus.onlinehdhls.ru/lb/premium95/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="Sports" group-title="",Bein Sports 5
-https://webhdrus.onlinehdhls.ru/lb/premium96/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BD" group-title="",Bein Sports 6
-https://webhdrus.onlinehdhls.ru/lb/premium98/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BD,Bein Sports Premium 1
-https://webhdrus.onlinehdhls.ru/lb/premium98/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BD" group-title="",Bein Sports Premium 2
-https://webhdrus.onlinehdhls.ru/lb/premium99/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BD" group-title="",Bein Sports Premium 3
-https://webhdrus.onlinehdhls.ru/lb/premium100/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",TNT Sports 1
-https://webhdrus.onlinehdhls.ru/lb/premium31/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",TNT Sports 2
-https://webhdrus.onlinehdhls.ru/lb/premium32/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",TNT Sports 3
-https://webhdrus.onlinehdhls.ru/lb/premium33/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",TNT Sports 4
-https://webhdrus.onlinehdhls.ru/lb/premium34/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Super Sports Football
-https://webhdrus.onlinehdhls.ru/lb/premium56/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Super Sports Cricket
-https://webhdrus.onlinehdhls.ru/lb/premium368/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Super Sports Grandstand
-https://webhdrus.onlinehdhls.ru/lb/premium412/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Super Sports PSL
-https://webhdrus.onlinehdhls.ru/lb/premium413/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Super Sports í
-https://webhdrus.onlinehdhls.ru/lb/premium414/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Super Sports LaLiga
-https://webhdrus.onlinehdhls.ru/lb/premium415/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Super Sports Variety 1
-https://webhdrus.onlinehdhls.ru/lb/premium416/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Super Sports Variety 2
-https://webhdrus.onlinehdhls.ru/lb/premium417/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Super Sports Variety 3
-https://webhdrus.onlinehdhls.ru/lb/premium418/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Super Sports Action
-https://webhdrus.onlinehdhls.ru/lb/premium420/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Super Sports Rugby
-https://webhdrus.onlinehdhls.ru/lb/premium410/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Super Sports Golf
-https://webhdrus.onlinehdhls.ru/lb/premium422/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Super Sports 
-https://webhdrus.onlinehdhls.ru/lb/premium423/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",ATN Abganisthan
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Information" group-title="",Discovery HD Multi Audio
@@ -430,8 +318,6 @@ https://livess.jagobd.com.bd/live-orgin/atnbanglauk-off.stream/chunks.m3u8
 https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="BD" group-title="",Channel I(BD)
 http://208.86.19.13:81/510.stream/index.m3u8?
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="Jagobd" group-title="",Ekushay TV(Jagobd)
-https://livess.jagobd.com.bd/live-orgin/ekusheytv-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="BDIX" group-title="",Ekushay TV(BDIX)
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="BD" group-title="",Ekushey TV(BD)
@@ -446,8 +332,8 @@ https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w818
 https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="BD" group-title="",RTV(BD)
 https://freeiptv25.netlify.app/live/bdix/app/Rtv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="BD" group-title="",Deepto TV(BD)
-https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Jagobd" group-title="",Deepto TV(Jagobd)
+https://livess.jagobd.com.bd/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="Jagobd" group-title="",Asian TV(Jagobd)
 https://livess.jagobd.com.bd/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="BD" group-title="",Asian TV(BD)
@@ -464,6 +350,8 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 http://cdn01.palki.tv/live/Channel9-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="Palki TV" group-title="",Nexus TV HD(Palki TV)
 http://cdn01.palki.tv/live/NexusTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="Jagobd" group-title="",Nexus TV HD(Jagobd)
+https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png"group-title="Palki TV" group-title="",Global TV(Palki TV)
 http://cdn01.palki.tv/live/GlobalTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"group-title="Jagobd" group-title="",Green TV(Jagobd)
@@ -584,6 +472,8 @@ http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="BD" group-title="",EurosportsMOB)
 http://148.113.5.31:8106/play/a00m/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="BD" group-title="",Eurosports HD(BD)
+https://od.lk/s/ODRfNzIxOTM2OTdf/Eurosport_HD_English.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="BD" group-title="",Eurosports(BD)
 https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/Eurosport.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Subir" group-title="",Discovery HD Multi Audio(Subir)
@@ -960,8 +850,6 @@ http://watchindia.net:8880/live/83023/62335/2186.m3u8
 https://mahabubur@bunyhlsipla.bunycdn.com/live/720pa.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", ✅ IPL 2
 https://CSKvsLSG@bunyhlsipla.bunycdn.com/live/720pa.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", ✅ Astro Crickt HD ✅
-https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Sky Sports Cricket📶 HD
 https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Sky Sports Cricket📶 HD
@@ -990,20 +878,14 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://202.21.104.6:88/sps-play/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", Match HD 🇷🇺
 https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜",  Sports HD USA EPL
-https://ovo.eelov.com/live/n-1/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜",   FIFA+
 https://i.mjh.nz/SamsungTVPlus/CABD1200008JG.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜",  CCTV 5 Sports
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜",  Eleven Sports 2
 https://kusnadipepenk.github.io/ntn/elesp2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", Eleven Sports 3
 https://kusnadipepenk.github.io/ntn/elesp3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", Canal Sports 3
 http://145.239.5.177:8080/538/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", TNT Sport 3
-https://ovo.eelov.com/live/n-3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Football 🛜", Astro Supersport 1
 http://abcnew.site:8880/live/3ca7043n02/dsf23e423/59220.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Football 🛜", Astro Supersport 1
