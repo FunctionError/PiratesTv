@@ -44,7 +44,11 @@ Primarily focused on Bangladeshi users (Use Vlc for PC)
 ```bash
 https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 ```
+Use this link for Toffee Tsports and M3U all-in-one link 👇 ( [Use Ott Navigator for android](https://t.me/piratestvdb/2) )
 
+```bash
+https://iptv.piratestv.workers.dev/all
+```
 
 # Contributing
 
