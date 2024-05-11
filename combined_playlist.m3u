@@ -244,6 +244,8 @@ https://webhdrus.onlinehdhls.ru/lb/premium64/index.m3u8?|referer=https://olalive
 https://webhdrus.onlinehdhls.ru/lb/premium94/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%204.jpeg"group-title="Sports" group-title="",Bein Sports 4
 https://webhdrus.onlinehdhls.ru/lb/premium95/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="Sports" group-title="",Bein Sports 5
+https://webhdrus.onlinehdhls.ru/lb/premium96/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BD" group-title="",Bein Sports 6
 https://webhdrus.onlinehdhls.ru/lb/premium98/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BD,Bein Sports Premium 1
@@ -368,8 +370,6 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://livess.ncare.live/live-orgin/dwnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png"group-title="English News" group-title="",France 24
-https://livess.ncare.live/live-orgin/fr24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSv6JJBp/WION-TV-logo.jpg" group-title="English News", WION
 http://cdn01.palki.tv/live/WION-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Surongo.jpeg" group-title="Bangla Movies",Surongo
@@ -404,6 +404,8 @@ http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
 http://cdn01.palki.tv:80/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD" group-title="",BTV Sangsad(BD)
 http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Jagobd" group-title="",ATN Bangla(Jagobd)
+https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Jagobd" group-title="",ATN Bangla UK(Jagobd)
 https://livess.jagobd.com.bd/live-orgin/atnbanglauk-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Jagobd" group-title="",Channel I(Jagobd)
@@ -778,10 +780,14 @@ https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png" group-title="Live Tv",Boishakhi Tv
 https://tv5.hoichoi24.com/1007/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Channel_S_Logo.SVG/640px-Channel_S_Logo.SVG.png" group-title="Live Tv",Channels S
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/ChanneliBD.png/revision/latest?cb=20200206105403" group-title="Live Tv",Channel I
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="Live Tv",Ekushey Tv
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", tvg-logo="https://moviebangla.tv/images/moviebanglatv-02.png" group-title="Live Tv",Movie Bangla
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYpGDz-6AaKzNNef-vaoHsf16Tyt7niUXAH9vFq=s900-c-k-c0x00ffffff-no-rj" group-title="Live Tv",NRB Tv
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Live Tv",Rtv
@@ -922,8 +928,6 @@ https://d3crfo4z0fi27n.cloudfront.net/hls/271112a688f858f17673fd1bc02766d6/index
 http://103.151.60.214:7444/1101/video.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", GTV 
 http://103.151.60.214:7444/1102/video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", Astro Crickt HD ✅
-https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", IPL 1 (Star Sports1) 1
 http://watchindia.net:8880/live/83023/62335/2186.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", ✅ IPL 1
@@ -984,6 +988,8 @@ https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 https://code.vthanhtivi.pw/getlink/eazie/243126/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png", TLC HD
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png", TLC English
+https://od.lk/s/ODRfNzIxOTE5NjVf/TLC.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png", Animal Planet Multi Audio
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png" group-title="Infotainment Channels", Animal Planet HD
@@ -997,6 +1003,8 @@ https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/mBanglaavel%20XP.png", Travel Channel (BD)
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Travel%20XP1664976451.png", Travel Channel (BD)
+https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Travel%20XP1664976451.png", Travel Channel (BD)
 https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Infotainment Channels",Gusto TV
 https://i.mjh.nz/SamsungTVPlus/CABB2500021YQ.m3u8
@@ -1008,6 +1016,8 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
 #EXTINF:-1 tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png" group-title="Infotainment Channels", Asian Food Network
 https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
+#EXTINF:-1 tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png" group-title="Infotainment Channels", Asian Food Network
+https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TH5rfJM/SMITHSONIANCHANNEL.png" group-title="Infotainment Channels", Adventure Earth
 https://i.mjh.nz/SamsungTVPlus/GBBC900015D3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", Wonder (L*)
