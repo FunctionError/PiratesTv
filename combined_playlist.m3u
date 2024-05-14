@@ -252,8 +252,6 @@ https://webhdrus.onlinehdhls.ru/lb/premium32/index.m3u8?|referer=https://olalive
 https://webhdrus.onlinehdhls.ru/lb/premium33/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",TNT Sports 4
 https://webhdrus.onlinehdhls.ru/lb/premium34/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Super Sports Football
-https://webhdrus.onlinehdhls.ru/lb/premium56/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Super Sports Cricket
 https://webhdrus.onlinehdhls.ru/lb/premium368/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Super Sports Grandstand
@@ -356,8 +354,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="English News" group-title="",Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-logo=""group-title="English News" group-title="",DW
-https://livess.ncare.live/live-orgin/dwnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSv6JJBp/WION-TV-logo.jpg" group-title="English News", WION
@@ -814,6 +810,8 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/MYcrmTg-2FfK3mVvNsjttNsXXTLfUG7i3QjMd0fzticooxMwLMK0NQdyQSMnF0iC9lg" group-title="Live Tv",AMC (1080p)
 https://amchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png", ATN Music
+https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png",Maasranga TV
 http://cdn01.palki.tv:80/live/MaasrangaTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png",Channel 24
@@ -978,8 +976,6 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
 #EXTINF:-1 tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png" group-title="Infotainment Channels", Asian Food Network
 https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
-#EXTINF:-1 tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png" group-title="Infotainment Channels", Asian Food Network
-https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TH5rfJM/SMITHSONIANCHANNEL.png" group-title="Infotainment Channels", Adventure Earth
 https://i.mjh.nz/SamsungTVPlus/GBBC900015D3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", Wonder (L*)
