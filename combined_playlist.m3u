@@ -102,8 +102,6 @@ https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"group-title="Bangla" group-title="",Green TV
 https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg"group-title="Bangla" group-title="",CHANNEL S HD
-https://livess.ncare.live/live-orgin/chsukoff.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg"group-title="KIDS" group-title="",Duronto TV
 http://cdn01.palki.tv/live/Duronto-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png"group-title="KIDS" group-title="",Kids Creation
@@ -196,6 +194,8 @@ https://od.lk/s/ODRfNzIxOTE5Njdf/Investigation_Discovery.m3u8
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="Information" group-title="",TLC HD
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8k0rH0MK/CGTN-Documentary-logo.png" group-title="Information", CGTN Documentary
+https://livess.ncare.live/live-orgin/cgtndoc.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Information" group-title="",Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Information" group-title="",Travel XP GB
@@ -254,6 +254,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="English News" group-title="",Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English News" group-title="",DW
+https://livess.ncare.live/live-orgin/dwnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png"group-title="English News" group-title="",France 24
@@ -284,10 +286,6 @@ http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
 http://cdn01.palki.tv:80/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD" group-title="",BTV Sangsad(BD)
 http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Jagobd" group-title="",ATN Bangla(Jagobd)
-https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Jagobd" group-title="",ATN Bangla UK(Jagobd)
-https://livess.jagobd.com.bd/live-orgin/atnbanglauk-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Jagobd" group-title="",Channel I(Jagobd)
 https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="BD" group-title="",Channel I(BD)
@@ -346,6 +344,8 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/live-orgin/jonmobhumitv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Jagobd" group-title="",Millennium TV USA
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Jagobd" group-title="",NAN TV
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nantv.stream/live-orgin/nantv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Jagobd" group-title="",NRB TV
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/live-orgin/nrb-eu.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Jagobd" group-title="",Rajdhani TV
@@ -484,8 +484,6 @@ https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/TLC.m3u8
 http://148.113.5.31:8106/play/a00p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BD" group-title="",Nat Geo Wild(BD)
 http://148.113.5.31:8106/play/a00y/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BD" group-title="",Nat Geo Wild(BD)
-https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD" group-title="",Wild Earth(BD)
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="BD" group-title="",Travel XP GB(BD)
@@ -700,8 +698,6 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="Live Tv",MBC 3 EUR (1080p)
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="Live Tv",MBC 4 (1080p)
-https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="Live Tv",MBC 5 (1080p)
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Live Tv",MBC Bollywood (1080p) 
@@ -828,6 +824,8 @@ https://kusnadipepenk.github.io/ntn/elesp2.m3u8
 https://kusnadipepenk.github.io/ntn/elesp3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", Canal Sports 3
 http://145.239.5.177:8080/538/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", TNT Sport 3
+https://ovo.eelov.com/live/n-3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Football 🛜", Astro Supersport 1
 http://abcnew.site:8880/live/3ca7043n02/dsf23e423/59220.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", Xplore TV 📶 
