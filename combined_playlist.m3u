@@ -316,8 +316,6 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
-#EXTINF:-1 tvg-logo=""group-title="English News" group-title="",DW
-https://livess.ncare.live/live-orgin/dwnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png"group-title="English News" group-title="",France 24
@@ -474,16 +472,14 @@ https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-logo="https://i.postimg.cc/9QfZFpLp/1128-bollywood-clasic.jpg", Bollywood Classic 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-logo="https://i.postimg.cc/qRxKtdV2/20240407-210013.png", My Cinema FHD
+http://210.210.155.35/session/ceb2a3cc-fe47-11ee-8b94-9bb3a735be54/uq2663/h/h192/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-logo="https://i.postimg.cc/SRyj1S5r/bollywood-hd.jpg",Bollywood HD 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-logo="https://i.postimg.cc/SRyj1S5r/bollywood-hd.jpg",Bollywood FHD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-logo="https://i.postimg.cc/KzmBgP5J/Bollywood-Prime-thumbnail.png",Bollywood Prime 
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-logo="https://i.postimg.cc/qRxKtdV2/20240407-210013.png",Colors Cineplex Boyhood
-https://keralamaxtv.com/vt/stream.m3u8?id=Colors_Cineplex_Bollywood
-#EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-logo="https://i.postimg.cc/qRxKtdV2/20240407-210013.png",MTV_Beats_HD
-https://keralamaxtv.com/vt/stream.m3u8?id=MTV_Beats_HD
 #EXTINF:-1 tvg-logo="" group-title="SEREIS" tvg-logo="https://i.postimg.cc/GmqVfnYC/20240407-210101.png",Star Jalsha SD🪙
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SEREIS" tvg-logo="https://i.postimg.cc/GmqVfnYC/20240407-210101.png",Colors Bangla 
