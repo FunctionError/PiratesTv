@@ -326,12 +326,8 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
-#EXTINF:-1 tvg-logo=""group-title="English News" group-title="",DW
-https://livess.ncare.live/live-orgin/dwnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png"group-title="English News" group-title="",France 24
-https://livess.ncare.live/live-orgin/fr24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSv6JJBp/WION-TV-logo.jpg" group-title="English News", WION
 http://cdn01.palki.tv/live/WION-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Surongo.jpeg" group-title="Bangla Movies",Surongo
@@ -448,6 +444,8 @@ https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 http://cdn01.palki.tv/live/Independent-M/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png", Independent News
 https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png", Ekattor TV
+http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png", JAMUNA TV 
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png", Movie Bangla
@@ -476,8 +474,6 @@ http://cdn01.palki.tv/live/EkhonTV-M/index.m3u8
 http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png", Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png", Boishakhi TV
-http://cdn01.palki.tv/live/BoishakhiTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png", Deepto Tv SD
 http://cdn01.palki.tv/live/DeeptoTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png", Deepto Tv FHD
