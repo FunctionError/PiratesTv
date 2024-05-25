@@ -88,8 +88,6 @@ http://starshare.live:8080/live/Sylvia/Sylvia/304291.m3u8
 http://starshare.live:8080/live/Sylvia/Sylvia/304286.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024" group-title="",IPL 2024 Live Bangla 4K
 http://starshare.live:8080/live/Sylvia/Sylvia/304296.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024" group-title="",IPL 2024 T Sports
-http://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=221571b860f9cbafd0867e2916b7e43e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024" group-title="",IPL 2024 Gazi TV
 http://starshare.live:8080/live/Sylvia/Sylvia/767.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024" group-title="",IPL 2024 Gazi TV
@@ -142,8 +140,6 @@ http://cdn01.palki.tv/live/GlobalTV-M/tracks-v1a1/mono.m3u8
 https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg"group-title="Bangla" group-title="",CHANNEL S HD
 https://livess.ncare.live/live-orgin/chsukoff.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg"group-title="KIDS" group-title="",Duronto TV
-http://cdn01.palki.tv/live/Duronto-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png"group-title="KIDS" group-title="",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="Bangla News" group-title="",Ekattor TV
@@ -228,8 +224,6 @@ http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports" group-title="",Star Sports 2
 http://starshare.live:8080/live/Sylvia/Sylvia/98865.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports" group-title="",Star Sports 2
-http://homeip.biz/2ST_Glob/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Sports" group-title="",Star Sports Select 1
 http://starshare.live:8080/live/Sylvia/Sylvia/98867.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports" group-title="",Star Sports Select 2
@@ -246,8 +240,6 @@ http://starshare.live:8080/live/Sylvia/Sylvia/29469.m3u8
 http://starshare.live:8080/live/Sylvia/Sylvia/98870.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports" group-title="",Sports 18 1 SD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Sports18_1_SD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports" group-title="",Sports 18 1 HD
-https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=362e7cda610177dd0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports" group-title="",Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="Sports" group-title="",PTV Sports
@@ -370,6 +362,8 @@ https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png"group-title="English News" group-title="",France 24
+https://livess.ncare.live/live-orgin/fr24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSv6JJBp/WION-TV-logo.jpg" group-title="English News", WION
 http://cdn01.palki.tv/live/WION-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Surongo.jpeg" group-title="Bangla Movies",Surongo
@@ -430,10 +424,6 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" group-title="", GEO KAHANI 
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" group-title="", PTC PUNJABI 
-https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" group-title="", PTC PUNJABI GOLD 
-https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv" tvg-logo="https://i.postimg.cc/q7rP4LNF/Zee-Anmol.png",Zee Anmol
 http://170.254.18.107/ZEECINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" group-title="Live Tv",GUBBARE KIDS 
@@ -576,6 +566,8 @@ https://CSKvsLSG@bunyhlsipla.bunycdn.com/live/720pa.m3u8
 https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", ✅ Astro Crickt HD ✅
 https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Sky Sports Cricket📶 HD
+https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", ✅ Super Sports Cricket
 https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", ✅ ATN AFG TV
