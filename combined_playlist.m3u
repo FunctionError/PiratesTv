@@ -54,8 +54,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716736846/ei/7
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716736847/ei/7_5SZrLfBsPgsfIPp5WYmAk/ip/13.91.68.146/id/DfF2eSiiOuc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f02SWs0GRLJoc1ti6rNHNG36jMBBNG_vO3kkberb_EmTD4otz_bRQFUiVOs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgU-NGMMpmTWQZzyVtr27z3wl7RfPKlak7QC3YC9K1BMECIQCBvTyszBYbUqXV9OO09vKkSY8inbhj-eKsXPjmje0jIA%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla" group-title="",BTV National
 http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg"group-title="ICC Mens T20 World Cup 2024" group-title="",T Sports HD
-http://starshare.live:8080/live/Sylvia/Sylvia/18452.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg"group-title="ICC Mens T20 World Cup 2024" group-title="",Star Sports 1 HD
 http://starshare.live:8080/live/Sylvia/Sylvia/98864.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg"group-title="ICC Mens T20 World Cup 2024" group-title="",Cric Life 1
@@ -229,8 +227,6 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="Sports" group-title="",PTV Sports
 http://121.91.61.106:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="Sports" group-title="",A Sports
-http://121.91.61.106:8000/play/a03o/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="Sports" group-title="",A Sports
 http://homeip.biz/PK_PS/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports" group-title="",Ten Sports PK
 http://121.91.61.106:8000/play/a04h/index.m3u8
@@ -300,6 +296,8 @@ https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-
 http://starshare.live:8080/live/Sylvia/Sylvia/8.m3u8
 #EXTINF:-1 tvg-logo=""group-title="KIDS" group-title="",Hungama TV
 https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=41a15257f3d69e742
+#EXTINF:-1 tvg-logo=""group-title="KIDS" group-title="",Super Hungama TV
+https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=8cc4f85dc0437a8c3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="KIDS" group-title="",Pogo
 https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS" tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg",Zoo Moo
@@ -336,8 +334,12 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English News" group-title="",DW
+https://livess.ncare.live/live-orgin/dwnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png"group-title="English News" group-title="",France 24
+https://livess.ncare.live/live-orgin/fr24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSv6JJBp/WION-TV-logo.jpg" group-title="English News", WION
 http://cdn01.palki.tv/live/WION-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Surongo.jpeg" group-title="Bangla Movies",Surongo
