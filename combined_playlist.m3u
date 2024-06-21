@@ -54,6 +54,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719008613/ei/B
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719008613/ei/Bal1ZsDcNtvrir4Pi6GjqAo/ip/23.96.249.173/id/FC9yLSAFs2Y.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1NxYc2jgA6F78p0VevQ7I97EU3VXPZa9l9flNhDmrQOs83vLQGYJw2LhfQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgfbHgHRx2lzCG8pYObD_XwLKIhYBAvJknAhj4SYeogDQCIQDmZrOnDtIqqssWeRXTv7R_vLaPXUYVqpjVKLA7qecpeg%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla" group-title="",ATN Bangla
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg"group-title="ICC Mens T20 World Cup 2024" group-title="",Star Sports 1 HD
+https://tv5.hoichoi24.com/1005/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg"group-title="ICC Mens T20 World Cup 2024" group-title="",Star Sports 2 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg"group-title="ICC Mens T20 World Cup 2024" group-title="",Star Sports 1 HD Hindi
@@ -64,10 +66,6 @@ http://145.239.5.177:8080/567/index.m3u8
 http://145.239.5.177:8080/566/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Euro%20Cup%202024.png"group-title="EURO Cup 2024" group-title="",Bein Sports 2
 http://145.239.5.177:8080/558/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla" group-title="",ATN Bangla UK
-https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Bangla" group-title="",Channel I
-https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangla" group-title="",NTV UK
 https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="Bangla" group-title="",RTV
@@ -78,6 +76,8 @@ https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangla" group-title="",Bangla TV Europe
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png"group-title="Bangla" group-title="",Banglavision
+https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png"group-title="Bangla" group-title="",Boishakhi TV
 https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"group-title="Bangla" group-title="",Green TV
@@ -204,6 +204,8 @@ https://epiconvh.s.llnwi.net/gubbare/master_720.m3u8
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies" group-title="",Star Movies HD UK
 http://148.113.5.31:8106/play/a00o/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English Movies" group-title="",HBO
+http://103.110.110.11:8081/live/hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Music",Hindi Hits HD
@@ -226,12 +228,8 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
-#EXTINF:-1 tvg-logo=""group-title="English News" group-title="",DW
-https://livess.ncare.live/live-orgin/dwnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png"group-title="English News" group-title="",France 24
-https://livess.ncare.live/live-orgin/fr24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Surongo.jpeg" group-title="Bangla Movies",Surongo
 https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv" tvg-logo="https://i.imgur.com/9gffd60.png",Makkah Tv
@@ -296,6 +294,10 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 https://amchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png",SATV TV
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png",DBC NEWS 
+https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png", Independent News
+https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png", JAMUNA TV 
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png", Movie Bangla
@@ -306,6 +308,8 @@ https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png",Mohona Tv
 https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png", Channel I
+https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png", Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png", Deepto Tv FHD
