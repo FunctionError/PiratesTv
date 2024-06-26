@@ -52,6 +52,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719461959/ei/5
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719461959/ei/55N8Zor6L4HFsfIPn_CUoAI/ip/52.234.26.80/id/fUE1Vwo81R0.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f50k7aZndV4iRBwB_aB4XI2qvb4sAp5N9vVvrOLt9x57RIqsf1nfr18qTBk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgHBeuCjEQ_Ca-IARdRHyWmSDoIgvXmZ20tTvL84uh08QCIExfyesvaJHEuC-wQzCrl42oNFTif6ryI-fU94dLK0eq/file/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian News" tvg-logo="https://yt3.googleusercontent.com/vZFILuFswtjUIU5oRCc79rxRdML5A_c-D_6AdvgAAd0hqSrJihyJFkT_CTSjYwSrHgiPAAozebY=s176-c-k-c0x00ffffff-no-rj" tvg-id="", ZEE NEWS
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719461960/ei/6JN8ZoeHHcqLsfIPmeumgA0/ip/52.234.26.80/id/jJbV0m6AH0g.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fz-nUcAaBWOsgJec4AINCiLXMn82Og7-tmjeKNcsnsZZ74jVgeTHsneS8tg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL9O_ADyCIBPmVPbtLZvYKoPrIaeWgEVphvkPmTHbPATAiBBimCpMxVqqorHTz55Pq7fsWYOIz59IQGy4Vr0SaWdfQ%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla" group-title="",ATN Bangla
+https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg"group-title="ICC Mens T20 World Cup 2024" group-title="",Toffee Live Match 1
 https://kicc.rkbdmoza.xyz/live.php?id=4edcfc36d49f&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg"group-title="ICC Mens T20 World Cup 2024" group-title="",Star Sports 1 HD
@@ -76,8 +78,6 @@ https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/60580
 http://145.239.5.177:8080/566/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Euro%20Cup%202024.png"group-title="EURO Cup 2024" group-title="",Bein Sports 2
 http://145.239.5.177:8080/558/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla" group-title="",ATN Bangla
-https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla" group-title="",ATN Bangla UK
 https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangla" group-title="",NTV UK
@@ -212,8 +212,6 @@ https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="KIDS" group-title="",Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master_720.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg"group-title="English Movies" group-title="",Action Hollywood Movies
-https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies" group-title="",Star Movies HD UK
 http://148.113.5.31:8106/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English Movies" group-title="",HBO
