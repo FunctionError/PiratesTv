@@ -52,8 +52,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719872659/ei/M
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719872660/ei/NNiCZru-B97CsfIPjbaQiAI/ip/20.172.5.34/id/mAyvgZkIH5s.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51214392/txs/51214391%2C51214392%2C51214393%2C51214394/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAUxRjc73k6gEk7x0FwYeVnOJsSPPxeFxrlAquMGhmHjKNk8inZ-1hsPyImQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAP9Qz-oOCsmwm024nxC5yc1Z0Z-I987oz60nRyYLgcXAAiEA8MUk9nXh1IlCUHDJ8uynwGmXHee6BhEvRa7mkiSv3qA%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian News" tvg-logo="https://yt3.googleusercontent.com/vZFILuFswtjUIU5oRCc79rxRdML5A_c-D_6AdvgAAd0hqSrJihyJFkT_CTSjYwSrHgiPAAozebY=s176-c-k-c0x00ffffff-no-rj" tvg-id="", ZEE NEWS
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719872660/ei/NNiCZsylNd6_sfIP_vW28AU/ip/20.172.5.34/id/ofNJUutaIm8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181252/txs/51181249%2C51181250%2C51181251%2C51181252%2C51181253%2C51181254/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAUiWBWk-EL00YwuB8v7jfu1Ju-7eaW4hDbLEYo1aXQ0RH8FgG1utukXGGmU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMXpoqDrr-woNg78to5EuXBbpqGtD55FZ7lY0T3VQM_qAiBoDaGB4AyKL-xfBCcWxpE_sdG3ScTuQ6wNxd4EeTW2sQ%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla" group-title="",ATN Bangla
-https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", PTV Sports 
 http://121.91.61.106:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", A Sports T_20 World Cup
@@ -80,6 +78,8 @@ https://s6.hopslan.com/servus2/index.m3u8
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", TXNMax 1
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TvMbnLR/download-2.png" group-title="Football 🛜", CCTV5 HD
+https://node3.olelive.com:6443/live/CCTV5HD_360/hls.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TvMbnLR/download-2.png" group-title="Football 🛜",  CCTV 5 Sports
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜",  Eleven Sports 2
