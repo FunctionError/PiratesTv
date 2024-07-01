@@ -54,10 +54,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719839945/ei/a
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719839946/ei/aliCZqiWD6Ovlu8Pot6fsAI/ip/172.183.131.134/id/v3XxhJ9PmlU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwA2TBq-4J8t1y_Q7Ulj9wQyFe8AvT00La0DDyvIJSaF9DcBcFllxFam8J8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgP-vyZG6Ls6xTGJPzmbx8N3EwLw55fQyORCBPDdyTrsUCIHFWqAGY3LdRep3dzFT_Q3qM8LcRy0qPJucEqhpl5goU/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla" group-title="",ATN Bangla
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7TyjmX/108693714.jpg" group-title="Cricket 🏏", Willow HD 
-https://mm5-97.tinyuri.org/live/m4-index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y8CfWm5/2-18.webp " group-title="Cricket 🏏", Willow Xtra HD 
-https://mm5-97.tinyuri.org/live/m4-index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", PTV Sports 
 http://121.91.61.106:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", A Sports T_20 World Cup
@@ -98,6 +94,8 @@ http://145.239.5.177:8080/538/index.m3u8
 https://livess.ncare.live/live-orgin/makkahtv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPdPzcn/IMG-20240126-102629.jpg"group-title="ISLAMIC CHANNELS" group-title="",ATN ISLAMIC TV
 https://livess.ncare.live/live-orgin/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/YdZR2jZ/IMG-20240129-062846.jpg",ISLAM Tv
+https://livess.ncare.live/live-orgin/islamtv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ISLAMIC CHANNELS" tvg-logo="https://i.postimg.cc/j2d5bG7T/download-11.png",Al Sunnah Al Nabawiyah TV
 https://livess.ncare.live/live-orgin/madina.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/VjGgqcc/images-2024-03-02-T220831-913.jpg",ISLAM Bangla
