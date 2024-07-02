@@ -54,8 +54,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719959169/ei/I
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719959170/ei/ISqEZpLXPMm1kucPnZSdsAI/ip/52.184.149.133/id/GsQVrWRNM7o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181298/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAYdtTfJ5RswpuposcI32r2bGYBr_a85lkh98jglfkWnab4Fsun_pd09A65Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgalWuGkwqXUXrqQ9YW84O3rCDB8X1lM6s3Qt1gYTrp14CIQCvsaCULaptV6l2VKxEmTgdznwRotWMcdXep-nI1Wv14A%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VB9y6Mf/download-3.png" group-title="Cricket 🏏", LPL 24 Worldwide Fancode 
 https://1rdk.short.gy/LPL-2024-Worldwide/50fps-auto/Join-TG-@HimelOP_Official.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", PTV Sports 
-http://121.91.61.106:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", A Sports T_20 World Cup
 https://homeip.biz/PK_PS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", ✅ ATN AFG TV
@@ -64,6 +62,8 @@ https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8K4KxYr/download-2.png" group-title="Football 🛜",  Super Sports HD 
+http://145.239.5.177:8080/566/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K4KxYr/download-2.png" group-title="Football 🛜",  Sports HD USA EPL
 https://ovo.eelov.com/live/n-1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMhQHDt/images.png" group-title="Football 🛜", TRT 1
