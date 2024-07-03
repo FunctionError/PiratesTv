@@ -53,8 +53,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720055711/ei/P
 #EXTINF:-1 tvg-logo="" group-title="Indian News" tvg-logo="https://yt3.googleusercontent.com/vZFILuFswtjUIU5oRCc79rxRdML5A_c-D_6AdvgAAd0hqSrJihyJFkT_CTSjYwSrHgiPAAozebY=s176-c-k-c0x00ffffff-no-rj" tvg-id="", ZEE NEWS
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720055712/ei/QKOFZuuEG5DGsfIPoYO2sA8/ip/13.91.68.86/id/BVcbplHNaYg.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181296/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAZx_gIuzFauaOUxPAbaic2GsNEF6lw3CYwqQKuJo29d0iZsfTRGy0HWNfb4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgAJIwhI2h66fFHPSMtFL2xkC5o4iMBqiZ-44n8rc9CO8CIQCimOe4wWY1Pg4u1vhWnxjjpl3M67cduqFUyzCLF_fFJw%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL" group-title="",LPL 2024 T Sports 
-https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL" group-title="",LPL 2024 T Sports 
 https://bdix.proximitybd.xyz/lanka.php?id=live-01&e.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL" group-title="",LPL 2024 T Sports 
 https://bdix.proximitybd.xyz/lanka.php?id=live-02&e.m3u8
@@ -82,6 +80,8 @@ https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HHC5xv4/images.png" group-title="Football 🛜", Servus TV 🏆
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist_b3096000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TvMbnLR/download-2.png" group-title="Football 🛜", CCTV5 HD
+https://node3.olelive.com:6443/live/CCTV5HD_360/hls.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", Canal Sports 3
 http://145.239.5.177:8080/538/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/VjGgqcc/images-2024-03-02-T220831-913.jpg",ISLAM Bangla
