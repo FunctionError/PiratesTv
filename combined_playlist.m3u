@@ -68,8 +68,6 @@ https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D9KhnQN/download-4.jpg" group-title="Football 🛜", Premier Sports 1  🏆
-https://cdn.hotflix-bd.online/hotflixbd/Premier-sports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png" group-title="",group-title="Football 🛜", COPA AMERICA 2024 🏆
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7VZqMNk/download-4.png" group-title="Football 🛜", VTC 1 HD 🏆
@@ -93,6 +91,8 @@ https://dai.google.com/ssai/event/XUmyfp_MQk2H_cTDIvz6aA/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", Xplore TV 📶 
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://11plus.live/img/dis.png" group-title="Infotainment Channels",Discovery_Bangla
+https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png", Discovery HD
 https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png", Discovery HD (Subir)
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
@@ -148,8 +148,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Infinity_SD_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",DMAX
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", RT News (EN) 🛜
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", CNBC Indonesia (EN) 🛜
