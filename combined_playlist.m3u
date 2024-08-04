@@ -54,6 +54,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722813411/ei/g
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722813412/ei/hLevZqPlF5OKsfIPzou36Ak/ip/13.91.68.82/id/OhkRsN3qTis.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51230697/txs/51230696%2C51230697%2C51230698%2C51230699%2C51230700%2C51230701%2C51230702/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bARXd05w_U9Lh9uFeEjQOC4MbL39zKRxhNhpy5Yk-u_cdxcDg36qmVJyinR0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMYTxvvBqRMka-JvYKICmGv5D646itdC_kkiAjxTS58KAiEA0IGy1EVrEbFVAF_D998wueFatIzbP7rTyjPCKCsBTB0%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Copa%20America%202024.png"group-title="Copa America 2024" group-title="",Live Copa America 2024 Final
 http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL" group-title="",LPL 2024 T Sports 
+http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="Bangla" group-title="",Asian TV
 https://mtlivestream.site/asian/ytlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangla" group-title="",Bangla TV
@@ -174,6 +176,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Information",Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo=""group-title="KIDS" group-title="",Gubbare
+https://epiconvh.s.llnwi.net/gubbare/master_720.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",CNN
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",DW
@@ -214,8 +218,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi1/default/zeemarathi1.m3u
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkieshd1/default/zeetelkieshd1.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8849-j7pqmypc-v2/imageContent-8849-j7pqmypc-m3.png" group-title="ZEE5",Zee Cinemalu
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rc9V6fv/download-2.jpg" group-title="Cricket 🏏", Jamuna TV 
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?channel-id=@JamunaTVbd
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Event TV 📶 HD
 https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Redbull TV
@@ -230,6 +232,10 @@ https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", Canal Sports 3
 http://145.239.5.177:8080/538/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1mPjQ4L/download-4.jpg" group-title="Bangladeshi 📺",Independent TV
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k4yxkv4/download-3.jpg" group-title="Bangladeshi 📺",Ekattor TV
+https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3rnwvDD/download-2.jpg" group-title="Bangladeshi 📺",Ekhon TV
 https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/VjGgqcc/images-2024-03-02-T220831-913.jpg",ISLAM Bangla
