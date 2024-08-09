@@ -88,8 +88,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH2PYV0B/BFlix-Movies.jpg" group-title="Hindi Movies",BFlix Movies
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports" group-title="",Star Sports 1 HD
-http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports" group-title="",Star Sports 1 HD Hindi
 https://humsab.xyz/In_Hin/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports" group-title="",Sports 18 1 HD
@@ -202,6 +200,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports" group-title="",Star Sports 1 HD
 http://103.151.60.2:5050/hoichoi24.com-help-you/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports" group-title="",Star Sports 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports" group-title="",Sony Sports Ten 5 HD
 http://humsab.xyz/S_Ten5/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Astro Cricket
@@ -256,6 +256,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png" group-title="",group-title="Football 🛜", TV Azteca 🏆
 https://ch1-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png" group-title="",group-title="Football 🛜", Soco Live 🏆
+https://pull.niues.live/live/stream-9912096_lsd.m3u8?auth_key=1718481015-0-0-cbe72d7ce511ce3fb2319d8190a7cec8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7VZqMNk/download-4.png" group-title="Football 🛜", VTC 1 HD 🏆
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMhQHDt/images.png" group-title="Football 🛜", TRT 1 🏆
