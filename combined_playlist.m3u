@@ -160,8 +160,6 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Bangla News" group-title="",Independent TV
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Bangla News" group-title="",DBC News
-https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movie%20Bangla.png",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Kolkata Bangla Movies" group-title="",Zee Bangla Cinema
@@ -198,8 +196,6 @@ http://103.84.57.155:8000/play/a027/index.m3u8
 http://humsab.xyz/S_Ten5/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports" group-title="",Sony Sports Ten 5.
 http://103.84.57.155:8000/play/a028/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Astro Cricket
-http://195.26.87.217/live/00:1A:79:17:C0:71/4048/33317.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Information",Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="English Movies" group-title="",Movies Now HD
@@ -248,8 +244,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?channel-id=@JamunaTVbd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rc9V6fv/download-2.jpg" group-title="Cricket 🏏", Jamuna TV 
 https://utube.buddyxiptv.com/@jamunatvbd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3rYngJk/Sony-BBC-Earth.png" group-title="Cricket 🏏", SONY BBC EARTH HD
-https://fmrx.short.gy/bdixiptvhub/sony_bbc_earth_hd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", ✅ ATN AFG TV
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Event TV 📶 HD
@@ -260,6 +254,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png" group-title="",group-title="Football 🛜", TV Azteca 🏆
 https://ch1-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png" group-title="",group-title="Football 🛜", Soco Live 🏆
+https://pull.niues.live/live/stream-9912096_lsd.m3u8?auth_key=1718481015-0-0-cbe72d7ce511ce3fb2319d8190a7cec8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7VZqMNk/download-4.png" group-title="Football 🛜", VTC 1 HD 🏆
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMhQHDt/images.png" group-title="Football 🛜", TRT 1 🏆
