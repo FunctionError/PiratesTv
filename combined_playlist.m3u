@@ -18,8 +18,12 @@ https://utube.piratestv.workers.dev/@atnnewsltd.m3u8
 https://utube.piratestv.workers.dev/@banglavisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6HDLsKKFbUIuEMbMP-f5RJ3m6kitqb-5MC9bxf4RfmoamWg0uEktC6nFjDt73m1CSkuK3NXm=s176-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi", Channel 24
 https://utube.piratestv.workers.dev/@channel24digital.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/eqxKhU9ty3Kr1CsG8bYcsAvXzEItOmE4qMxydBPg0i6w1jBiAiz6dJjnggYXz9mJQ1R05ZGv=s176-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi", Ntv Live
+https://utube.piratestv.workers.dev/@NTVDigitalLive.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/oG8z-BPo2bbfUxta79CTDiK0PLBJMp329D0v3aJTT44F8YAP1SwYBfL9pC2fTVljqkdlHMZUOpw=s176-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi", Ekhon Live
 https://utube.piratestv.workers.dev/@ekhontv.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nL2jYMpSFZHSV47_1T3Kdx_oACYy6EB7G9bzWr_UQJMw=s176-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi", BTV LIVE
+https://utube.piratestv.workers.dev/@BangladeshTelevision-BTV.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lDIrPets2sL60aHssqiKPYPG_hKToPg-pWEEwCiuujfUM=s176-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi", MYTV live
 https://utube.piratestv.workers.dev/@mytvbangla.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/XAXrE3YwNHxebtX1eUj1NDUTRoZRI-Na-DC4JmnYnpre79JtSURdL_SX9nrgqXjQUzkqZQ-Jpw=s176-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi", Deshtv News
@@ -50,8 +54,6 @@ https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Kolkata Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Bangla +
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png" group-title="Kolkata Bangla Movies",Khushboo Bangla
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",Sony Kal
@@ -72,6 +74,8 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports" group-title="",Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports" group-title="",Star Sports 1 HD Hindi
+https://humsab.xyz/In_Hin/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports" group-title="",Sports 18 1 HD
 https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=362e7cda610177dd0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports" group-title="",Eurosports
@@ -250,6 +254,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png" group-title="",group-title="Football 🛜", TV Azteca 🏆
 https://ch1-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png" group-title="",group-title="Football 🛜", Soco Live 🏆
+https://pull.niues.live/live/stream-9912096_lsd.m3u8?auth_key=1718481015-0-0-cbe72d7ce511ce3fb2319d8190a7cec8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7VZqMNk/download-4.png" group-title="Football 🛜", VTC 1 HD 🏆
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMhQHDt/images.png" group-title="Football 🛜", TRT 1 🏆
