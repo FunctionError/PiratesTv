@@ -1,5 +1,9 @@
 #EXTM3U
 # All the links in this file are collected from public sources. If anyone wants to remove their source, please let us know. We respect your opinions and efforts, so we will not object to removing your source. https://www.t.me/PiratesTv_ch
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Copa%20America%202024.png"group-title="Copa America 2024" group-title="",Live Copa America 2024 Final
+http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL" group-title="",LPL 2024 T Sports 
+http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangla" group-title="",Bangla TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangla" group-title="",Bangla TV Europe
@@ -108,8 +112,6 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Surongo.jpeg" group-title="Bangla Movies",Surongo
 https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_3.m3u8
-#EXTINF:-1 tvg-logo="https://observerbd.com/2024/07/09/ob_1720459823.jpg"group-title="BD VS PAK" group-title="",BD VS PAK Gazi TV
-https://api.flixtronic.top/public/master.m3u8?id=gazitv
 #EXTINF:-1 tvg-logo="https://observerbd.com/2024/07/09/ob_1720459823.jpg"group-title="BD VS PAK" group-title="",BD VS PAK T Sports
 https://api.flixtronic.top/public/master.m3u8?id=tsports
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla" group-title="",T Sports 
@@ -158,6 +160,8 @@ https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TtHtGkW/20240803-172601.png" group-title="Relagion Channel", Makkah TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png" group-title="Relagion Channel", AL Sunnah TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Relagion Channel", EWTN TV
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/qrpsvkxl/720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Relagion Channel",God TV
@@ -374,6 +378,8 @@ https://z88.ubtvfans.com/live/rx4/2367/be327d3419942a1883b9307a11638b3c/index.m3
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7VZqMNk/download-4.png" group-title="Football", VTC 1 HD 🏆
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k4yxkv4/download-3.jpg" group-title="Bangladeshi 📺",Ekattor TV
+https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3rnwvDD/download-2.jpg" group-title="Bangladeshi 📺",Ekhon TV
 https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sK9W8X7/download-4.jpg" group-title="ISLAMIC CHANNELS", Peace Tv Bangla
@@ -482,10 +488,14 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/thechanneltv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="JagoBD" tvg-logo=" ",SATV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="JagoBD" tvg-logo=" ",RTV HD
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="JagoBD" tvg-logo=" ",Rajdhani TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="JagoBD" tvg-logo=" ",NRB TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="JagoBD" tvg-logo=" ",Nexus TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="JagoBD" tvg-logo=" ",NASA TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nasatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="JagoBD" tvg-logo=" ",Movie Bangla
@@ -502,6 +512,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/islamtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="JagoBD" tvg-logo=" ",Iqra Bangla
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="JagoBD" tvg-logo=" ",Independent TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="JagoBD" tvg-logo=" ",Ekhon TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="JagoBD" tvg-logo=" ",DW News
