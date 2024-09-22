@@ -238,8 +238,6 @@ http://103.84.57.155:8000/play/a02c/index.m3u8
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_bbc_earth_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png" group-title="Information",Star Life HD
 http://103.84.57.155:8000/play/a0ce/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Information",Food Food
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/d6673a24-f87e-405e-b558-f7d8d0a196df/1.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Information",Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="KIDS" group-title="",Sony Yay
@@ -462,6 +460,8 @@ https://varun-iptv.netlify.app/m3u/TLC.m3u8
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Cricket 🏏", RTA Sports HD 🔗🏏
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=t_sports
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="",Super sports action 
 https://sports.bdixtv24.com/m3u8.php/superactions.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="",Super Sports laliga 
