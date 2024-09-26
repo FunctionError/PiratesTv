@@ -1,5 +1,9 @@
 #EXTM3U
 # All the links in this file are collected from public sources. If anyone wants to remove their source, please let us know. We respect your opinions and efforts, so we will not object to removing your source. https://www.t.me/PiratesTv_ch
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Copa%20America%202024.png"group-title="Copa America 2024" group-title="",Live Copa America 2024 Final
+http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL" group-title="",LPL 2024 T Sports 
+http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangla" group-title="",Bangla TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangla" group-title="",Bangla TV Europe
@@ -304,6 +308,8 @@ http://103.84.57.155:8000/play/a035/index.m3u8
 http://103.84.57.155:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Sony Ten 3 HD- Rs 17
 http://103.84.57.155:8000/play/a02q/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SET HD - Rs 19
+http://103.84.57.155:8000/play/a084/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Sony BBC EarHD-Rs 10
 http://103.84.57.155:8000/play/a09q/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",MTV - Rs 3
@@ -378,6 +384,8 @@ http://103.84.57.155:8000/play/a0c9/index.m3u8
 http://103.84.57.155:8000/play/a08r/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",nick - Rs 6
 http://103.84.57.155:8000/play/a03v/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Star Plus HD -Rs 19
+http://103.84.57.155:8000/play/a080/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CARTOON-Rs4.25
 http://103.84.57.155:8000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",MTV Beats- 10p
