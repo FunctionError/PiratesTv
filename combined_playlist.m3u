@@ -190,8 +190,6 @@ http://103.84.57.155:8000/play/a0c8/index.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures1/default/andpictures1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Movies 
 https://cdn2.pishow.tv/live/156/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Movies HD
-https://api.iptvbd.xyz/api/b4u_movies.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",BOLLYWOOD PRIME
 https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/../../../manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood HD
@@ -302,6 +300,8 @@ http://103.84.57.155:8000/play/a035/index.m3u8
 http://103.84.57.155:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Sony Ten 3 HD- Rs 17
 http://103.84.57.155:8000/play/a02q/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SET HD - Rs 19
+http://103.84.57.155:8000/play/a084/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Sony BBC EarHD-Rs 10
 http://103.84.57.155:8000/play/a09q/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",MTV - Rs 3
@@ -354,8 +354,6 @@ http://103.84.57.155:8000/play/a00s/index.m3u8
 http://103.84.57.155:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Colors HD-Rs 19
 http://103.84.57.155:8000/play/a082/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",&flix HD-Rs 19
-http://103.84.57.155:8000/play/a083/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",MN+ HD-Rs 10
 http://103.84.57.155:8000/play/a08s/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",National G HD-Rs10
@@ -382,6 +380,8 @@ http://103.84.57.155:8000/play/a04t/index.m3u8
 http://103.84.57.155:8000/play/a045/index.m3u8#EXTINF:0,Sony Ten 1 HD- Rs 19
 #EXTINF:-1 tvg-logo="" group-title="",NAT Geo Wild HD-Rs 5
 http://103.84.57.155:8000/play/a02c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ZEE TV HD-Rs 19
+http://103.84.57.155:8000/play/a081/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Star Gold Thrills- Rs 2
 http://103.84.57.155:8000/play/a0c7/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Star Sports S 1 HD-Rs 19
@@ -392,6 +392,8 @@ http://103.84.57.155:8000/play/a02p/index.m3u8
 http://103.84.57.155:8000/play/a09p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",PTV-Home
 http://103.84.57.155:8000/play/a0b1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SONY SAB - Rs 19
+http://103.84.57.155:8000/play/a0a8/index.m3u8#EXTINF:0,&PRIVE HD-Rs 19
 #EXTINF:-1 tvg-logo="" group-title="",&flix - Rs 15
 http://103.84.57.155:8000/play/a033/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ANIMAL PLAN HD-Rs 3
