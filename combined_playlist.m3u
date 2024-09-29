@@ -4,8 +4,6 @@
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangla" group-title="",Bangla TV Europe
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
-#EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png"group-title="KIDS" group-title="",Kids Creation
-https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Bangla Movies",Amar Digital
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Kolkata Bangla",Enter 10 Bangla
@@ -186,8 +184,6 @@ http://103.84.57.155:8000/play/a0c8/index.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures1/default/andpictures1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Movies 
 https://cdn2.pishow.tv/live/156/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Movies HD
-https://api.iptvbd.xyz/api/b4u_movies.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",BOLLYWOOD PRIME
 https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/../../../manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood HD
@@ -226,6 +222,8 @@ https://venomxop.com/play.m3u8?id=fox501
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 2
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Astro Cricket
+http://195.26.87.217/live/00:1A:79:17:C0:71/4048/33317.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png"group-title="Information" group-title="",Discovery Asia HD
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Information" group-title="",Nat Geo Wild
