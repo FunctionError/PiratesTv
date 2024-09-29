@@ -256,8 +256,6 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://ythls-v3.onrender.com/channel/UCNEKMkg_DG8eAyR1BNWsSvw.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies" group-title="",Star Movies HD
 http://212.102.34.8:9080/StarMoviesHD/video.m3u8
-#EXTINF:-1 tvg-logo=""group-title="English Movies" group-title="",HBO
-http://103.110.110.11:8081/live/hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="English Movies" group-title="",Movies Now
 http://103.84.57.155:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png"group-title="English Movies" group-title="",MNX HD
@@ -354,6 +352,8 @@ http://103.84.57.155:8000/play/a00s/index.m3u8
 http://103.84.57.155:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Colors HD-Rs 19
 http://103.84.57.155:8000/play/a082/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",&flix HD-Rs 19
+http://103.84.57.155:8000/play/a083/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",MN+ HD-Rs 10
 http://103.84.57.155:8000/play/a08s/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",National G HD-Rs10
@@ -374,6 +374,8 @@ http://103.84.57.155:8000/play/a0c9/index.m3u8
 http://103.84.57.155:8000/play/a08r/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",nick - Rs 6
 http://103.84.57.155:8000/play/a03v/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Star Plus HD -Rs 19
+http://103.84.57.155:8000/play/a080/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CARTOON-Rs4.25
 http://103.84.57.155:8000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",MTV Beats- 10p
