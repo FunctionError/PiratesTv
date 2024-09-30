@@ -108,12 +108,12 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Surongo.jpeg" group-title="Bangla Movies",Surongo
 https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_3.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqaY0q6kef3nM2tLQA5VFwIwHLl4TbiH5s8qql4bDSa-6a0h_7Z-jdfUq&s=10"group-title="BD VS IN" group-title="",BD VS IN Live
-http://103.191.241.10/BDvIND/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqaY0q6kef3nM2tLQA5VFwIwHLl4TbiH5s8qql4bDSa-6a0h_7Z-jdfUq&s=10"group-title="BD VS IN" group-title="",BD VS IN Toffee Live
 https://fdev.short.gy/IndVbanxRanapk.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqaY0q6kef3nM2tLQA5VFwIwHLl4TbiH5s8qql4bDSa-6a0h_7Z-jdfUq&s=10"group-title="BD VS IN" group-title="",BD VS IN Toffee Live
 https://fifabd.xyz/TOFE/play.m3u8?id=match-2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqaY0q6kef3nM2tLQA5VFwIwHLl4TbiH5s8qql4bDSa-6a0h_7Z-jdfUq&s=10"group-title="BD VS IN" group-title="",BD VS IN T Sports
+http://103.190.85.38/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqaY0q6kef3nM2tLQA5VFwIwHLl4TbiH5s8qql4bDSa-6a0h_7Z-jdfUq&s=10"group-title="BD VS IN" group-title="",BD VS IN TNT Sports 1
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19051/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqaY0q6kef3nM2tLQA5VFwIwHLl4TbiH5s8qql4bDSa-6a0h_7Z-jdfUq&s=10"group-title="BD VS IN" group-title="",BD VS IN Jio TV
@@ -124,8 +124,6 @@ https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tsports/op.m3u8?id=li
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tsports/op.m3u8?id=live-02
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangla" group-title="",NTV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=5149cfic&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4VtHQpf/20240907-023221.png" group-title="Bangla", BONGO DRAMAS
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-dramas
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Relagion Channel", Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
 #EXTINF:-1 tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="Relagion Channel", Peace TV English
@@ -148,8 +146,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/zeebangla1.m3u8
 https://cdn3.pishow.tv/live/281/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Kolkata Bangla Movies" group-title="",Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSODXopSh2u8VcsSla7jVngvcZ0V5XA-sZsXA&usqp=CAU"group-title="Kolkata Bangla Movies" group-title="",Sananda TV
-http://54.38.79.60:2020/sananda/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Kolkata Bangla Movies" group-title="",Colors Bangla Cinema
+http://217.20.112.199/colorsbangla/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Tara Bangla Cinema
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png" group-title="Kolkata Bangla Movies",Khushboo Bangla
@@ -230,6 +228,8 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 https://venomxop.com/play.m3u8?id=fox501
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 1
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 2
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Astro Cricket
 http://195.26.87.217/live/00:1A:79:17:C0:71/4048/33317.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png"group-title="Information" group-title="",Discovery Asia HD
@@ -280,142 +280,38 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",Sky News
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Disney Chan-Rs8
-http://103.84.57.155:8000/play/a03u/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star Sports 3 Rs 4
-http://103.84.57.155:8000/play/a02r/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",PTV-Teleschool
-http://103.84.57.155:8000/play/a0b3/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Disney Jr.-Rs 4
-http://103.84.57.155:8000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DiscoveryScienc-Rs1
-http://103.84.57.155:8000/play/a0bw/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",HISTORY TV18 HD-Rs 7
-http://103.84.57.155:8000/play/a09n/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",MAX HD -Rs 17
-http://103.84.57.155:8000/play/a02b/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",FOX Life HD-Rs 2
-http://103.84.57.155:8000/play/a0ce/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Romedy NOW-Rs 6
-http://103.84.57.155:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",MOVIES NO-Rs 10
-http://103.84.57.155:8000/play/a034/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Sony Ten 3 HD- Rs 17
-http://103.84.57.155:8000/play/a02q/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Sony BBC EarHD-Rs 10
-http://103.84.57.155:8000/play/a09q/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",MTV - Rs 3
-http://103.84.57.155:8000/play/a040/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star Sport - Rs19
-http://103.84.57.155:8000/play/a02g/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DiscoveryTurbo-Rs1
-http://103.84.57.155:8000/play/a0bx/index.m3u8#EXTINF:0,BBC WORLD - Rs 1
-#EXTINF:-1 tvg-logo="" group-title="",Vh1 - Rs 1
-http://103.84.57.155:8000/play/a041/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",PTV-SPORTS-HD
-http://103.84.57.155:8000/play/a0b4/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",PTV-World
-http://103.84.57.155:8000/play/a0b5/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",SIX HD - Rs 19
-http://103.84.57.155:8000/play/a028/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Sony Ten 4 - Rs 17
-http://103.84.57.155:8000/play/a03r/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",&pictures HD -Rs 19
-http://103.84.57.155:8000/play/a09u/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",SONIC- Rs 2
-http://103.84.57.155:8000/play/a03y/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",STAR BHARAT HD-Rs 19
-http://103.84.57.155:8000/play/a09k/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",MARVEL HQ- Rs 4
-http://103.84.57.155:8000/play/a03w/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star Sports1 Kan Rs19 
-http://103.84.57.155:8000/play/a06x/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Evergreen Classics-Rs45
-http://103.84.57.155:8000/play/a0ca/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Discovery HD-Rs6
-http://103.84.57.155:8000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star Spo 1 HD-Rs19
-http://103.84.57.155:8000/play/a025/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",CNN INTL - 50p
-http://103.84.57.155:8000/play/a02x/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star Sports-Rs7
-http://103.84.57.155:8000/play/a02k/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star GOLD HD -Rs 10
-http://103.84.57.155:8000/play/a09m/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star Sports S 2 HD-Rs 10
-http://103.84.57.155:8000/play/a09z/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY K-Rs3
-http://103.84.57.155:8000/play/a050/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",PTV-NEWS HD
-http://103.84.57.155:8000/play/a0b2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",TLC HD- Rs3
-http://103.84.57.155:8000/play/a00s/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",MNX - Rs 6
-http://103.84.57.155:8000/play/a030/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",&flix HD-Rs 19
-http://103.84.57.155:8000/play/a083/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",MN+ HD-Rs 10
-http://103.84.57.155:8000/play/a08s/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",National G HD-Rs10
-http://103.84.57.155:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star Spo 2 HD- Rs19
-http://103.84.57.155:8000/play/a026/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star Sport-Rs19
-http://103.84.57.155:8000/play/a02d/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Nick Jr. - Rs1
-http://103.84.57.155:8000/play/a042/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Pogo - Rs 4.25
-http://103.84.57.155:8000/play/a03z/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",ZEE CINEMA HD-Rs 19
-http://103.84.57.155:8000/play/a09j/index.m3u8#EXTINF:0,Star Sport- Rs19
-#EXTINF:-1 tvg-logo="" group-title="",Star Gold 2- Rs 2
-http://103.84.57.155:8000/play/a0c9/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",ZEE Cafe HD - Rs19
-http://103.84.57.155:8000/play/a08r/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",nick - Rs 6
-http://103.84.57.155:8000/play/a03v/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star Plus HD -Rs 19
-http://103.84.57.155:8000/play/a080/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",CARTOON-Rs4.25
-http://103.84.57.155:8000/play/a04t/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",MTV Beats- 10p
-http://103.84.57.155:8000/play/a045/index.m3u8#EXTINF:0,Sony Ten 1 HD- Rs 19
-#EXTINF:-1 tvg-logo="" group-title="",NAT Geo Wild HD-Rs 5
-http://103.84.57.155:8000/play/a02c/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",ZEE TV HD-Rs 19
-http://103.84.57.155:8000/play/a081/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star Gold Thrills- Rs 2
-http://103.84.57.155:8000/play/a0c7/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star Sports S 1 HD-Rs 19
-http://103.84.57.155:8000/play/a09y/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star Sport-Rs17
-http://103.84.57.155:8000/play/a02p/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star Gold SelHD-Rs 10
-http://103.84.57.155:8000/play/a09p/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",PTV-Home
-http://103.84.57.155:8000/play/a0b1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",SONY SAB - Rs 19
-http://103.84.57.155:8000/play/a0a8/index.m3u8#EXTINF:0,&PRIVE HD-Rs 19
-#EXTINF:-1 tvg-logo="" group-title="",&flix - Rs 15
-http://103.84.57.155:8000/play/a033/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",ANIMAL PLAN HD-Rs 3
-http://103.84.57.155:8000/play/a09l/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",STAR MOV HD-Rs 19
-http://103.84.57.155:8000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",SONY MAX 2 - Rs 1
-http://103.84.57.155:8000/play/a0cc/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star Gold Romance- Rs 2
-http://103.84.57.155:8000/play/a0c8/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Sony Ten 2 HD- Rs 17
-http://103.84.57.155:8000/play/a0a0/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",StarMov S HD-Rs 10
-http://103.84.57.155:8000/play/a00w/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",PIX HD - Rs 15
-http://103.84.57.155:8000/play/a09t/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY K-Rs3
-http://103.84.57.155:8000/play/a044/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",hungama tv-Rs 6
-http://103.84.57.155:8000/play/a03t/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Toffee",Sony Sports Ten 1
+https://api.iptvbd.xyz/api/sony_ten1_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Toffee",Sony Sports Ten 2
+https://api.iptvbd.xyz/api/sony_ten2_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Toffee",Sony Sports Ten 3
+https://api.iptvbd.xyz/api/sony_ten3_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Toffee",Sony Sports Ten 5
+https://api.iptvbd.xyz/api/sony_six_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Toffee",Sony Entertainment SD
+https://api.iptvbd.xyz/api/sony_entertainment.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Toffee",Sony Entertainment HD
+https://api.iptvbd.xyz/api/sony_entertainmnt_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Toffee",Sony Max SD
+https://api.iptvbd.xyz/api/sony_max.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Toffee",Sony Max HD
+https://api.iptvbd.xyz/api/set_max_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Toffee",B4U Music
+https://api.iptvbd.xyz/api/b4umusic.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Toffee",Sony Aath
+https://api.iptvbd.xyz/api/sony_aath.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Toffee",Sony Sab HD
+https://api.iptvbd.xyz/api/sony_sab_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Toffee",Sony Max 2
+https://api.iptvbd.xyz/api/sony_max_2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Toffee",Sony Wah
+https://api.iptvbd.xyz/api/sony_wah.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Toffee",Sony Yay
+https://api.iptvbd.xyz/api/sony_bbc_earth_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Toffee",Sony PIX
+https://api.iptvbd.xyz/api/sony_pix_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Toffee",B4U Movies
+https://api.iptvbd.xyz/api/b4u_movies.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G5TKDgC/20240727-185919.jpg" group-title="BDIX IPTV HUB",@bdixiptvhub
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE0MGVkOTEtYTQzMC00ZGQ5LWEzN2ItZGNkMTgzOTg3MDI2XkEyXkFqcGdeQXVyMTMyMTM0Mzcz._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Tofan
@@ -460,6 +356,8 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QYRP552/images-1.jpg" group-title="Cricket 🏏",SOMOY TV
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/qF3VTKB/download-1.png",SL vs NZ Sony Live
+https://dai.google.com/linear/hls/event/FgOj57oiSEyp5FLaDUhRWA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Cricket 🏏", RTA Sports HD 🔗🏏
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD
