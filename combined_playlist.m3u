@@ -220,10 +220,6 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 https://venomxop.com/play.m3u8?id=fox501
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 1
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 2
-http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Astro Cricket
-http://195.26.87.217/live/00:1A:79:17:C0:71/4048/33317.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png"group-title="Information" group-title="",Discovery Asia HD
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Information" group-title="",Nat Geo Wild
@@ -282,8 +278,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpicturesh
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="ZEE5",ZEE Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="ZEE5",& tv HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="ZEE5",Zee tv HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11969-j9luigc0-v2/imageContent-11969-j9luigc0-m2.png" group-title="ZEE5",Zee Anmol
