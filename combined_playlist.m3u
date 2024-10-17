@@ -10,8 +10,6 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png"group-title="KIDS" group-title="",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Bangla Movies",Amar Digital
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Kolkata Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Bangla +
@@ -140,8 +138,6 @@ https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Relagion Channel" tvg-logo="https://i.ibb.co/3YdcbgR/Picsart-23-06-27-22-56-51-911.png",SUNNAH TV
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
-#EXTINF:-1 tvg-logo="" group-title="Relagion Channel", EWTN TV
-https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/qrpsvkxl/720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Relagion Channel",God TV
 https://hlsb-us.god.tv/GODTV/USA-480.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Relagion Channel", Arihant TV
@@ -162,8 +158,6 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 https://cdn3.pishow.tv/live/283/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="Kolkata Bangla Music",Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Music",Dhoom Music
-https://cdn3.pishow.tv/live/279/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian Bangla News" tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png",ABP Ananda
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/news18-bangla-news.png" group-title="Indian Bangla News",News18 Bangla News
@@ -210,8 +204,6 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 https://venomxop.com/play.m3u8?id=fox501
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 1
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 2
-http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Astro Cricket
 http://195.26.87.217/live/00:1A:79:17:C0:71/4048/33317.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png"group-title="Information" group-title="",Discovery Asia HD
@@ -226,6 +218,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Information",Food Food
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/d6673a24-f87e-405e-b558-f7d8d0a196df/1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS" group-title="",Nick JR
+http://103.110.110.11:8081/live/NickJR/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png"group-title="KIDS" group-title="",Sonic Bangla
 http://103.84.57.155:8000/play/a03y/index.m3u8
 #EXTINF:-1 tvg-logo=""group-titleBangla" group-title="",Hungama TV
