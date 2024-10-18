@@ -1,9 +1,5 @@
 #EXTM3U
 # All the links in this file are collected from public sources. If anyone wants to remove their source, please let us know. We respect your opinions and efforts, so we will not object to removing your source. https://www.t.me/PiratesTv_ch
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Copa%20America%202024.png"group-title="Copa America 2024" group-title="",Live Copa America 2024 Final
-http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL" group-title="",LPL 2024 T Sports 
-http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangla" group-title="",Bangla TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangla" group-title="",Bangla TV Europe
@@ -220,6 +216,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Information",Food Food
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/d6673a24-f87e-405e-b558-f7d8d0a196df/1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS" group-title="",Nick JR
+http://103.110.110.11:8081/live/NickJR/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png"group-title="KIDS" group-title="",Sonic Bangla
 http://103.84.57.155:8000/play/a03y/index.m3u8
 #EXTINF:-1 tvg-logo=""group-titleBangla" group-title="",Hungama TV
@@ -276,6 +274,10 @@ https://fdev.short.gy/PakVenGxRanaPk.m3u8
 https://s@d2yxu0gr4ksneg.cloudfront.net/out/v1/ed259f6465634f6382767e23f564e695/index_7.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Cricket 🏏", RTA Sports HD 🔗🏏
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", Star Sports 1 HD
+https://bdiptv24.com/sports/m3u8.php/star1in.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="",Willow Cricbuzz
+https://bdiptv24.com/sports/m3u8.php/willowusa.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/m93xNWV/download-6.jpg",PTV Sports 🏏 
 https://proximity-fire-team.xyz/play.php/willowusa.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m93xNWV/download-6.jpg" group-title="Cricket 🏏", PTV Sports HD
