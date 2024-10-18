@@ -220,8 +220,6 @@ http://103.84.57.155:8000/play/a0ce/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Information",Love Nature UHD
 http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Information",Food Food
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/d6673a24-f87e-405e-b558-f7d8d0a196df/1.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png"group-title="KIDS" group-title="",Sonic Bangla
 http://103.84.57.155:8000/play/a03y/index.m3u8
 #EXTINF:-1 tvg-logo=""group-titleBangla" group-title="",Hungama TV
@@ -284,18 +282,6 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 http://starshare.live:8080/live/Habib/Habib/158442.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", Paper Sports HD
 http://starshare.live:8080/live/Habib/Habib/269552.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", Star Sports 1 HD
-https://bdiptv24.com/sports/m3u8.php/star1in.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", Astro Cricket
-http://46.250.234.136:8080/live/778899/778899/49.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", Ten Cricket-Sports HD
-http://46.250.234.136:8080/live/778899/778899/9134.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", Ten Sports
-http://46.250.234.136:8080/live/778899/778899/145.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", Super Sports Maximo
-http://46.250.234.136:8080/live/778899/778899/1675.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="",Willow Cricbuzz
-https://bdiptv24.com/sports/m3u8.php/willowusa.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/m93xNWV/download-6.jpg",PTV Sports 🏏 
 http://46.250.234.136:8080/live/778899/778899/9208.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m93xNWV/download-6.jpg" group-title="Cricket 🏏", PTV Sports HD
@@ -338,6 +324,8 @@ https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/ind
 https://himel-op.top/Join-Telegram-@HimelOP_Official/laliga-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png" group-title="",group-title="Football", Football 2024 🏆
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VZqMNk/download-4.png" group-title="Football", VTC 1 HD 🏆
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sK9W8X7/download-4.jpg" group-title="ISLAMIC CHANNELS",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GprTxvx/IMG-20240126-102504.jpg"group-title="ISLAMIC CHANNELS" group-title="",Islam Bangla
