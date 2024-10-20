@@ -56,6 +56,8 @@ https://od.lk/s/ODRfNzIxOTE5Njdf/Investigation_Discovery.m3u8
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="Information" group-title="",TLC HD
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information" group-title="",Nat Geo HD
+http://103.110.110.11:8081/live/NGC/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Information" group-title="",Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Information" group-title="",Travel XP GB
@@ -174,6 +176,8 @@ https://server.playontv.in/SAMAYKOLKATA/index.m3u8
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Hindi" group-title="",Star Plus HD
 http://217.20.112.199/starplushd/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi" group-title="",Zee TV
+http://103.110.110.11:8081/live/zeetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Movies 
 https://cdn2.pishow.tv/live/156/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",BOLLYWOOD PRIME
