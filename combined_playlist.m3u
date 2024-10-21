@@ -244,12 +244,8 @@ https://varun-iptv.netlify.app/m3u/TLC.m3u8
 https://fdev.short.gy/BDMATCHxRANAPK.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",PTV Sports 🇧🇵🇰
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",STYX Sports HD 2
-https://ams1.styxsports.com:5443/LiveApp/streams/2Oj0R1ALVUcjgJxt4332103373172931.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",ACC Asia Cup 2024 HD 
 https://1rdk.short.gy/BAN-VS-HKG/Himel-Op.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", STYX Sports HD 3
-https://ams1.styxsports.com:5443/LiveApp/streams/2Oj0R1ALVUcjgJxt4332103373172931.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Wild Nature
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",4k Nature
@@ -274,6 +270,8 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 http://starshare.live:8080/live/Habib/Habib/158442.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", Paper Sports HD
 http://starshare.live:8080/live/Habib/Habib/269552.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", Astro Cricket
+http://46.250.234.136:8080/live/778899/778899/49.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/m93xNWV/download-6.jpg",PTV Sports 🏏 
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m93xNWV/download-6.jpg" group-title="Cricket 🏏", PTV Sports HD
@@ -350,12 +348,16 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/jfbNHpj/download-5.png", Discovery HD
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/jfbNHpj/download-5.png", Discovery HD B
+https://freeott.site/discovery/Discovery_Channel.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png", TLC (L*)
 https://code.vthanhtivi.pw/getlink/eazie/243126/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png", TLC HD
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png", TLC English
 https://od.lk/s/ODRfNzIxOTE5NjVf/TLC.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png", TLC English B
+https://altogether-007.netlify.app/discovery/api/TLC.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png", Animal Planet Multi Audio
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png" group-title="Infotainment Channels", Animal Planet HD
@@ -380,6 +382,8 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/44bFXMZ/download-4.png" group-title="Infotainment Channels", Asian Food Network
 https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44bFXMZ/download-4.png" group-title="Infotainment Channels", Food Network
+https://altogether-007.netlify.app/discovery/api/Food%20Network.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="", Live Event
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News
