@@ -292,30 +292,14 @@ http://103.124.251.164:28015/play/a01j/index.m3u8
 http://103.124.251.164:28015/play/a00r/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",STAR JALSHA HD
 http://103.124.251.164:28015/play/a009/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",STAR MOVIES HD
-http://103.124.251.164:28015/play/a005/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",STAR SPORTS 1 SD
 http://103.124.251.164:28015/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",SUN MUSIC
 http://103.124.251.164:28015/play/a01i/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",SUPER HUNGAMA
-http://103.124.251.164:28015/play/a02n/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star GOLD HD
-http://103.124.251.164:28015/play/a00u/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star Plus HD
-http://103.124.251.164:28015/play/a00o/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",TLC HD
-http://103.124.251.164:28015/play/a02l/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TRVAEL XP
 http://103.124.251.164:28015/play/a01n/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",ZEE BANGLA HD
-http://103.124.251.164:28015/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ZEE CINEMALU HD
 http://103.124.251.164:28015/play/a01g/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",ZEE TV HD
-http://103.124.251.164:28015/play/a037/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Colors Bangla HD
-http://103.124.251.164:28015/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Nick HD+
 http://103.124.251.164:28015/play/a00y/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg",T Sports 🇧🇩
@@ -348,6 +332,16 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 http://starshare.live:8080/live/Habib/Habib/158442.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", Paper Sports HD
 http://starshare.live:8080/live/Habib/Habib/269552.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", Astro Cricket
+http://46.250.234.136:8080/live/778899/778899/49.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", Ten Cricket-Sports HD
+http://46.250.234.136:8080/live/778899/778899/9134.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", Ten Sports
+http://46.250.234.136:8080/live/778899/778899/145.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", Super Sports Maximo
+http://46.250.234.136:8080/live/778899/778899/1675.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD B
+http://lifetvbd.xyz:8080/live/778899/778899/2105.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/m93xNWV/download-6.jpg",PTV Sports 🏏 
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m93xNWV/download-6.jpg" group-title="Cricket 🏏", PTV Sports HD
@@ -380,8 +374,6 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", O Sports 
 https://f77zvuxbr89.a.trbcdn.net/reserv9/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",SETANTA ua
-https://s44gx6hkds2.a.trbcdn.net/SetantaUA/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",  Grar TV
 https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png" group-title="",group-title="Football",Football TV85 🏆
