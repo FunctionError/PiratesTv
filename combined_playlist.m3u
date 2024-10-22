@@ -12,8 +12,6 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png"group-title="KIDS" group-title="",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Bangla Movies",Amar Digital
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Kolkata Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Bangla +
@@ -186,6 +184,8 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 https://venomxop.com/play.m3u8?id=fox501
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 1
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 2
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Astro Cricket
 http://195.26.87.217/live/00:1A:79:17:C0:71/4048/33317.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png"group-title="Information" group-title="",Discovery Asia HD
@@ -244,24 +244,12 @@ http://103.124.251.164:28015/play/a03b/index.m3u8
 http://103.124.251.164:28015/play/a03i/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Star Sports Select 2 HD
 http://103.124.251.164:28015/play/a02x/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",Disnep Junior
-http://103.124.251.164:28015/play/a02m/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",&FLIX HD
-http://103.124.251.164:28015/play/a01s/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",&PICTURES HD
-http://103.124.251.164:28015/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",&prive HD
 http://103.124.251.164:28015/play/a00z/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",ANIMAL PLANET HD
-http://103.124.251.164:28015/play/a00t/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",COLORS INFINITY HD
 http://103.124.251.164:28015/play/a02k/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Cartoon Network
 http://103.124.251.164:28015/play/a028/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DISNEY JUNIOR
-http://103.124.251.164:28015/play/a02m/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Discovery HD
-http://103.124.251.164:28015/play/a008/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ETV BAL BHARAT
 http://103.124.251.164:28015/play/a01l/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",EUROSPORT HD
@@ -280,18 +268,6 @@ http://103.124.251.164:28015/play/a01z/index.m3u8
 http://103.124.251.164:28015/play/a03c/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Korean Drama Act
 http://103.124.251.164:28015/play/a03d/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",NAT GEO HD
-http://103.124.251.164:28015/play/a007/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",NatGeo Wild HD
-http://103.124.251.164:28015/play/a00h/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",STAR BHARAT HD
-http://103.124.251.164:28015/play/a00s/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",STAR GOLD ROMANCE
-http://103.124.251.164:28015/play/a01j/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",STAR GOLD SELECT HD
-http://103.124.251.164:28015/play/a00r/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",STAR JALSHA HD
-http://103.124.251.164:28015/play/a009/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",STAR SPORTS 1 SD
 http://103.124.251.164:28015/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",SUN MUSIC
@@ -334,14 +310,6 @@ http://starshare.live:8080/live/Habib/Habib/158442.m3u8
 http://starshare.live:8080/live/Habib/Habib/269552.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", Astro Cricket
 http://46.250.234.136:8080/live/778899/778899/49.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", Ten Cricket-Sports HD
-http://46.250.234.136:8080/live/778899/778899/9134.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", Ten Sports
-http://46.250.234.136:8080/live/778899/778899/145.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", Super Sports Maximo
-http://46.250.234.136:8080/live/778899/778899/1675.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD B
-http://lifetvbd.xyz:8080/live/778899/778899/2105.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/m93xNWV/download-6.jpg",PTV Sports 🏏 
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m93xNWV/download-6.jpg" group-title="Cricket 🏏", PTV Sports HD
