@@ -12,8 +12,6 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png"group-title="KIDS" group-title="",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Bangla Movies",Amar Digital
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Kolkata Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",Sony Kal
@@ -360,8 +358,14 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 https://test-tan-iota-90.vercel.app/live/bdix/app/ASPCRI.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",BeiN Sports 1 
+https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",BeIN Sports 1 🇨🇵
 http://213.176.3.72:1234/stream/FRANCE/966/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",BeIN Sports 2 🇨🇵
+http://213.176.3.72:1234/stream/FRANCE/970/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",BeIN Sports 3 🇨🇵
+http://213.176.3.72:1234/stream/FRANCE/bein3hdfr/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",BeIN Sports 2
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Live Sports Football 
@@ -376,26 +380,8 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 https://f77zvuxbr89.a.trbcdn.net/reserv9/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",SETANTA ua
 https://s44gx6hkds2.a.trbcdn.net/SetantaUA/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",  Sports TV 1
-https://8r1fp7ro6am.a.trbcdn.net/SportTV1/tracks-v4a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",  Sports TV 2
-https://8r1fp7ro6am.a.trbcdn.net/SportTV2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",  Sports TV 3
-https://8r1fp7ro6am.a.trbcdn.net/SportTV3/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",  Sports TV 4
-https://8r1fp7ro6am.a.trbcdn.net/SportTV4/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",  Sports TV 6
-https://8r1fp7ro6am.a.trbcdn.net/SportTV6/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",  Grar TV
 https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M7wKLds/images.png" group-title="Football", Laliga-DAZN 4
-https://zjdmi53knyt.a.trbcdn.net/dazn4/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Football", DAZN Sports 1 🏆EPL
-https://zjdmi53knyt.a.trbcdn.net/dazn1/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Football", DAZN Sports 2🏆 🇪🇺
-https://zjdmi53knyt.a.trbcdn.net/dazn2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football", DAZN Sports 3 
-https://zjdmi53knyt.a.trbcdn.net/dazn3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png" group-title="",group-title="Football",Football TV85 🏆
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7VZqMNk/download-4.png" group-title="Football", VTC 1 HD 🏆
