@@ -100,8 +100,6 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Fox Sports Cricket 501
 https://venomxop.com/play.m3u8?id=fox501
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 1
-http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 2
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Astro Cricket
@@ -272,7 +270,7 @@ http://213.176.3.72:1234/stream/FRANCE/966/master.m3u8
 http://213.176.3.72:1234/stream/FRANCE/970/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",BeIN Sports 3 🇨🇵
 http://213.176.3.72:1234/stream/FRANCE/bein3hdfr/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",BeIN Sports 2
+#EXTINF:-1 tvg-logo="" group-title="Football",BeIN Sports 1
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Live Sports Football 
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
