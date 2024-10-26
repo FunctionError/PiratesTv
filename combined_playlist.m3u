@@ -134,8 +134,6 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information" group-title="",Nat Geo HD
 http://103.110.110.11:8081/live/NGC/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Information" group-title="",Sony BBC Earth
-https://toffee.iptvbd.xyz/api/sony_bbc_earth_hd.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Information" group-title="",Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Information" group-title="",Travel XP GB
@@ -280,8 +278,6 @@ http://213.176.3.72:1234/stream/FRANCE/966/master.m3u8
 http://213.176.3.72:1234/stream/FRANCE/970/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",BeIN Sports 3 🇨🇵
 http://213.176.3.72:1234/stream/FRANCE/bein3hdfr/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",BeIN Sports 2
-http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Live Sports Football 
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",TYC Sports Play
