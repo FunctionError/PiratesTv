@@ -62,6 +62,8 @@ https://server.playontv.in/SAMAYKOLKATA/index.m3u8
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi" group-title="",Zee TV
+http://103.110.110.11:8081/live/zeetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies" tvg-logo="",The Movie Club
@@ -208,6 +210,8 @@ https://vhoichoi.viewlift.com/Renditions/20240918/1726653787189_88a8sna0ns9a8s7t
 https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGLADESH" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi Tv
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zGWjhVN/IMG-20240126-091620.png"group-title="Bangladeshi" group-title="",MOVIE BANGLA
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Animal_Planet
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Discovery_Bangla
@@ -240,8 +244,6 @@ https://ythls-v3.onrender.com/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 https://criccoder.pages.dev/astro.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", A Sports HD 
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=",ফুটবল সরাসরি 
-https://sportnext.online/hls/M1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=",সরাসরি আকাশ DTH
 http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/qYcmzmw/images-1.jpg", GXR WORLD 🇮🇳
