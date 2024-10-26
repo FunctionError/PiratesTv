@@ -92,6 +92,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports" group-title="",Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="Sports" group-title="",PTV Sports
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="Sports" group-title="",A Sports
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/GEO%20Super.png"group-title="Sports" group-title="",Geo Super
@@ -104,6 +106,8 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 https://venomxop.com/play.m3u8?id=fox501
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 1
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 2
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Astro Cricket
 http://195.26.87.217/live/00:1A:79:17:C0:71/4048/33317.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
@@ -218,10 +222,14 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Discovery_Bangla
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",TnT Sports 2 🇧🇩
+https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103145.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg",T Sports 🇧🇩
 https://tsports.iptvbd.xyz/master_1080.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg",T Sports 🇧🇩 HD
 https://fyfl.short.gy/017666.blogspot.com/0007.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",PTV Sports 🇧🇵🇰
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",ACC Asia Cup 2024 HD 
 https://1rdk.short.gy/BAN-VS-HKG/Himel-Op.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Wild Nature
@@ -264,6 +272,8 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 https://test-tan-iota-90.vercel.app/live/bdix/app/ASPCRI.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",BeiN Sports 1 
+https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",BeIN Sports 1 🇨🇵
 http://213.176.3.72:1234/stream/FRANCE/966/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",BeIN Sports 2 🇨🇵
