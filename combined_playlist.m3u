@@ -1,8 +1,6 @@
 #EXTM3U
 # All the links in this file are collected from public sources. If anyone wants to remove their source, please let us know. We respect your opinions and efforts, so we will not object to removing your source. https://www.t.me/PiratesTv_ch
 #EXTINF:-1 tvg-logo=""group-title="Live Sports" group-title="",Live
-https://tsports.iptvbd.xyz/master_1080.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live Sports" group-title="",Live
 https://cdn.livestreambd.com/TSportstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Bangla" group-title="",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
@@ -68,8 +66,6 @@ https://server.playontv.in/SAMAYKOLKATA/index.m3u8
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi" group-title="",Zee TV
-http://103.110.110.11:8081/live/zeetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies" tvg-logo="",The Movie Club
@@ -104,10 +100,10 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Fox Sports Cricket 501
 https://venomxop.com/play.m3u8?id=fox501
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 1
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 2
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Astro Cricket
-http://195.26.87.217/live/00:1A:79:17:C0:71/4048/33317.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
@@ -190,6 +186,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://cdn2.pishow.tv/live/141/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png"group-title="Hindi Music" group-title="",E24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Hindi Music" group-title="",8XM
+http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music" group-title="",Show Box
 https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="Hindi Music",Music India
@@ -274,6 +272,10 @@ https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
 http://213.176.3.72:1234/stream/FRANCE/966/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",BeIN Sports 2 🇨🇵
 http://213.176.3.72:1234/stream/FRANCE/970/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",BeIN Sports 3 🇨🇵
+http://213.176.3.72:1234/stream/FRANCE/bein3hdfr/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",BeIN Sports 2
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Live Sports Football 
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",TYC Sports Play
@@ -342,8 +344,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/wgIUsFu.png",BBC News
-https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
