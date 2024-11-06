@@ -82,6 +82,8 @@ https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa4
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood Classic HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports" group-title="",Star Sports 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports" group-title="",Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="Sports" group-title="",PTV Sports
@@ -212,22 +214,26 @@ https://varun-iptv.netlify.app/m3u/TLC.m3u8
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg", T Sports 🇧🇩 HD 1
+https://hotflixbd.online/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg", GTV Sports 🇧🇩
+https://hotflixbd.online/gtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD 4
+https://hotflixbd.online/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket 🏏", RTA Sports HD Ban Vs AFG
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="",Willow Cricbuzz
 https://crichd.filofilmes.art/sexy.php/willowusa.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="",Willow Cricbuzz
+https://hotflixbd.online/willow-cricket/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="",Willow Extra 
 https://crichd.filofilmes.art/sexy.php/willowextra.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", SKY SPORTS Cricket
-https://fr.globalplay.live/Sports-1/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", SKY SPORTS Cricket
 https://crichd.filofilmes.art/sexy.php/skyscric.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Sports 18-HD
 https://cdn-bd.televisionbd.com/Sports18-Hd/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", TnT Sports 2 🇧🇩
 https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103145.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD 4
-https://hotflixbd.online/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Wild Nature
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 4k Nature
@@ -300,6 +306,8 @@ https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Jamuna Tv
 https://ythls.armelin.one/channel/UCDj9HHrRUzlsTuPQN0PHxjw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", NTV 
+https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",RTV
 https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Somoy 
