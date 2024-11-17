@@ -4,10 +4,10 @@
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports" group-title="",Live
 https://spstr.abntv.live/hls/psstream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla" group-title="",ATN Bangla
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla" group-title="",ATN Bangla UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Bangla" group-title="",Channel I
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangla" group-title="",NTV UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="Bangla" group-title="",RTV
@@ -258,6 +258,10 @@ https://stream.spicefmbd.com/stream.m3u8
 https://criccoder.pages.dev/astro.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket 🏏", RTA Sports HD Ban Vs AFG
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", SKY SPORTS Cricket
+https://crichd.filofilmes.art/sexy.php/skyscric.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Sports 18-HD
+https://cdn-bd.televisionbd.com/Sports18-Hd/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", TnT Sports 2 🇧🇩
 https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103145.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="",TnT Sports 3
@@ -280,8 +284,6 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 https://bdiptv24.com/sports/m3u8.php/willowusa.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/m93xNWV/download-6.jpg",PTV Sports 🏏 
 https://crichd.filofilmes.art/sexy.php/supercricket.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="",Ten Sports PK
-https://crichd.filofilmes.art/sexy.php/tenspk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket 🏏", RTA Sports HD
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo=" "group-title="Cricket 🏏" group-title="", Ten Sports HD  
@@ -306,8 +308,6 @@ https://hw1.jemtv.com/app/tv85/chunks.m3u8
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", BeiN Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Somoy TV HD
-https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", RTV  
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w2015195144.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Deptto TV
@@ -316,8 +316,8 @@ https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8?v=1
 https://ythls-v3.onrender.com/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Ekhon TV
 https://ythls-v3.onrender.com/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",ABP Ananda
-https://ythls.armelin.one/channel/UCv3rFzn-GHGtqzXiaq3sWNg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Jamuna Tv
+https://ythls.armelin.one/channel/UCDj9HHrRUzlsTuPQN0PHxjw.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",TV9 Bangla 
 https://ythls.armelin.one/channel/UCHCR4UFsGwd_VcDa0-a4haw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sK9W8X7/download-4.jpg" group-title="ISLAMIC CHANNELS",Peace TV Bangla
