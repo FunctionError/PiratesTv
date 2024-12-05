@@ -132,12 +132,6 @@ http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",RTA Sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports" group-title="",Ten Sports PK
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 2
-http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 1
-http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
@@ -264,8 +258,6 @@ https://wildearth-plex.amagi.tv/master.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?v=1%20#EXTINF:-1%20,Wild%20Earth
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/qYcmzmw/images-1.jpg", GXR WORLD 🇮🇳
 https://s@d2yxu0gr4ksneg.cloudfront.net/out/v1/ed259f6465634f6382767e23f564e695/index_7.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",  Ten Sports HD  
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", Live Sports Football Laliga 
@@ -296,6 +288,10 @@ https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8?v=1
 https://ythls-v3.onrender.com/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Ekhon TV
 https://ythls-v3.onrender.com/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Independent TV 
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Jamuna TV
+https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Jamuna Tv
 https://ythls.armelin.one/channel/UCDj9HHrRUzlsTuPQN0PHxjw.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", NTV 
