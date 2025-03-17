@@ -206,10 +206,10 @@ https://wildearth-plex.amagi.tv/master.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?v=1%20#EXTINF:-1%20,Wild%20Earth
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football", Persianas
+https://stream.sainaertebat.com/hls2/persianas.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", Espn
 https://super-cdn.link/espn/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Football Live
-https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",TYC Sports Play
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Sport italia
@@ -220,14 +220,10 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 https://stream.sainaertebat.com/hls2/solhtv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Deptto TV
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8?v=1
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Independent TV 
-https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",ZEE 24 GHANTA
-https://ythls.armelin.one/channel/UCdF5Q5QVbYstYrTfpgUl0ZA.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",TV9 Bangla 
-https://ythls.armelin.one/channel/UCHCR4UFsGwd_VcDa0-a4haw.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",News18 Bangla 
-https://ythls.armelin.one/channel/UCbf0XHULBkTfv2hBjaaDw9Q.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", NTV 
+https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Somoy 
+https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",Boome Rang
 https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sK9W8X7/download-4.jpg" group-title="ISLAMIC CHANNELS",Peace TV Bangla
@@ -288,8 +284,6 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M7W5zRy/images.png" group-title="NEWS INTERNASIONAL", RT NEWS USA
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tv1pgrG/download-4.png" group-title="NEWS INTERNASIONAL", CNBC Indonesia (EN) 🛜
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3fHPbTH/images.jpg" group-title="NEWS INTERNASIONAL", CGTN News (EN) 🛜
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL",Iran International(EN) 🛜
