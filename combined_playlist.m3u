@@ -208,8 +208,12 @@ https://wildearth-plex.amagi.tv/master.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?v=1%20#EXTINF:-1%20,Wild%20Earth
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football", Persianas
+https://stream.sainaertebat.com/hls2/persianas.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", Espn
 https://super-cdn.link/espn/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Football Live
+https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",TYC Sports Play
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Sport italia
@@ -226,6 +230,12 @@ https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",ABP Ananda
 https://ythls.armelin.one/channel/UCv3rFzn-GHGtqzXiaq3sWNg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",ZEE 24 GHANTA
+https://ythls.armelin.one/channel/UCdF5Q5QVbYstYrTfpgUl0ZA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",TV9 Bangla 
+https://ythls.armelin.one/channel/UCHCR4UFsGwd_VcDa0-a4haw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",News18 Bangla 
+https://ythls.armelin.one/channel/UCbf0XHULBkTfv2hBjaaDw9Q.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",Republic TV Bangla
 https://ythls.armelin.one/channel/UCajVjEHDoVn_AHsunUZz_EQ.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",Boome Rang
@@ -278,6 +288,8 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://live-manifests-lln.warnermediacdn.com/csmp/cmaf/live/2028716/cnnfast-international/master_de.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/wgIUsFu.png",BBC News
+https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
