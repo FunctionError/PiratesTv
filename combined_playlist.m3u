@@ -106,6 +106,8 @@ http://103.122.74.6:8888/hls/WILLOW.HD.m3u8
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Super Sports Cricket
 http://103.122.74.6:8888/hls/SUPER.CRICKET.HD.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 1
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
@@ -298,8 +300,6 @@ https://code.vthanhtivi.pw/getlink/eazie/243126/playlist.m3u8
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png", TLC English
 https://od.lk/s/ODRfNzIxOTE5NjVf/TLC.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png", Animal Planet Multi Audio
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png" group-title="Infotainment Channels", Animal Planet HD
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/MV3xv1y/download-1.pngg", ANIMAL PLANET HD
