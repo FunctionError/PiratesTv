@@ -50,8 +50,6 @@ http://103.122.74.6:8888/hls/SUN.BANGLA.HD.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Tara Bangla Cinema
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Bangla +
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian Bangla News" tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png",ABP Ananda
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/news18-bangla-news.png" group-title="Indian Bangla News",News18 Bangla News
@@ -100,8 +98,12 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports" group-title="",Willow Cricket
 http://103.122.74.6:8888/hls/WILLOW.HD.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 1
+http://125.209.88.166:45793/BRN/beINSP11.stream/chunklist_w319570480.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Super Sports Cricket
 http://103.122.74.6:8888/hls/SUPER.CRICKET.HD.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 1
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
@@ -316,8 +318,6 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/44bFXMZ/download-4.png" group-title="Infotainment Channels", Asian Food Network
 https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="", Live Event
-https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Entertainment",Colors Infinity SD
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo=" ",CNN News
