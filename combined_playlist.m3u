@@ -36,6 +36,8 @@ http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 https://hlsb-us.god.tv/GODTV/USA-480.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Relagion Channel", Arihant TV
 https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movie%20Bangla.png",Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Bangla Movies",Amar Digital
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Kolkata Bangla" group-title="",Colors Bangla HD
@@ -62,8 +64,6 @@ https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies" tvg-logo="",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi Movies" tvg-logo="",South Station
-https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisiK50nT9KXOAVZcRYy4aTrv4cVP9btrY4_s2KvXzXaSzGeUEmvgE3Gj4&s=10" group-title="Hindi Movies",Joo Music
@@ -84,10 +84,8 @@ http://103.122.74.6:8888/hls/STAR-SPORTS.3.m3u8
 http://103.122.74.6:8888/hls/STAR.SPORTS-SEL1.HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports" group-title="",Star Sports Select 2
 http://103.122.74.6:8888/hls/STAR.SPORTS.SEL.2.HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png"group-title="Sports" group-title="",Sony Sports Ten 1 HD
-https://bdixtv24.site/toffee/live.php?id=43dcec1011e7&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Sports" group-title="",Sony Sports Ten 3 HD
-https://bdixtv24.site/toffee/live.php?id=edc6a07e4754&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports" group-title="",Sony Sports Ten 5
+https://bdixtv24.site/toffee/live.php?id=fd6de8bd1666&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports" group-title="",Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="Sports" group-title="",A Sports
@@ -176,8 +174,6 @@ https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c2492
 https://vhoichoi.viewlift.com/Renditions/20240918/1726653787189_88a8sna0ns9a8s7tf/hls/1726653787189_88a8sna0ns9a8s7tf.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGLADESH" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi Tv
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zGWjhVN/IMG-20240126-091620.png"group-title="Bangladeshi" group-title="",MOVIE BANGLA
-http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Animal_Planet
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Discovery_Bangla
@@ -254,8 +250,6 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/jfbNHpj/download-5.png", Discovery HD
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/jfbNHpj/download-5.png", Discovery HD B
-https://freeott.site/discovery/Discovery_Channel.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png", TLC (L*)
 https://code.vthanhtivi.pw/getlink/eazie/243126/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png", TLC HD
@@ -292,6 +286,8 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://live-manifests-lln.warnermediacdn.com/csmp/cmaf/live/2028716/cnnfast-international/master_de.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/wgIUsFu.png",BBC News
+https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
