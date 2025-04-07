@@ -7,8 +7,6 @@ https://cdn.hoichoi24.com/LIVE/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png"group-title="IPL 2025" group-title="",IPL 2025
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png"group-title="IPL 2025" group-title="",IPL 2025
-https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png"group-title="IPL 2025" group-title="",IPL 2025
 https://bdlivestreaming.xyz/Ktv/op/167575/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png"group-title="IPL 2025" group-title="",IPL 2025
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
@@ -38,10 +36,6 @@ http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 https://hlsb-us.god.tv/GODTV/USA-480.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Relagion Channel", Arihant TV
 https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movie%20Bangla.png",Movie Bangla
-http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Bangla Movies",Amar Digital
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Kolkata Bangla" group-title="",Colors Bangla HD
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla
@@ -92,8 +86,6 @@ http://103.122.74.6:8888/hls/STAR-SPORTS.3.m3u8
 http://103.122.74.6:8888/hls/STAR.SPORTS-SEL1.HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports" group-title="",Star Sports Select 2
 http://103.122.74.6:8888/hls/STAR.SPORTS.SEL.2.HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png"group-title="Sports" group-title="",Sony Sports Ten 1 HD
-https://bdixtv24.site/toffee/live.php?id=43dcec1011e7&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports" group-title="",Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="Sports" group-title="",A Sports
@@ -104,8 +96,12 @@ http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports" group-title="",Ten Sports PK
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 1
+http://125.209.88.166:45793/BRN/beINSP11.stream/chunklist_w319570480.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Super Sports Cricket
 http://103.122.74.6:8888/hls/SUPER.CRICKET.HD.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 1
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
@@ -212,6 +208,8 @@ https://vhoichoi.viewlift.com/Renditions/20240918/1726653787189_88a8sna0ns9a8s7t
 http://161.248.188.202/toffe.ipl/vip/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGLADESH" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi Tv
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zGWjhVN/IMG-20240126-091620.png"group-title="Bangladeshi" group-title="",MOVIE BANGLA
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Animal_Planet
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Discovery_Bangla
@@ -222,10 +220,6 @@ https://varun-iptv.netlify.app/m3u/TLC.m3u8
 https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
 https://channel-swart.vercel.app/bd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Sky sports cricket HD
-https://bdlivestreaming.xyz/bdix/452369/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Criclife HD 
-https://bdlivestreaming.xyz/bdix/452390/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", T Sports HD 
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", T Sports HD 
@@ -238,8 +232,6 @@ http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg", DPL Cricket
 https://bdixtv.short.gy/bdixtv_official/DPL.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg", T Sports HD 1
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", T Sports HD 
 http://103.122.74.6:8888/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="",Star Sports SL 1 HD 
