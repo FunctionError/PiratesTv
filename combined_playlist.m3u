@@ -34,6 +34,8 @@ http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 https://hlsb-us.god.tv/GODTV/USA-480.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Relagion Channel", Arihant TV
 https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movie%20Bangla.png",Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Bangla Movies",Amar Digital
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Kolkata Bangla" group-title="",Colors Bangla HD
@@ -72,8 +74,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports" group-title="",Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png"group-title="Sports" group-title="",Sony Sports Ten 1 HD
-https://bdixtv24.site/toffee/live.php?id=43dcec1011e7&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports" group-title="",Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="Sports" group-title="",A Sports
@@ -164,8 +164,6 @@ https://vhoichoi.viewlift.com/Renditions/20240918/1726653787189_88a8sna0ns9a8s7t
 http://161.248.188.202/toffe.ipl/vip/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGLADESH" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi Tv
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zGWjhVN/IMG-20240126-091620.png"group-title="Bangladeshi" group-title="",MOVIE BANGLA
-http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Animal_Planet
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Discovery_Bangla
@@ -218,10 +216,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://stream.sainaertebat.com/hls2/persianas.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Football Live
 https://spstr.abntv.live/hls/psstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Sport italia
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Sport Italia
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png" group-title="",group-title="Football", Solh TV 🏆
 https://stream.sainaertebat.com/hls2/solhtv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Deepto TV
