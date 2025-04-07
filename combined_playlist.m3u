@@ -92,6 +92,8 @@ http://103.122.74.6:8888/hls/STAR-SPORTS.3.m3u8
 http://103.122.74.6:8888/hls/STAR.SPORTS-SEL1.HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports" group-title="",Star Sports Select 2
 http://103.122.74.6:8888/hls/STAR.SPORTS.SEL.2.HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports" group-title="",Sony Sports Ten 5
+https://bdixtv24.site/toffee/live.php?id=fd6de8bd1666&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports" group-title="",Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="Sports" group-title="",A Sports
@@ -210,8 +212,6 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE0MGVkOTEtYTQzMC00ZGQ5LWEzN2ItZGNkMTgzOTg3MDI2XkEyXkFqcGdeQXVyMTMyMTM0Mzcz._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Tofan
 https://vhoichoi.viewlift.com/Renditions/20240918/1726653787189_88a8sna0ns9a8s7tf/hls/1726653787189_88a8sna0ns9a8s7tf.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Tv",T Sports HD
-http://161.248.188.202/toffe.ipl/vip/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGLADESH" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi Tv
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Animal_Planet
@@ -232,6 +232,8 @@ http://stream3.zecast.com:1935/star-live/sp20239/chunklist_w1096483107.m3u8
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", T Sports HD 
 https://cdn.hoichoi24.com/LIVE/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Total Sports HD 
+http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg ", A SPORTS HD  
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg", T Sports HD 2
@@ -244,6 +246,8 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg" group-title="Cricket 🏏",  Ten Sports HD  
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", TNT Sports 1 HD
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Unifi HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/QYyCSBm/manik.webp", Manik Chora T Sports 
@@ -328,6 +332,8 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://live-manifests-lln.warnermediacdn.com/csmp/cmaf/live/2028716/cnnfast-international/master_de.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/wgIUsFu.png",BBC News
+https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
