@@ -77,6 +77,8 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports" group-title="",Ten Sports PK
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 1
+http://125.209.88.166:45793/BRN/beINSP11.stream/chunklist_w319570480.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 1
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
@@ -162,8 +164,14 @@ https://varun-iptv.netlify.app/m3u/TLC.m3u8
 https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
 https://channel-swart.vercel.app/bd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", T Sports Football Ban Vs Singapore 
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Starz on Criclife 
+https://ddy6new.newkso.ru/ddy6/premium282/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Sony 1 Sports 
+https://ddy6new.newkso.ru/ddy6/premium741/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", T Sports Football 
 http://38.96.178.201/live/TSports/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Sports en France
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", BTV Sports HD
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Star Sports 1 HD IPL-2025
@@ -212,10 +220,24 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",  Digi Sport 1
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2523/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 1
+http://125x.org:8080/bn1hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 2
+http://125x.org:8080/bn2hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 3
+http://125x.org:8080/bn3hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 4
+http://125x.org:8080/bn4hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 6
+http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football", Live DAZN
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2536/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Sport italia
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Sport Italia
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Gazi TV
+https://mohon-iptv.vercel.app/Live-Tv/Gazi-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Jamuna TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Banglavision TV
@@ -266,6 +288,8 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Entertainment",Colors Infinity SD
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL",Fox News
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="NEWS INTERNASIONAL", Aljazeera HD
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="NEWS INTERNASIONAL", Aljazeera HD
