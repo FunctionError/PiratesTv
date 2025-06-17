@@ -160,6 +160,8 @@ https://varun-iptv.netlify.app/m3u/TLC.m3u8
 https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
 https://channel-swart.vercel.app/bd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Ban Vs Sri Test Match TNT Live
+https://off1.gogohaalmal.com:1686/hls/bbtsp1.m3u8?md5=smzmKjjXb6EQfwIl8euVag&expires=1750139738
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Starz on Criclife 
 https://ddy6new.newkso.ru/ddy6/premium282/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Sony 1 Sports 
@@ -184,8 +186,6 @@ http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg" group-title="Cricket 🏏",  Ten Sports HD  
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", TNT Sports 1 HD
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket 🏏", RTA Sports HD
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="",Fast-Studios-Womens-Sports
