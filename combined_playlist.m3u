@@ -152,6 +152,8 @@ https://varun-iptv.netlify.app/m3u/TLC.m3u8
 https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
 https://channel-swart.vercel.app/bd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Astro Cricket HD
+http://3.team.ga/ch1988/mono.m3u8?token=id30419567.shE0SMLseR1OpD0I1s8D3IRaGCxpjif9IHaJRimdMfHhDAtm6f-KSOvnVbujzo07
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", T Sports Football 
 http://38.96.178.201/live/TSports/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Sports en France
@@ -170,6 +172,8 @@ http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg" group-title="Cricket 🏏",  Ten Sports HD  
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", TNT Sports 1 HD
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", SPORTSMAX
 https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket 🏏", RTA Sports HD
@@ -236,8 +240,6 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/master.m3u8
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Deptto TV
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8?v=1
-#EXTINF:-1 tvg-logo="" group-title="ISLAMIC CHANNELS" tvg-logo=" ", Sunnah Tv 
-http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", Drone TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/440.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", BBC Earth US
