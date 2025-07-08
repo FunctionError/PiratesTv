@@ -81,6 +81,8 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports" group-title="",Ten Sports PK
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 1
+http://125.209.88.166:45793/BRN/beINSP11.stream/chunklist_w319570480.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 1
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Information" group-title="",Discovery Hindi HD
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
@@ -154,8 +156,16 @@ https://varun-iptv.netlify.app/m3u/TLC.m3u8
 https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
 https://channel-swart.vercel.app/bd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 HD 
+https://bdix.fredflix.fun/live/209/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Star Sports 2 HD 
+https://bdix.fredflix.fun/live/58/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",T Sports HD New
 http://kst.moonplex.net:8080/CH2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",T Sports HD New
+https://bdix.fredflix.fun/live/56/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",A Sports HD 
+https://bdix.fredflix.fun/live/59/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Willow 
 https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", T Sports Football 
@@ -166,6 +176,8 @@ https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", M-Sports HD 
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", PTV Sports HD
+https://bdix.fredflix.fun/live/57/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg" group-title="Cricket 🏏",  Ten Sports HD  
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", TNT Sports 1 HD
