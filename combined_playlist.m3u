@@ -2,6 +2,8 @@
 # All the links in this file are collected from public sources. If anyone wants to remove their source, please let us know. We respect your opinions and efforts, so we will not object to removing your source. https://www.t.me/PiratesTv_ch
 #EXTINF:-1 tvg-logo=""group-title="Live Sports" group-title="",Live Sports
 https://tvsen5.aynaott.com/YNMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live Sports" group-title="",Live Sports
+http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla" group-title="",T Sports 
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Bangla" group-title="",Deepto TV
@@ -138,16 +140,14 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/958b036d-157f-4906-b906-c41a68e0416d.jpg" group-title="Islam Channel",ওয়াজ মাহফিল 📺
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/ekusheytv.jpg?x71442" group-title="BANGLADESH",Ekhusjey TV 📺
-https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIpqw-fmp3P5KN6qg19ANXq61GkBNWvQTalA&s" group-title="BANGLADESH",Al Jajira English 📺
 https://live-hls-web-aje-fa.getaj.net/alternative/AJE/03.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png" group-title="BANGLADESH",MY TV 📺 (JAGOBD)
 https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x91288" group-title="BANGLADESH",Channel 9 📺 (JAGOBD)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tPqGBjWD/Screenshot-2025-07-04-15-30-24-694-org-telegram-messenger-edit.jpg" group-title="News",SAMAY KOLKATA 📺
-https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png" group-title="BANGLADESH",Nexus TV
+http://38.96.178.201/live/NexusTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CNBC_Awaaz_logo.png" group-title="News",CNBC 📺 (INDIA)
 https://jmp2.uk/sam-INBD1300007ST.m3u8
 #EXTINF:-1 tvg-logo="http://watchindia.net/images/channels/usa/CNN.png" group-title="News",CNN 📺
@@ -158,8 +158,6 @@ https://ap02.iqplay.tv:8082/iqb8002/sa1aamch568/playlist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMS1rbj2/download.jpg" group-title="Islam Channel",ISLAMIC BANGLA 📺
 https://cdn149.anystream.uk:8082/app/ic6a5l6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/logo_50.png?x67896" group-title="Islam Channel",PEACE TV BANGLA 📺
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/f3/b0/be/f3b0be12-eacf-89d1-e559-95041f0e8fde/source/512x512bb.jpg" group-title="Islam Channel",Eman Channel 📺
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QvC2xh9M/images.png" group-title="Islam Channel",TV ONE 📺
@@ -436,6 +434,8 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/cnn-86/playlist.
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/lhrrang-179/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.mjunoon.tv:8181/logo/DW-Logo-mjunoon.webp" group-title="News",DW
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/DW-136-4A/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.mjunoon.tv:8181/logo/Khabar-news-mjunoon.webp" group-title="News",Khabar News
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/KhyberNews-160/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.mjunoon.tv:8181/logo/gnn.webp" group-title="News",GNN
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/gnnnews-181/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.mjunoon.tv:8181/logo/aljazeera-mjunoon.webp" group-title="News",Al Jazeera
@@ -484,8 +484,12 @@ https://tvsen5.aynaott.com/YNMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 http://kst.moonplex.net:8080/CH2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Willow 
 https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", T Sports Football 
+http://38.96.178.201/live/TSports/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Sports en France
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", T Sports 1 HD NS Player Need
+http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", M-Sports HD 
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", TNT Sports 1 HD
@@ -520,10 +524,10 @@ http://125x.org:8080/bn3hd/tracks-v1a1/mono.m3u8
 http://125x.org:8080/bn4hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 6
 http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Sport italia
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Sport Italia
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Jajsha movie 
+http://tv.bdiptv.store/live/restreax/refstream/81.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", MBC Saudi Arabia
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", NTV TV UK
