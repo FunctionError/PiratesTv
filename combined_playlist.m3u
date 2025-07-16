@@ -250,8 +250,6 @@ https://otttv.co.in/d2h/livestream/india--news/master.m3u8
 https://otttv.co.in/d2h/livestream/india-tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/naaptol-telugu.png" tvg-chno="naaptol-telugu" group-title="Lifestyle",Naaptol Telugu
 https://otttv.co.in/d2h/livestream/naaptol-telugu/master.m3u8
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/slvoly.png" tvg-chno="news-x" group-title="News",News X
-https://otttv.co.in/d2h/livestream/news-x/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/dydzlx.png" tvg-chno="pitaara" group-title="Movies",Pitaara
 https://otttv.co.in/d2h/livestream/pitaara/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/r-bangla.png" tvg-chno="r-bangla" group-title="News",Republic Bangla
@@ -278,6 +276,8 @@ https://otttv.co.in/d2h/livestream/sony-pal/master.m3u8
 https://otttv.co.in/d2h/livestream/sony-marathi/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/rlvkwc.png" tvg-chno="sony-max" group-title="Movies",Sony MAX
 https://otttv.co.in/d2h/livestream/sony-max/master.m3u8
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpjeqj.png" tvg-chno="sony-max-hd" group-title="Movies",Sony MAX HD
+https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/babgov.png" tvg-chno="sony-max-2" group-title="Movies",Sony Max 2
 https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/gsxqjs.png" tvg-chno="sony-pix-hd" group-title="Movies",Sony PIX HD
@@ -296,6 +296,8 @@ https://otttv.co.in/d2h/livestream/sony-ten-2-hd/master.m3u8
 https://otttv.co.in/d2h/livestream/sony-ten-3-hd/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/dasenw.png" tvg-chno="sony-ten-5-hd" group-title="Sports",Sony Sports Ten 5
 https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/rtyulo.png" tvg-chno="sony-sports-ten-1-hd" group-title="Sports",Sony Sports Ten 1 HD
+https://otttv.co.in/d2h/livestream/sony-sports-ten-1-hd/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/cxwken.png" tvg-chno="sony-sports-ten-2-hd" group-title="Sports",Sony Sports Ten 2 HD
 https://otttv.co.in/d2h/livestream/sony-sports-ten-2-hd/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/atjlma.png" tvg-chno="sony-sports-ten-3-hd" group-title="Sports",Sony Sports Ten 3 HD
@@ -466,8 +468,6 @@ https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b
 https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b1nCFvF/20240803-103853.png" group-title="Music",SANGEET BANGLA 📺
 https://tiger-hub.vercel.app/Sangeet-Bangla/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mV1zrPd8/Nick-Bangla.png" group-title="kids",Nick bangla
-http://tv.bdiptv.store/live/restreax/refstream/96.m3u8
 #EXTINF:-1 tvg-logo="https://images.mjunoon.tv:8181/logo/Madni-TV-mjunoon.webp" group-title="Islamic",Madani Channel
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Madni-121/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.mjunoon.tv:8181/logo/Quran-Tv-mjunoon.webp" group-title="Islamic",Quran Tv
