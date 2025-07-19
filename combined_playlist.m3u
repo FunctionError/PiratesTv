@@ -38,6 +38,8 @@ https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Bangla Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Tara Bangla Cinema
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Bangla +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian Bangla News" tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png",ABP Ananda
@@ -152,6 +154,8 @@ https://live-hls-web-aje-fa.getaj.net/alternative/AJE/03.m3u8
 https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x91288" group-title="BANGLADESH",Channel 9 📺 (JAGOBD)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tPqGBjWD/Screenshot-2025-07-04-15-30-24-694-org-telegram-messenger-edit.jpg" group-title="News",SAMAY KOLKATA 📺
+https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="BANGLADESH",Bangla TV 📺 (JAGOBD)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/banglatvhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CNBC_Awaaz_logo.png" group-title="News",CNBC 📺 (INDIA)
@@ -416,8 +420,6 @@ http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/9258/index.m3u8
 http://kst.moonplex.net:8080/CH2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Fox Sports 501 HD 
 http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/76DdVhNJ/TNT-Sports-1.jpg",TNT Sports 1 
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/1zGyNBS9/TNT-Sports.jpg",TNT Sports 2
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/1zGyNBS9/TNT-Sports.jpg",TNT Sports 3
@@ -426,6 +428,8 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp3
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/chunklist_b996000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Sony sports 1
 https://tiger-hub.vercel.app/SONY/Sports-1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Sony sports 1
+https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Sony sports 2
 https://tiger-hub.vercel.app/SONY/Sports-2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Sony sports 5
@@ -436,8 +440,6 @@ https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", M-Sports HD 
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", TNT Sports 1 HD
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", SPORTSMAX
 https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket 🏏", RTA Sports HD
