@@ -340,6 +340,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b1nCFvF/20240803-103853.png" group-title="Music",SANGEET BANGLA 📺
 https://tiger-hub.vercel.app/Sangeet-Bangla/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mV1zrPd8/Nick-Bangla.png" group-title="kids",Nick bangla
+http://tv.bdiptv.store/live/restreax/refstream/96.m3u8
 #EXTINF:-1 tvg-logo="https://images.mjunoon.tv:8181/logo/Madni-TV-mjunoon.webp" group-title="Islamic",Madani Channel
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Madni-121/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.mjunoon.tv:8181/logo/Quran-Tv-mjunoon.webp" group-title="Islamic",Quran Tv
@@ -420,6 +422,8 @@ http://kst.moonplex.net:8080/CH2/index.m3u8
 http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/76DdVhNJ/TNT-Sports-1.jpg",TNT Sports 1 
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/1zGyNBS9/TNT-Sports.jpg",TNT Sports 2
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/1zGyNBS9/TNT-Sports.jpg",TNT Sports 3
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp3
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Ten Cricket 
@@ -474,8 +478,6 @@ http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Sport Italia
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Jajsha movie 
-http://tv.bdiptv.store/live/restreax/refstream/81.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", MBC Saudi Arabia
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", NTV TV UK
@@ -530,6 +532,8 @@ https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg",Zoo Moo
@@ -552,6 +556,8 @@ http://195.189.60.31:8003/play/a0gk/index.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="Infotainment Channels", Love Nature 4K*
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Entertainment",Colors Infinity SD
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL",Fox News
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="NEWS INTERNASIONAL", Aljazeera HD
@@ -564,6 +570,8 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/wgIUsFu.png",BBC News
+https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
