@@ -74,6 +74,8 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood Classic HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports" group-title="",Star Sports 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports" group-title="",Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",RTA Sports
@@ -196,6 +198,8 @@ https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/90382fdf-a88e-4510-a6f6-0f56aed25bc0.jpg" group-title="Islam Channel",Q TV 📺
 https://ap02.iqplay.tv:8082/iqb8002/@ryq7vtv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/ARY_Qtv_logo.png" group-title="Islam Channel",ARY NEWS 📺 (PAKISTAN)
+https://cdn149.anystream.uk:8082/app/qtvglmb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y2nJsbF/986f430a0b59.jpg" group-title="Islam Channel",Noor TV 📺
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/861b1c93-db90-4793-b4e7-e8437aa185d0.png" group-title="Islam Channel",BILLAL TV  📺
@@ -560,6 +564,8 @@ http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/9308/index.m3u8
 http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/9258/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Fox Sports 501 HD 
 http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/76DdVhNJ/TNT-Sports-1.jpg",TNT Sports 1 
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/1zGyNBS9/TNT-Sports.jpg",TNT Sports 2
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/1zGyNBS9/TNT-Sports.jpg",TNT Sports 3
@@ -580,6 +586,8 @@ https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", M-Sports HD 
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", TNT Sports 1 HD
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", SPORTSMAX
 https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket 🏏", RTA Sports HD
@@ -628,6 +636,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-vid
 https://tvsen6.aynaott.com/jamunatv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ",AnandaTV
 https://bozztv.com/rongo/rongo-AnandaTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ",ATNBangla
+https://bozztv.com/rongo/rongo-ATNBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ",ATN News
 https://bozztv.com/rongo/rongo-ATNNews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ",BanglaTV
@@ -640,8 +650,6 @@ https://bozztv.com/rongo/rongo-BijoyTV/tracks-v1a1/mono.m3u8
 https://bozztv.com/rongo/rongo-BoishakhiTV/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Channel 24 HD
 https://bozztv.com/rongo/rongo-Channel24HD/tracks-a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Channel 1
-https://bozztv.com/rongo/rongo-Channel1/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Deepto TV
 https://bozztv.com/rongo/rongo-DeeptoTV/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Desh TV
@@ -708,12 +716,8 @@ https://tvsen6.aynaott.com/durontotv/index.m3u8
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",BBC Cbeebies 
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
-https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids
 https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Disney Junior
-https://live20.bozztv.com/giatvplayout7/giatv-209650/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duck TV
 https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick
