@@ -188,6 +188,8 @@ https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/m@d@n1ch@nn3lb@ngl@/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/2109eaa2-edd1-48fc-bf64-6f0fa161e734.webp" group-title="Islam Channel",ISLAM TV 📺
 https://ap02.iqplay.tv:8082/iqb8002/i6sl9m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="Islam Channel",MAKKA TV 📺
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ynfBXW6J/download-1.jpg" group-title="Islam Channel",Al Jazeera Mubasher 24 (1080p) 📺
 https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tTw8ChjL/images-1.png" group-title="Islam Channel",Saudi Thaqafiya TV (1080p) 📺
@@ -560,6 +562,8 @@ http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/9308/index.m3u8
 http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/9258/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Fox Sports 501 HD 
 http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/76DdVhNJ/TNT-Sports-1.jpg",TNT Sports 1 
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/1zGyNBS9/TNT-Sports.jpg",TNT Sports 2
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/1zGyNBS9/TNT-Sports.jpg",TNT Sports 3
@@ -580,6 +584,8 @@ https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", M-Sports HD 
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", TNT Sports 1 HD
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", SPORTSMAX
 https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket 🏏", RTA Sports HD
@@ -656,8 +662,6 @@ https://bozztv.com/rongo/rongo-AnandaTV/index.m3u8
 https://bozztv.com/rongo/rongo-ATNBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ",ATN News
 https://bozztv.com/rongo/rongo-ATNNews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ",BanglaTV
-https://bozztv.com/rongo/rongo-BanglaTV/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ",BanglaVision
 https://bozztv.com/rongo/rongo-BanglaVision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ",BijoyTV
@@ -700,6 +704,8 @@ https://bozztv.com/rongo/rongo-NTV/tracks-v1a1/mono.m3u8
 https://bozztv.com/rongo/rongo-RTV/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ",SATV
 https://bozztv.com/rongo/rongo-SATV/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Somoy TV
+https://bozztv.com/rongo/rongo-somoy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Deptto TV
