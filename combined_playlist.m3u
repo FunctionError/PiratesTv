@@ -68,6 +68,8 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood Classic HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports" group-title="",Star Sports 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports" group-title="",Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",RTA Sports
@@ -276,8 +278,6 @@ https://otttv.co.in/d2h/livestream/sanskar-tv/master.m3u8
 https://otttv.co.in/d2h/livestream/satsang-tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/shubh-tv.png" tvg-chno="shubh-tv" group-title="Spiritual",Shubh TV HD
 https://otttv.co.in/d2h/livestream/shubh-tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/qjucjr.jpeg" tvg-chno="sai-leela" group-title="Spiritual",Sai Leela
-https://otttv.co.in/d2h/livestream/sai-leela/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/udytjy.png" tvg-chno="sony-pal" group-title="Entertainment",Sony Pal
 https://otttv.co.in/d2h/livestream/sony-pal/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zjydwt.png" tvg-chno="sony-marathi" group-title="Entertainment",Sony Marathi
@@ -312,8 +312,6 @@ https://otttv.co.in/d2h/livestream/sony-sports-ten-2-hd/master.m3u8
 https://otttv.co.in/d2h/livestream/sony-sports-ten-3-hd/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ctetuk.png" tvg-chno="sony-wah" group-title="Movies",Sony Wah
 https://otttv.co.in/d2h/livestream/sony-wah/master.m3u8
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/npnyqn.png" tvg-chno="sony-yay" group-title="Kids",Sony Yay
-https://otttv.co.in/d2h/livestream/sony-yay/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/the-q.png" tvg-chno="the-q" group-title="Entertainment",The Q
 https://otttv.co.in/d2h/livestream/the-q/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/times-now-navbharat.png" tvg-chno="times-now-navbharat" group-title="News",Times Now Navbharat
