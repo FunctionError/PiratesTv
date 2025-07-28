@@ -1,5 +1,7 @@
 #EXTM3U
 # All the links in this file are collected from public sources. If anyone wants to remove their source, please let us know. We respect your opinions and efforts, so we will not object to removing your source. https://www.t.me/PiratesTv_ch
+#EXTINF:-1 tvg-logo=""group-title="Live Sports" group-title="",Live Sports
+https://maxplay-tv.fun/cric.m3u8?id=ptvpk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla" group-title="",T Sports 
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Bangla" group-title="",Deepto TV
@@ -22,6 +24,8 @@ https://hlsb-us.god.tv/GODTV/USA-480.m3u8
 https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movie%20Bangla.png",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/b5VkjPc/20240907-023057.png" group-title="Bangla Movies", BONGO MOVIES
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-movies
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Bangla Movies",Amar Digital
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla" group-title="",Gopal Bhar
@@ -140,8 +144,8 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/958b036d-157f-4906-b906-c41a68e0416d.jpg" group-title="Islam Channel",ওয়াজ মাহফিল 📺
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/twLFtc6V/images-1.jpg" group-title="BANGLADESH",ATN MUSIC🎵 (JAGOBD)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/ekusheytv.jpg?x71442" group-title="BANGLADESH",Ekhusjey TV 📺
+https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x91288" group-title="BANGLADESH",Boishakhi TV 📺 (JAGOBD)
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIpqw-fmp3P5KN6qg19ANXq61GkBNWvQTalA&s" group-title="BANGLADESH",Al Jajira English 📺
@@ -568,8 +572,6 @@ https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", M-Sports HD 
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", TNT Sports 1 HD
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", SPORTSMAX
 https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket 🏏", RTA Sports HD
