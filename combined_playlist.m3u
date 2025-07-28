@@ -104,8 +104,6 @@ https://iptvcable.netlify.app/Altogether-007/Cartoon/NickHindi.m3u8
 https://iptvcable.netlify.app/Altogether-007/Cartoon/SONIC.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="KIDS" group-title="",Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KIDS" tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg",Zoo Moo
-https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s"group-title="KIDS" group-title="",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg"group-title="English Movies" group-title="",Action Hollywood Movies
@@ -144,8 +142,6 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/958b036d-157f-4906-b906-c41a68e0416d.jpg" group-title="Islam Channel",ওয়াজ মাহফিল 📺
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/ekusheytv.jpg?x71442" group-title="BANGLADESH",Ekhusjey TV 📺
-https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x91288" group-title="BANGLADESH",Boishakhi TV 📺 (JAGOBD)
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIpqw-fmp3P5KN6qg19ANXq61GkBNWvQTalA&s" group-title="BANGLADESH",Al Jajira English 📺
@@ -546,6 +542,8 @@ https://channel-swart.vercel.app/bd.m3u8
 http://103.15.140.138/tsports/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",T Sports HD New
 http://kst.moonplex.net:8080/CH2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Star Sports 1 HD 
+https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Sky Sports 1 HD 
 http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/7343/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",SKY SPORTS MAIN EVENT
