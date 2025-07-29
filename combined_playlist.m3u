@@ -236,12 +236,20 @@ http://kst.moonplex.net:8080/CH4/index.m3u8
 https://tiger-hub.vercel.app/Colors_bangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Entertainment",Zee Bangla Cinema 📡 (ENTERTAINMENT)
 https://tiger-hub.vercel.app/Zee-bangla-Cinema/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ejnlyj.png" tvg-chno="balle-balle" group-title="Music",Balle Balle
+https://otttv.co.in/d2h/livestream/balle-balle/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/nddhwf.png" tvg-chno="discovery-channel" group-title="Infotainment",Discovery Bangla 📺📡
 https://tiger-hub.vercel.app/Discovery-bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lkfhpj.jpeg" tvg-chno="divya" group-title="Spiritual",Divya
+https://otttv.co.in/d2h/livestream/divya/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/vrandh.png" tvg-chno="france-24" group-title="News",France 24
 https://otttv.co.in/d2h/livestream/france-24/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/mhvtws.png" tvg-chno="india-news-gujarat" group-title="News",India New Gujarat
 https://otttv.co.in/d2h/livestream/india-news-gujarat/master.m3u8
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/gbtjgb.png" tvg-chno="india-news-haryana" group-title="News",India News Haryana
+https://otttv.co.in/d2h/livestream/india-news-haryana/master.m3u8
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/india-news-punjab.png" tvg-chno="india-news-punjab" group-title="News",India News Punjab
+https://otttv.co.in/d2h/livestream/india-news-punjab/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ddwhzh.png" tvg-chno="india-news-uttar-pradesh--uttrakhand" group-title="News",India News Uttar Pradesh Uttrakhand
 https://otttv.co.in/d2h/livestream/india-news-uttar-pradesh--uttrakhand/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/gwunjr.png" tvg-chno="india--news" group-title="News",India News
@@ -274,20 +282,28 @@ https://otttv.co.in/d2h/livestream/shubh-tv/master.m3u8
 https://otttv.co.in/d2h/livestream/sai-leela/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/udytjy.png" tvg-chno="sony-pal" group-title="Entertainment",Sony Pal
 https://otttv.co.in/d2h/livestream/sony-pal/master.m3u8
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zjydwt.png" tvg-chno="sony-marathi" group-title="Entertainment",Sony Marathi
+https://otttv.co.in/d2h/livestream/sony-marathi/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/rlvkwc.png" tvg-chno="sony-max" group-title="Movies",Sony MAX
 https://otttv.co.in/d2h/livestream/sony-max/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpjeqj.png" tvg-chno="sony-max-hd" group-title="Movies",Sony MAX HD
 https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/babgov.png" tvg-chno="sony-max-2" group-title="Movies",Sony Max 2
+https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/gsxqjs.png" tvg-chno="sony-pix-hd" group-title="Movies",Sony PIX HD
 https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/izuevu.png" tvg-chno="sony-bbc-earth-hd" group-title="Infotainment",Sony BBC Earth HD
 https://otttv.co.in/d2h/livestream/sony-bbc-earth-hd/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/dfereb.png" tvg-chno="sony-entertainment-television-hd" group-title="Entertainment",Sony Entertainment Television HD (SET HD)
 https://otttv.co.in/d2h/livestream/sony-entertainment-television-hd/master.m3u8
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bipvli.png" tvg-chno="sony-sab" group-title="Entertainment",Sony SAB HD
+https://otttv.co.in/d2h/livestream/sony-sab/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/vavnvm.png" tvg-chno="sony-ten-1-hd" group-title="Sports",Sony Sports Ten 1
 https://otttv.co.in/d2h/livestream/sony-ten-1-hd/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/vcbjdy.png" tvg-chno="sony-ten-2-hd" group-title="Sports",Sony Sports Ten 2
 https://otttv.co.in/d2h/livestream/sony-ten-2-hd/master.m3u8
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/fnrzdk.png" tvg-chno="sony-ten-3-hd" group-title="Sports",Sony Sports Ten 3
+https://otttv.co.in/d2h/livestream/sony-ten-3-hd/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/dasenw.png" tvg-chno="sony-ten-5-hd" group-title="Sports",Sony Sports Ten 5
 https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/rtyulo.png" tvg-chno="sony-sports-ten-1-hd" group-title="Sports",Sony Sports Ten 1 HD
