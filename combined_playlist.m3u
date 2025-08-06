@@ -146,6 +146,8 @@ https://varun-iptv.netlify.app/m3u/TLC.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/twLFtc6V/images-1.jpg" group-title="BANGLADESH",ATN MUSIC🎵 (JAGOBD)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/ekusheytv.jpg?x71442" group-title="BANGLADESH",Ekhusjey TV 📺
+https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIpqw-fmp3P5KN6qg19ANXq61GkBNWvQTalA&s" group-title="BANGLADESH",Al Jajira English 📺
 https://live-hls-web-aje-fa.getaj.net/alternative/AJE/03.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png" group-title="BANGLADESH",MY TV 📺 (JAGOBD)
@@ -242,8 +244,6 @@ https://otttv.co.in/d2h/livestream/divya/master.m3u8
 https://otttv.co.in/d2h/livestream/france-24/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/mhvtws.png" tvg-chno="india-news-gujarat" group-title="News",India New Gujarat
 https://otttv.co.in/d2h/livestream/india-news-gujarat/master.m3u8
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/gbtjgb.png" tvg-chno="india-news-haryana" group-title="News",India News Haryana
-https://otttv.co.in/d2h/livestream/india-news-haryana/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/india-news-punjab.png" tvg-chno="india-news-punjab" group-title="News",India News Punjab
 https://otttv.co.in/d2h/livestream/india-news-punjab/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ddwhzh.png" tvg-chno="india-news-uttar-pradesh--uttrakhand" group-title="News",India News Uttar Pradesh Uttrakhand
