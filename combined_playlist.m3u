@@ -68,12 +68,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports" group-title="",Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png"group-title="Sports" group-title="",Sony Sports Ten 1 HD
-https://bdixtv24.site/toffee/live.php?id=43dcec1011e7&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Sports" group-title="",Sony Sports Ten 3 HD
-https://bdixtv24.site/toffee/live.php?id=edc6a07e4754&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports" group-title="",Sony Sports Ten 5
-https://bdixtv24.site/toffee/live.php?id=fd6de8bd1666&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports" group-title="",Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",RTA Sports
@@ -146,6 +140,8 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/958b036d-157f-4906-b906-c41a68e0416d.jpg" group-title="Islam Channel",ওয়াজ মাহফিল 📺
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/ekusheytv.jpg?x71442" group-title="BANGLADESH",Ekhusjey TV 📺
+https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIpqw-fmp3P5KN6qg19ANXq61GkBNWvQTalA&s" group-title="BANGLADESH",Al Jajira English 📺
 https://live-hls-web-aje-fa.getaj.net/alternative/AJE/03.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png" group-title="BANGLADESH",MY TV 📺 (JAGOBD)
@@ -234,12 +230,8 @@ https://tiger-hub.vercel.app/Zee-bangla-Cinema/tracks-v1a1/mono.ts.m3u8
 https://otttv.co.in/d2h/livestream/balle-balle/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/nddhwf.png" tvg-chno="discovery-channel" group-title="Infotainment",Discovery Bangla 📺📡
 https://tiger-hub.vercel.app/Discovery-bangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lkfhpj.jpeg" tvg-chno="divya" group-title="Spiritual",Divya
-https://otttv.co.in/d2h/livestream/divya/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/vrandh.png" tvg-chno="france-24" group-title="News",France 24
 https://otttv.co.in/d2h/livestream/france-24/master.m3u8
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/mhvtws.png" tvg-chno="india-news-gujarat" group-title="News",India New Gujarat
-https://otttv.co.in/d2h/livestream/india-news-gujarat/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/gbtjgb.png" tvg-chno="india-news-haryana" group-title="News",India News Haryana
 https://otttv.co.in/d2h/livestream/india-news-haryana/master.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/india-news-punjab.png" tvg-chno="india-news-punjab" group-title="News",India News Punjab
@@ -542,6 +534,8 @@ https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 http://195.181.161.132/skycricket/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",SuperSports Cricket
 https://tiger-hub.vercel.app/SuperSports-Cricket/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", A Sports HD 
+http://filex.me:8080/live/1234567890/1234567890/247168.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
 https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", PTV Sports HD
@@ -766,8 +760,6 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/wgIUsFu.png",BBC News
-https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
