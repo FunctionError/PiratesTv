@@ -186,8 +186,6 @@ https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/ind
 https://ap02.iqplay.tv:8082/iqb8002/@ryq7vtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/ARY_Qtv_logo.png" group-title="Islam Channel",ARY NEWS 📺 (PAKISTAN)
 https://cdn149.anystream.uk:8082/app/qtvglmb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y2nJsbF/986f430a0b59.jpg" group-title="Islam Channel",Noor TV 📺
-https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/861b1c93-db90-4793-b4e7-e8437aa185d0.png" group-title="Islam Channel",BILLAL TV  📺
 https://ap02.iqplay.tv:8082/iqb8002/bil77tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/018a70f5-c9eb-4625-814a-784f95a10580.jpg" group-title="Islam Channel",HILLAL TV 📺
@@ -540,6 +538,8 @@ https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 http://195.181.161.132/skycricket/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Super Sports Cricket
 https://tiger-hub.vercel.app/SuperSports-Cricket/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", A Sports HD 
+http://filex.me:8080/live/1234567890/1234567890/247168.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
 https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", PTV Sports HD
@@ -722,8 +722,6 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/wgIUsFu.png",BBC News
-https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
