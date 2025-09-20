@@ -44,8 +44,6 @@ https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 https://smart.bengaldigital.live/Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Tara Bangla Cinema
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Bangla +
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian Bangla News" tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png",ABP Ananda
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/news18-bangla-news.png" group-title="Indian Bangla News",News18 Bangla News
@@ -392,8 +390,18 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Entertainment",Colors Infinity SD
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL",Fox News
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://is.gd/DtaJNT", BBC NEWS 
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://is.gd/Qwtxnl", FOX NEWS
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://is.gd/imZMIp", DW NEWS
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://is.gd/pOyTnP", Aljazeera NEWS
+https://live-hls-web-aje.getaj.net/AJE/04.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://is.gd/ywX5PG", CNN NEWS
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://is.gd/ih6x8j", NDTV NEWS
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="NEWS INTERNASIONAL", Aljazeera HD
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", TRT World
@@ -402,8 +410,6 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
