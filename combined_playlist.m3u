@@ -13,8 +13,6 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla" group-title="",T Sports 
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla" group-title="",Gazi TV
-http://stvlive.net:8080/gtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla" group-title="",Gazi TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Bangla" group-title="",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
@@ -48,6 +46,8 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Kolkata Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Kolkata Bangla Movies" group-title="",Zee Bangla Cinema
+https://smart.bengaldigital.live/Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Tara Bangla Cinema
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Bangla +
@@ -77,13 +77,7 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood Classic HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports" group-title="",Star Sports 1 HD
-http://stvlive.net:8080/starsports1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports" group-title="",Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports" group-title="",Star Sports 2 HD.
-http://stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Sports" group-title="",Star Sports Select 1
-http://stvlive.net:8080/starselect1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png"group-title="Sports" group-title="",Sony Sports Ten 1 HD
 https://bdixtv24.site/toffee/live.php?id=43dcec1011e7&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Sports" group-title="",Sony Sports Ten 3 HD
@@ -168,12 +162,8 @@ http://147.93.154.65/Bein3/index.m3u8
 https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Star Sports 3 🏏🏏🏏🏏🏏🏏
 http://89.187.189.98/STARSPORTS3/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1
-https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Sky Sports Cricket
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/9258/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Star Sports SL 1 HD EPL
-http://stvlive.net:8080/starselect1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", TNT Sports 1 HD
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", TNT Sports 2 HD
@@ -182,8 +172,6 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp3
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Sony sports 1
 https://tiger-hub.vercel.app/SONY/Sports-1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 HD
-https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Sony sports 2
 https://tiger-hub.vercel.app/SONY/Sports-2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Sony sports 5
@@ -260,14 +248,14 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Bangla Vision TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", NTV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", ATN Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1692000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Dipto TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ",AnandaTV
 https://bozztv.com/rongo/rongo-AnandaTV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ",ATNBangla
