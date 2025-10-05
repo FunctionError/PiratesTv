@@ -64,12 +64,18 @@ def combine_playlists(playlist_sources, priority_order):
 
     return combined_playlist
 
-def write_to_file(playlist, output_file, include_credits=False):
+def write_to_file(playlist, output_file, include_credits=False, promo_channel=None):
     credit_text = "# All the links in this file are collected from public sources. If anyone wants to remove their source, please let us know. We respect your opinions and efforts, so we will not object to removing your source. https://www.t.me/PiratesTv_ch\n"
     with open(output_file, 'w') as f:
         f.write("#EXTM3U\n")  
         if include_credits:
             f.write(credit_text)
+        # Write promo channel first if provided
+        if promo_channel:
+            f.write("#EXTINF:-1 tvg-logo=\"%s\" group-title=\"Promo\",%s\n%s\n" % (
+                promo_channel['logo'], promo_channel['channel_name'], promo_channel['url']
+            ))
+        # Write normal playlist channels
         for item in playlist:
             f.write("#EXTINF:-1 tvg-logo=\"%s\" group-title=\"%s\",%s\n%s\n" % (item['logo'], item['group'], item['channel_name'], item['url']))
 
@@ -88,6 +94,14 @@ if __name__ == "__main__":
     include_credits = True  
 
     combined_playlist = combine_playlists(playlist_sources, priority_order)
-    write_to_file(combined_playlist, output_file, include_credits)
+
+    # ------------------------------------------------  Define promo channel ------------------------------------------------
+    promo_channel = {
+        'logo': 'https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/FalconCast.png',
+        'channel_name': 'FalconCast',
+        'url': 'https://raw.githubusercontent.com/falconcasthoster/promo/refs/heads/main/nolink/master.m3u8'
+    }
+
+    write_to_file(combined_playlist, output_file, include_credits, promo_channel)
 
     print("Combined and filtered playlist written to", output_file)
