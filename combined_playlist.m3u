@@ -46,8 +46,6 @@ https://hlsb-us.god.tv/GODTV/USA-480.m3u8
 https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movie%20Bangla.png",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Bangla Movies",Amar Digital
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla" group-title="",Gopal Bhar
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Kolkata Bangla" group-title="",Colors Bangla HD
@@ -58,8 +56,6 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Tara Bangla Cinema
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Bangla +
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian Bangla News" tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png",ABP Ananda
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/news18-bangla-news.png" group-title="Indian Bangla News",News18 Bangla News
@@ -500,3 +496,21 @@ https://tiger-hub.vercel.app/SuperSports-Cricket/tracks-v1a1/mono.m3u8
 https://tiger-hub.vercel.app/Star_Sports-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Sports",Star Sports 1 Hindy
 https://tiger-hub.vercel.app/Star_Sports-1_Hindy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",Star Sp0rts 3
+http://89.187.189.98/STARSPORTS3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",RT N0w
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",S0ny Sp0rts 1 HD
+http://51.15.7.9:3141/ten1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",Star Sp0rts 2 HD
+http://89.187.189.98/STARSPORTS2HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",S0ny Sp0rts 3 HD
+http://51.15.7.9:3141/ten3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",Star Sp0rts Select 1 HD
+http://89.187.189.98/STARSPORTSSELECT1HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",Star Sp0rts Select 2 HD
+http://89.187.189.98/STARSPORTSSELECT2HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",S0ny Sp0rts 2 HD
+http://51.15.7.9:3141/ten2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",S0ny Sp0rts 4 HD
+http://51.15.7.9:3141/ten5/index.m3u8
