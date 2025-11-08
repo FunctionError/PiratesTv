@@ -70,8 +70,6 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Kolkata Bangla Movies" group-title="",Zee Bangla Cinema
 https://smart.bengaldigital.live/Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Kolkata Bangla Movies" group-title="",Colors Bangla Cinema
-https://nettv.fun/jh/stream.php?id=Syn_Colors_Bangla_Cinema&sr=Fallback&e=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Tara Bangla Cinema
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Bangla +
@@ -90,12 +88,6 @@ https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies" tvg-logo="",Hinde Dabbing Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies" group-title="",Colors Cineplex HD
-https://nettv.fun/jh/stream.php?id=JC_ColorsCineplexHD&sr=JCHLS&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies" group-title="",Colors Cineplex Bollywood
-https://nettv.fun/jh/stream.php?id=JC_ColorsCineplexBollywood&sr=JCHLS&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies" group-title="",Colors Cineplex Superhit
-https://nettv.fun/jh/stream.php?id=JC_ColorsCineplexSuperhit&sr=JCHLS&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Movies 
 https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Kadak
@@ -134,6 +126,8 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Information",Travel XP English NZ
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Information",4K Travel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary" tvg-logo="https://i.postimg.cc/sfZsrWst/20240823_023726.png",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Information",Trave Channel
@@ -146,10 +140,6 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Information",Discover Pakistan TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS" group-title="",Nick
-https://nettv.fun/jh/stream.php?id=JC_NickSD&sr=JCHLS&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS" group-title="",Nick HD Plus
-https://nettv.fun/jh/stream.php?id=JC_NickHD&sr=JCHLS&e=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png"group-title="KIDS" group-title="",Sonic Bangla
 https://iptvcable.netlify.app/Altogether-007/Cartoon/SONIC.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS" tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg",Zoo Moo
@@ -520,6 +510,8 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="NEWS INTERNASIONAL", Aljazeera HD
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News
