@@ -112,6 +112,8 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/d3227daf-ea13-48c9-95a4-1619862d136e/0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood Classic HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports" group-title="",Star Sports 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports" group-title="",Eurosports
@@ -412,6 +414,8 @@ https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Telewebion Sport
 https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport1/live/1080p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Telewebion Sport 2
+https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport2/live/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Telewebion Sport 3
 https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1103.telewebion.com/ek/sport3/live/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Tennis Channel
@@ -636,8 +640,6 @@ https://bozztv.com/rongo/rongo-Channel24HD/tracks-a1/mono.m3u8
 https://bozztv.com/rongo/rongo-Channel1/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Deepto TV
 https://bozztv.com/rongo/rongo-DeeptoTV/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Desh TV
-https://bozztv.com/rongo/rongo-DeshTV/tracks-a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Ekattor TV
 https://bozztv.com/rongo/rongo-EkattorTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Ekhon TV
@@ -710,8 +712,6 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ISLAMIC CHANNELS" tvg-logo=" ", মক্কা টিভি হজের জন্য 
-http://164.215.98.132:2082/live/8649G54859/8649G54859/39652.ts.mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ISLAMIC CHANNELS" tvg-logo=" ", Sunnah Tv 
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Discovery Channel
@@ -758,6 +758,8 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/wgIUsFu.png",BBC News
+https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
