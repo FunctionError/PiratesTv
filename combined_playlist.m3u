@@ -274,8 +274,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 http://66.102.120.18:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TSN 2
 http://143.244.60.30/TSN_2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",TSN 3
-http://143.244.60.30/TSN_3/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Eurosport_HD
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Eurosport_2_HD
@@ -370,8 +368,6 @@ https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
 #EXTINF:-1 tvg-logo="" group-title="Sports",NFL Network
 https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",NFL Sunday Ticket 1
-http://fl2.moveonjoy.com/NFL_1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",NHL
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",NHRA TV (720p)
@@ -460,24 +456,18 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
-https://channel-swart.vercel.app/bd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", PTV Sports HD 📺  📺
+http://cors.tundracast.com:2000/http://163.172.57.3/crc1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Pro Sports 1 📺  📺
+https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Sky Sports Cricket 📺 🇧🇩 📺
 http://cors.tundracast.com:2000/http://178.33.239.54:8080/503a/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Sky Sports Cricket 📺 🇧🇩 📺
 http://178.33.239.54:8080/503a/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Sky Sports Main Event 📺 🇧🇩 📺
 http://178.33.239.54:8080/502a/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",ACC Men's Raising Star 🇧🇩 📺 🇮🇳 🇵🇰
-http://103.240.44.26/Sony-Ten-1-HD/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Sony Ten 2 🇧🇩📺🇮🇳🇵🇰
-http://103.240.44.26/Sony-Ten-2-HD/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 Hindi 🇮🇳📺
 https://starsportshindiii.pages.dev/720p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Star Sports 2 HD 🇮🇳📺
-http://103.240.44.26/Star-Sports-2-HD/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", 🏏SL🆚Pak🏏 One Day Mtach 📺
-http://cors.tundracast.com:2000/https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Sandbrix live 🏏SL🆚Pak🏏 One Day Mtach 📺
 https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",NZ_sky_Sport_2 📺
@@ -726,14 +716,14 @@ http://164.215.98.132:2082/live/8649G54859/8649G54859/39652.ts.mono.m3u8
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Discovery Channel
 http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Destination America
-http://fl1.moveonjoy.com/Destination_America/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",DISCOVERY FAMILY CHANNEL
 http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",DISCOVERY LIFE
 http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",DISNEY JR
 http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Destination America
+http://fl1.moveonjoy.com/Destination_America/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", BBC Earth US
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", Wild Nature
