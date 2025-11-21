@@ -14,14 +14,6 @@ http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
 https://starsportshindiii.pages.dev/720p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports" group-title="",Live Sports
 http://103.240.44.26/GEO-Super/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports" group-title="",Live Sports
-https://l.lioncdn.net/TNT-Sports-1/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports" group-title="",Live Sports
-https://l.lioncdn.net/TNT-Sports-2/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports" group-title="",Live Sports
-https://l.lioncdn.net/TNT-Sports-3/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports" group-title="",Live Sports
-https://l.lioncdn.net/TNT-Sports-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla" group-title="",BTV World
 http://103.230.105.252:1935/live/btv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla" group-title="",Gazi TV
@@ -92,8 +84,6 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Kolkata Bangla Movies" group-title="",Colors Bangla Cinema
 https://nettv.fun/jh/stream.php?id=Syn_Colors_Bangla_Cinema&sr=Fallback&e=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Tara Bangla Cinema
-http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Bangla +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian Bangla News" tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png",ABP Ananda
@@ -354,8 +344,6 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",KCMN-LD6 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",KHL Prime
-http://194.143.148.28:8080/KHL_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",L1 Max (1080p)
 http://38.183.182.166:8000/play/a12t/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",L'Equipe (1080p)
@@ -708,8 +696,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids
 https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Disney Junior
-https://live20.bozztv.com/giatvplayout7/giatv-209650/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duck TV
 https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick
@@ -726,8 +712,6 @@ http://164.215.98.132:2082/live/8649G54859/8649G54859/39652.ts.mono.m3u8
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",BBC Earth
 http://65.108.239.207/bbc/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Discovery Channel
-http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Destination America
 http://fl1.moveonjoy.com/Destination_America/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",DISCOVERY FAMILY CHANNEL
@@ -768,6 +752,8 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/wgIUsFu.png",BBC News
+https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
