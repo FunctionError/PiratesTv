@@ -300,8 +300,6 @@ https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Alkass Four HD (720p)
 https://Streamer3.qna.org.qa:443/148164621_live/148164621_296.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Alkass Three (720p)
-https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Alkass Two (720p)
 https://Streamer3.qna.org.qa:443/148164528_live/148164528_296.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sports USA
@@ -356,8 +354,6 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",KCMN-LD6 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",KHL Prime
-http://194.143.148.28:8080/KHL_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",L1 Max (1080p)
 http://38.183.182.166:8000/play/a12t/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",L'Equipe (1080p)
@@ -492,6 +488,8 @@ https://starsportshindiii.pages.dev/720p.m3u8
 https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",NZ_sky_Sport_2 📺
 http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",T Sports HD 🇧🇩 BDIX
+http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Astro Cricket Sports HD 🇲🇾 📺
 http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Fox 501 HD 📺
@@ -662,6 +660,8 @@ https://bozztv.com/rongo/rongo-EkhonTV/tracks-a1/mono.m3u8
 https://bozztv.com/rongo/rongo-EkusheyTV/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Global TV
 https://bozztv.com/rongo/rongo-GlobalTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Independent TV
+https://bozztv.com/rongo/rongo-IndependentTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Jamuna Television
 https://bozztv.com/rongo/rongo-JamunaTelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Maasranga
@@ -708,6 +708,8 @@ https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",BBC Cbeebies 
+https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
 https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids
@@ -770,8 +772,6 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/wgIUsFu.png",BBC News
-https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
