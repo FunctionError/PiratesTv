@@ -296,8 +296,6 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 http://38.183.182.166:8000/play/a125/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Eleven Sports 1 (2160p)
 http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/20068/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN U (720p)
-https://fl1.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",FanDuel Racing
 https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",FanDuel Sports Network
@@ -482,6 +480,8 @@ https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 http://104.243.40.13:8989/279426_.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Sharjah Sports 🎯
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 1 True Vision 🎯
+https://ww.dooballfree.vip/live/bein1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",PRO Sport International �
 https://proshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Russia Football 1 HD 
@@ -492,6 +492,14 @@ http://cdntv.online/low/9mlxywika2/56.m3u8
 http://cdntv.online/low/9mlxywika2/57.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Fox Football ESPN HD 
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19138/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",True Football 2 HD Thailand
+https://ww.dooballfree.vip/live/tsp2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",True Football 3 HD Thailand
+https://ww.dooballfree.vip/live/tpf3/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",True Football 7 HD Thailand
+https://ww.dooballfree.vip/live/tsp7/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Mutv Football 
+https://ww.dooballfree.vip/live/mutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", Real Madrid tv Football 
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",FIFA+
