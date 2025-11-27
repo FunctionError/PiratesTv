@@ -128,6 +128,8 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png"group-title="Information" group-title="",Investigation Discovery Multi Audio
 https://od.lk/s/ODRfNzIxOTE5Njdf/Investigation_Discovery.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Information" group-title="",Animal Planet
+http://103.175.242.10:8080/animalplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Information" group-title="",Animal Planet HD
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="Information" group-title="",TLC HD
@@ -266,6 +268,8 @@ http://66.102.120.18:8000/play/a04w/index.m3u8
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Eurosport_2_HD
 http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",HYP 🇪🇸
+http://172.93.102.112:8989/278842_.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ACCDN (1080p)
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ACCN (720p)
