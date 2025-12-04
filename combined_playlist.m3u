@@ -82,6 +82,8 @@ https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/calcutta-news.png" group-title="Indian Bangla News",Calcutta News
 https://akdnetwork.co.in/live/cnnew/index.m3u8
+#EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/kolkata-tv.png" group-title="Indian Bangla News",Kolkata TV
+https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/tv9-bangla.png" group-title="Indian Bangla News",TV9 Bangla
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian Bangla News",R Bangla
@@ -92,6 +94,8 @@ https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies" tvg-logo="",Hinde Dabbing Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies" group-title="",Star Gold Romance
+http://119.152.240.15:8000/play/a0ix/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Movies 
 https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Kadak
@@ -106,6 +110,8 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Movies 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GOLDMINES", Goldminnes Action
+http://202.164.50.194:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/d3227daf-ea13-48c9-95a4-1619862d136e/0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood Classic HD
@@ -116,10 +122,14 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",RTA Sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Information" group-title="",Animal Planet HD
-https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information" group-title="",Nat Geo HD
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information" group-title="",Nat Geo HD
+http://119.152.240.15:8000/play/a0i2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Information",BBC Earth HD
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="Information",History TV 18 HD
+http://119.152.240.15:8000/play/a0bj/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Information",Travel XP English EU
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Information",Travel XP English NZ
@@ -140,8 +150,6 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Information",Discover Pakistan TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png"group-title="KIDS" group-title="",Sonic Bangla
-https://iptvcable.netlify.app/Altogether-007/Cartoon/SONIC.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS" tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s"group-title="KIDS" group-title="",Jungle Book
@@ -454,6 +462,8 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Sharjah Sports 🎯
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 1 True Vision 🎯
+https://ww.dooballfree.vip/live/bein1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",PRO Sport International �
 https://proshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Russia Football 1 HD 
@@ -464,6 +474,10 @@ http://cdntv.online/low/9mlxywika2/56.m3u8
 http://cdntv.online/low/9mlxywika2/57.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Fox Football ESPN HD 
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19138/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",True Football 2 HD Thailand
+https://ww.dooballfree.vip/live/tsp2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",True Football 7 HD Thailand
+https://ww.dooballfree.vip/live/tsp7/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Mutv Football 
 https://ww.dooballfree.vip/live/mutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", Real Madrid tv Football 
@@ -570,8 +584,6 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ISLAMIC CHANNELS" tvg-logo=" ", মক্কা টিভি হজের জন্য 
-http://164.215.98.132:2082/live/8649G54859/8649G54859/39652.ts.mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",BBC Earth
 http://65.108.239.207/bbc/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Discovery Channel
