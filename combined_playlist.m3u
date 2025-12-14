@@ -432,6 +432,8 @@ https://tplay.live/originals/ilm-tv/index.m3u8
 https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",  PTV Sports HD 📡 🇵🇰 ⚙️
 https://m.xigzo.store/live/api/250211.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",  Willow Sports 2 HD 📡 ⚙️ 🇺🇸
+https://m.xigzo.store/live/api/52109.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",ILT20 🎯 📡 ⚙️
 http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",A SPORT HD 🇵🇰 🎯 📡 ⚙️
@@ -468,8 +470,6 @@ https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8
 https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Fast Sports 📺 
 https://m.xigzo.store/live/api/277207.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Fox & Super Sports HD 🎯 📡 
-https://m.xigzo.store/live/api/53044.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Willow-Sports-HD 📺 🇧🇩
 http://kstv.us:8080/live/carloskiu/4461542986/15965.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 Hindi 🇮🇳📺
@@ -502,8 +502,6 @@ https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 1 True Vision 🎯
 https://ww.dooballfree.vip/live/bein1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",PRO Sport International �
-https://proshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Russia Football 1 HD 
 http://cdntv.online/low/9mlxywika2/55.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Russia Football 2 HD 
@@ -516,8 +514,6 @@ http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19138/index.m3u8
 https://ww.dooballfree.vip/live/tsp2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",True Football 7 HD Thailand
 https://ww.dooballfree.vip/live/tsp7/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Mutv Football 
-https://ww.dooballfree.vip/live/mutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", Real Madrid tv Football 
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",FIFA+
@@ -672,8 +668,6 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/wgIUsFu.png",BBC News
-https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
