@@ -388,6 +388,8 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sportsman Channel
 https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",SportsNet New York (540p)
+https://fl1.moveonjoy.com/SNY/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",TDM Sports Ch. 93 (720p)
 https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Teledeporte (1080p)
@@ -448,6 +450,8 @@ https://m.xigzo.store/live/api/52109.m3u8
 http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",A SPORT HD 🇵🇰 🎯 📡 ⚙️
 https://m.xigzo.store/live/api/190767.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",A SPORT HD 🇵🇰 🎯 📡 ⚙️
+https://m.xigzo.store/live/api/62393.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",T SPORT HD🇧🇩 🎯 📡 ⚙️
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Ten SPORT HD 🎯 📡 ⚙️ 🇵🇰
@@ -474,6 +478,8 @@ http://cors.tundracast.com:2000/http://103.60.204.26:3255/SonytenSports1HD/index
 https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Fast Sports 📺 
 https://m.xigzo.store/live/api/277207.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Fox & Super Sports HD 🎯 📡 
+https://m.xigzo.store/live/api/53044.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Willow-Sports-HD 📺 🇧🇩
 http://kstv.us:8080/live/carloskiu/4461542986/15965.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 Hindi 🇮🇳📺
@@ -482,6 +488,12 @@ https://starsportshindiii.pages.dev/720p.m3u8
 http://cors.tundracast.com:2000/https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Sandbrix 📺
 https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 1 🎯 📡 
+https://m.xigzo.store/live/api/529243.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 2 🎯 📡 
+https://m.xigzo.store/live/api/529247.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 3 🎯 📡 
+https://m.xigzo.store/live/api/529251.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",DD SPORTS
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket 🏏", RTA Sports HD
