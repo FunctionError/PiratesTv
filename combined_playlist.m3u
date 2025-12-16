@@ -280,8 +280,6 @@ http://143.244.60.30/TSN_2/index.m3u8
 http://143.244.60.30/TSN_3/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Eurosport_HD
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Eurosport_2_HD
-http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ACCDN (1080p)
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ACCN (720p)
@@ -446,6 +444,8 @@ https://tplay.live/originals/ilm-tv/index.m3u8
 https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", আইপিএল অকশন লাইভ 🎯 📡
 https://hugh.cdn.rumble.cloud/live/qt9k24wa/slot-37/3phi-4r51/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",  PTV Sports HD 📡 🇵🇰 ⚙️
+https://m.xigzo.store/live/api/250211.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",  Willow Sports 2 HD 📡 ⚙️ 🇺🇸
 https://m.xigzo.store/live/api/52109.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",ILT20 🎯 📡 ⚙️
@@ -512,6 +512,8 @@ https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
 https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3c3b41f4c5f83f82011b90203c813508" group-title="Football",PSN 5 Sports
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 1🎯
+https://m.xigzo.store/live/api/683620.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Sharjah Sports 🎯
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 1 True Vision 🎯
