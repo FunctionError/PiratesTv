@@ -236,8 +236,6 @@ https://tvsen5.aynaott.com/disneyxd/index.m3u8
 https://tvsen7.aynaott.com/disneyjr/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Disney
 https://tvsen5.aynaott.com/disney/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Family Jr
-https://tvsen5.aynaott.com/familyjr/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Teen Nick
 https://tvsen7.aynaott.com/teennick/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Discovery Kids
@@ -488,6 +486,8 @@ http://202.164.50.194:8000/play/a03k/index.m3u8
 http://163.61.227.29:8000/play/a046/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",AAN TV
 http://163.61.227.29:8000/play/a02c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Epic
+http://epiconvh.akamaized.net/live/epic/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",SONY MAX
 http://66.102.120.18:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",MUSIC INDIA
@@ -1020,6 +1020,8 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
 https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids
+https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duck TV
 https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick
