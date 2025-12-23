@@ -16,6 +16,8 @@ http://178.33.239.54:8080/503/index.m3u8
 https://starsportshindiii.pages.dev/720p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports" group-title="",Live Sports
 https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla" group-title="",Gazi TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla" group-title="",ATN Bangla UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangla" group-title="",NTV UK
@@ -242,8 +244,6 @@ https://tvsen5.aynaott.com/disney/index.m3u8
 https://tvsen5.aynaott.com/familyjr/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Teen Nick
 https://tvsen7.aynaott.com/teennick/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Discovery Kids
-https://tvsen5.aynaott.com/universalkids/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Rongeen Tv
 https://tvsen5.aynaott.com/RongeenTV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CNN
@@ -576,8 +576,6 @@ http://163.61.227.29:8000/play/a03l/index.m3u8
 http://163.61.227.29:8000/play/a03b/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY
 http://163.61.227.29:8000/play/a01i/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY TURBO
-http://163.61.227.29:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",INVESTIGATION DISCOVERY
 http://119.152.240.15:8000/play/a0ke/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",National Geographic
@@ -600,8 +598,6 @@ http://163.61.227.29:8000/play/a02v/index.m3u8
 https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Tara Cinema Bangla
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Padma Tv
-https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ENTER10 BANGLA
 https://cdn-4.pishow.tv/live/241/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",9X JALWA
@@ -658,8 +654,6 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" group-title="Live Tv",BTV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Live Tv",GAZI TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Jamuna
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Jamuna
@@ -1026,12 +1020,14 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",BBC Cbeebies 
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
+https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids
+https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duck TV
 https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ISLAMIC CHANNELS" tvg-logo=" ", Sunnah Tv 
