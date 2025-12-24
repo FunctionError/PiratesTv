@@ -154,8 +154,6 @@ http://119.152.240.15:8000/play/a0i2/index.m3u8
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Information",BBC Earth
 http://65.108.239.207/bbc/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="Information",History TV 18 HD
-http://119.152.240.15:8000/play/a0bj/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Information",Travel XP English EU
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Information",Travel XP English NZ
@@ -404,8 +402,6 @@ https://tvsen6.aynaott.com/B4U_Kadak/index.m3u8
 https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Goldmines 
 https://tvsen6.aynaott.com/Goldmines/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Utsav Gold
-http://45.148.145.57/IN_STU/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Peace Tv Bangla
 https://tvsen7.aynaott.com/PeaceTvBanglaHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Peace Tv
@@ -564,6 +560,8 @@ http://163.61.227.29:8000/play/a04a/index.m3u8
 http://163.61.227.29:8000/play/a03l/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Discover Pakistan
 http://163.61.227.29:8000/play/a03b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY
+http://163.61.227.29:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",INVESTIGATION DISCOVERY
 http://119.152.240.15:8000/play/a0ke/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",National Geographic
@@ -838,8 +836,6 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",BBC Cbeebies 
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
-https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids
 https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duck TV
@@ -894,8 +890,6 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/wgIUsFu.png",BBC News
-https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
