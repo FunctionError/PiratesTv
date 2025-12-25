@@ -116,8 +116,6 @@ https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies" tvg-logo="",Hinde Dabbing Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies" group-title="",Star Gold Romance
-http://119.152.240.15:8000/play/a0ix/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies" group-title="",Colors Cineplex Superhit
 https://nettv.fun/jh/stream.php?id=JC_ColorsCineplexSuperhit&sr=JCHLS&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Movies 
@@ -146,14 +144,10 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information" group-title="",Nat Geo HD
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information" group-title="",Nat Geo HD
-http://119.152.240.15:8000/play/a0i2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Information",BBC Earth 
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Information",BBC Earth
 http://65.108.239.207/bbc/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="Information",History TV 18 HD
-http://119.152.240.15:8000/play/a0bj/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Information",Travel XP English EU
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Information",Travel XP English NZ
@@ -434,18 +428,24 @@ http://84.54.128.52:9090/play/4003/index.m3u8
 http://201.230.121.186:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Makka TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",AND PICTURES HD
-http://119.152.240.15:8000/play/a0h7/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",AND XPLOR HD
 http://66.102.120.18:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",HBO
+http://200.80.230.124:8000/play/a06o/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",HBO
 http://185.18.56.26:8888/hbo1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", HBO2
+http://200.80.230.124:8000/play/a06q/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", HBO2
 http://185.18.56.26:8888/hbo2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", HBO3
 http://185.18.56.26:8888/hbo3/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", HBO FAMILY
 https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", HBO Zone
+http://200.80.230.124:8000/play/a06p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", HBO XTREME HD
+http://200.80.230.124:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", AXN
 http://185.18.56.26:8888/axn/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", AXN BLACK
@@ -454,8 +454,6 @@ http://84.54.128.52:9090/play/1008/index.m3u8
 http://163.61.227.29:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",STAR GOLD Select 
 http://66.102.120.18:8000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",STAR GOLD THRILLS
-http://119.152.240.15:8000/play/a0iy/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",AAN TV
 http://163.61.227.29:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Epic
@@ -464,8 +462,6 @@ http://epiconvh.akamaized.net/live/epic/master.m3u8
 http://66.102.120.18:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ARY MUSIK
 http://163.61.227.29:8000/play/a03r/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",ZEE CINEMA HD 
-http://119.152.240.15:8000/play/a0bf/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",FILMAX
 http://163.61.227.29:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",FILMAZIA
@@ -476,6 +472,8 @@ https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/in
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",START AIR 
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Al Jazeera
+http://103.60.204.26:3255/Aljazeera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TRT 2 HD
@@ -492,8 +490,6 @@ http://163.61.227.29:8000/play/a03o/index.m3u8
 http://163.61.227.29:8000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Play HD
 http://163.61.227.29:8000/play/a03c/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",AND TV HD
-http://119.152.240.15:8000/play/a0j9/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Aur Life HD
 http://163.61.227.29:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",VENUS ENTERTAINMENT
@@ -512,18 +508,10 @@ http://163.61.227.29:8000/play/a03b/index.m3u8
 http://163.61.227.29:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY TURBO
 http://163.61.227.29:8000/play/a01w/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",INVESTIGATION DISCOVERY
-http://119.152.240.15:8000/play/a0ke/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",National Geographic
-http://119.152.240.15:8000/play/a0i2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",National Geographic
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",National Geographic
 http://163.61.227.29:8000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",SONY BBC EARTH 
-http://119.152.240.15:8000/play/a0bm/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",History TV18 HD
-http://119.152.240.15:8000/play/a0bj/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",5 NEWS HD
 http://163.61.227.29:8000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Zee 24 Ghanta
