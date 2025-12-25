@@ -250,14 +250,14 @@ https://tvsen6.aynaott.com/axs/index.m3u8
 https://tvsen6.aynaott.com/bbcnews/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Sky NEWS
 https://tvsen5.aynaott.com/skynews/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",FOX NEWS
+https://tvsen6.aynaott.com/foxnews/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CP24
 https://tvsen6.aynaott.com/cp24/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Bharat 24 
 https://tvsen7.aynaott.com/Bharat24Vi/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Sadhna Prime News
 https://tvsen6.aynaott.com/SadhnaPrimeNews/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",News 24
-https://tvsen7.aynaott.com/News24/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TV9 Bharatvarsh
 https://tvsen7.aynaott.com/TV9Bharatvarsh/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Republic Tv
@@ -406,8 +406,6 @@ https://tvsen5.aynaott.com/peacetv/index.m3u8
 https://tvsen7.aynaott.com/MadaniTV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TV One Bangla
 https://tvsen5.aynaott.com/tvone/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Channel Win
-https://tvsen6.aynaott.com/ChannelWin/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",A SPORTS
 http://163.61.227.29:8000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",FAST SPORTS
@@ -588,8 +586,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",71 TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",INDEPENDENT
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",NEWS 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",ATN NEWS
@@ -778,8 +774,10 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",BBC Cbeebies 
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Disney Junior
-https://live20.bozztv.com/giatvplayout7/giatv-209650/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
+https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids
+https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duck TV
 https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick
