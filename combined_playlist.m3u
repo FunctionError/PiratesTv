@@ -516,18 +516,12 @@ http://163.61.227.29:8000/play/a05i/index.m3u8
 http://163.61.227.29:8000/play/a03l/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Discover Pakistan
 http://163.61.227.29:8000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY
-http://163.61.227.29:8000/play/a01i/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY TURBO
-http://163.61.227.29:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",INVESTIGATION DISCOVERY
 http://119.152.240.15:8000/play/a0ke/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",National Geographic
 http://119.152.240.15:8000/play/a0i2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",National Geographic
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",National Geographic
-http://163.61.227.29:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",SONY BBC EARTH 
 http://119.152.240.15:8000/play/a0bm/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",History TV18 HD
@@ -570,8 +564,6 @@ http://163.61.227.29:8000/play/a03w/index.m3u8
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", KIDS ZONE
 http://163.61.227.29:8000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Cartoon Network Hindi 
-http://163.61.227.29:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Islamic" tvg-logo="https://i.postimg.cc/pdPNPz8J/images.png",AL SUNNAH AL NABAWIYAH TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Islamic" tvg-logo="https://i.imgur.com/afhANph.jpg",Makka live
@@ -774,10 +766,6 @@ https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",BBC Cbeebies 
-https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
-https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duck TV
 https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick
