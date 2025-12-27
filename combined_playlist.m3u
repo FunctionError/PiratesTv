@@ -15,8 +15,6 @@ https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports" group-title="",Live Sports
 https://live.mncdn.shop/fc95d30e-5323-4c12-bb38-7a1e3f04acc2/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports" group-title="",Live Sports
-http://66.102.120.18:8000/play/a018/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports" group-title="",Live Sports
 https://starsportshindiii.pages.dev/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports" group-title="",Live Sports
 http://178.33.239.54:8080/503/index.m3u8
@@ -24,6 +22,8 @@ http://178.33.239.54:8080/503/index.m3u8
 https://starsportshindiii.pages.dev/720p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla" group-title="",BTV World
 http://103.230.105.252:1935/live/btv/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla" group-title="",Gazi TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla" group-title="",ATN Bangla UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangla" group-title="",NTV UK
@@ -210,8 +210,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png"group-title="English News" group-title="",France 24
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",RT Now
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",Sky News
@@ -236,6 +234,8 @@ https://tvsen5.aynaott.com/familyjr/index.m3u8
 https://tvsen7.aynaott.com/teennick/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Discovery Kids
 https://tvsen5.aynaott.com/universalkids/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Rongeen Tv
+https://tvsen5.aynaott.com/RongeenTV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CNN
 https://tvsen6.aynaott.com/cnn/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CNBC
@@ -252,8 +252,6 @@ https://tvsen5.aynaott.com/skynews/index.m3u8
 https://tvsen6.aynaott.com/foxnews/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CP24
 https://tvsen6.aynaott.com/cp24/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Sadhna Prime News
-https://tvsen6.aynaott.com/SadhnaPrimeNews/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",News 24
 https://tvsen7.aynaott.com/News24/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TV9 Bharatvarsh
@@ -398,6 +396,8 @@ https://tvsen6.aynaott.com/B4U_Kadak/index.m3u8
 https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Goldmines 
 https://tvsen6.aynaott.com/Goldmines/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Utsav Gold
+http://45.148.145.57/IN_STU/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Peace Tv Bangla
 https://tvsen7.aynaott.com/PeaceTvBanglaHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Peace Tv
@@ -774,10 +774,6 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",BBC Cbeebies 
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
-https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Disney Junior
-https://live20.bozztv.com/giatvplayout7/giatv-209650/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duck TV
 https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick
