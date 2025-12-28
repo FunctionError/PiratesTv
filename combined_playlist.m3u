@@ -112,8 +112,6 @@ https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies" group-title="",Sony Max HD
 http://66.102.120.18:8000/play/a071/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Zee_Anmol_Cinema_2_logo_2024.png/revision/latest/scale-to-width-down/300?cb=20240421093954"group-title="Hindi Movies" group-title="",Zee Anmol Cinema 2
-http://110.39.27.47:8001/play/a03w/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Movies 
 https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Kadak
@@ -198,8 +196,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png"group-title="English News" group-title="",France 24
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",RT Now
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",Sky News
@@ -314,6 +310,8 @@ https://tvsen6.aynaott.com/atnnews/index.m3u8
 https://tvsen6.aynaott.com/etv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DURONTO TV
 https://tvsen6.aynaott.com/durontotv-live/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Time TV
+https://tvsen7.aynaott.com/timetv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",GAZI TV
 https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Bijoy Tv HD
