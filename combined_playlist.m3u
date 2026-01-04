@@ -236,6 +236,8 @@ http://200.80.230.124:8000/play/a06q/index.m3u8
 http://185.18.56.26:8888/hbo2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", HBO3
 http://185.18.56.26:8888/hbo3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", HBO FAMILY
+https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", HBO Zone
 http://200.80.230.124:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", HBO XTREME HD
@@ -398,18 +400,20 @@ https://tplay.live/originals/ilm-tv/index.m3u8
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", BPL 2026 🎯 📡 T Sports 
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", BPL 2026 🚨 🎯 📡 T Sports  🚨
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", BPL 2026 🎯 📡 হিমেল ⚙️
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", BPL 2026 🚨🎯 📡 হিমেল ⚙️ 🚨
 https://s1.himelop-pro.top/live/bpl-op.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", T SPORT HD 🎯 📡 ⚙️ 📺
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", T SPORT HD 🚨🎯 📡 ⚙️ 📺 🚨
 http://stvlive.net:8080/tsports1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",সনি টেন ৫ 🎯 📡
 https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",  Shol Sports HD 📡 🇵🇰 ⚙️
 http://cors.tundracast.com:2000/https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",ILT20 🎯 📡 ⚙️
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🚨 ILT20 🎯 📡 ⚙️🚨
 http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🚨 T SPORT HD 🇵🇰 🎯 📡 ⚙️ 🚨
+https://tvsen1.aynaott.com/YNMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",T SPORT HD🇧🇩 🎯 📡 ⚙️
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",T SPORT HD 🎯 📡 ⚙️
@@ -520,6 +524,8 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",BBC Cbeebies 
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids
+https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duck TV
 https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick
@@ -538,6 +544,8 @@ http://fl1.moveonjoy.com/Destination_America/index.m3u8
 http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",DISCOVERY LIFE
 http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",DISNEY JR
+http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", BBC Earth US
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", Wild Nature
@@ -568,8 +576,6 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/wgIUsFu.png",BBC News
-https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
