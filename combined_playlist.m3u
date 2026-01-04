@@ -40,8 +40,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jago%20News%2024.jpeg"group-title="Jagobd" group-title="",Jago News 24
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="Bangla Music" group-title="",ATN Music
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla Music" tvg-logo="https://imgpile.com/images/58YDwk.jpg",RTV Music
 https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla Music" tvg-logo="",Music Bangla
@@ -132,6 +130,8 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Information" group-title="",Discovery UK
 http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information" group-title="",Nat Geo HD
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Information",BBC Earth 
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Information",BBC Earth 
@@ -280,8 +280,6 @@ http://163.61.227.29:8000/play/a03p/index.m3u8
 http://163.61.227.29:8000/play/a03c/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Aur Life HD
 http://163.61.227.29:8000/play/a03e/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",VENUS ENTERTAINMENT
-http://163.61.227.29:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Dangal
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Hi Dost!
@@ -292,10 +290,16 @@ http://163.61.227.29:8000/play/a05i/index.m3u8
 http://163.61.227.29:8000/play/a03l/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Discover Pakistan
 http://163.61.227.29:8000/play/a03b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY
+http://163.61.227.29:8000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY TURBO
+http://163.61.227.29:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY SCIENCE
 http://103.140.254.2:3500/live/568.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",National Geographic
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",National Geographic
+http://163.61.227.29:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Animal Planet
 http://103.140.254.2:3500/live/567.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Ndtv Good Times
@@ -402,8 +406,6 @@ https://stream.spicefmbd.com/stream.m3u8
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", BPL 2026 🚨🎯 📡 হিমেল ⚙️ 🚨
 https://s1.himelop-pro.top/live/bpl-op.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", T SPORT HD 🚨🎯 📡 ⚙️ 📺 🚨
-http://stvlive.net:8080/tsports1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",সনি টেন ৫ 🎯 📡
 https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",  Shol Sports HD 📡 🇵🇰 ⚙️
@@ -472,6 +474,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Channel 24 🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Channel 24  🇧🇩
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Somoy TV 🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Somoy TV  🇧🇩
@@ -564,6 +568,8 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/wgIUsFu.png",BBC News
+https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
