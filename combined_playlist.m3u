@@ -122,8 +122,6 @@ https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisiK50nT9KXOAVZcRYy4aTrv4cVP9btrY4_s2KvXzXaSzGeUEmvgE3Gj4&s=10" group-title="Hindi Movies",Joo Music
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Movies
@@ -176,6 +174,8 @@ http://103.60.204.26:3255/CartoonNetwork/tracks-v1a1/mono.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS" tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="KIDS" group-title="",Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s"group-title="KIDS" group-title="",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English Movies" group-title="",Lotus
@@ -210,8 +210,6 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English News" tvg-logo="https://i.postimg.cc/vH3MKVPY/CNN.jpg",CNA News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Utsav Gold
-http://45.148.145.57/IN_STU/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",A SPORTS
 http://163.61.227.29:8000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",FAST SPORTS
@@ -264,6 +262,8 @@ http://epiconvh.akamaized.net/live/epic/master.m3u8
 http://163.61.227.29:8000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ZEE ANMOL CINEMA
 http://163.61.227.29:8000/play/a04j/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",FILMAX
+http://163.61.227.29:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",FILMAZIA
 http://163.61.227.29:8000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",B4U MOVIES
@@ -310,8 +310,6 @@ http://163.61.227.29:8000/play/a04b/index.m3u8
 https://mumt03.tangotv.in/HIDOST/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Express HD 
 http://163.61.227.29:8000/play/a05i/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",ZEE ANMOL
-http://163.61.227.29:8000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",A plus
 http://163.61.227.29:8000/play/a03l/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Discover Pakistan
@@ -330,6 +328,8 @@ http://163.61.227.29:8000/play/a01d/index.m3u8
 http://103.140.254.2:3500/live/567.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Ndtv Good Times
 http://103.140.254.2:3500/live/560.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",5 NEWS HD
+http://163.61.227.29:8000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Green Entertainment
@@ -372,6 +372,8 @@ http://163.61.227.29:8000/play/a03w/index.m3u8
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", KIDS ZONE
 http://163.61.227.29:8000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Cartoon Network Hindi 
+http://163.61.227.29:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Islamic" tvg-logo="https://i.postimg.cc/pdPNPz8J/images.png",AL SUNNAH AL NABAWIYAH TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Islamic" tvg-logo="https://i.imgur.com/afhANph.jpg",Makka live
@@ -426,8 +428,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="Football",BIS HABER
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="Football",A SPOR
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="Football",TRT SPOR
 https://trn03.tulix.tv/gt-trt-spor1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b0befd2d80789976ef317aeb5ef935b9" group-title="Football",PSN 1 Sports
@@ -500,8 +500,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209650/index.m3u8
 https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Rongeen TV
-https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ISLAMIC CHANNELS" tvg-logo=" ", Noor Tv
@@ -588,6 +586,8 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/wgIUsFu.png",BBC News
+https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
