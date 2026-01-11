@@ -200,6 +200,8 @@ http://178.33.239.54:8080/510/index.m3u8
 http://178.33.239.54:8080/511/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",M4 SPORTS
 http://dvr1.kablova.tv/M4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", EURO SPORTS HD
+http://84.54.128.52:9090/play/4003/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", ESPN 7
 http://201.230.121.186:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Makka TV
@@ -222,6 +224,8 @@ http://200.80.230.124:8000/play/a06p/index.m3u8
 http://200.80.230.124:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", AXN
 http://185.18.56.26:8888/axn/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", AXN BLACK
+http://84.54.128.52:9090/play/1008/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Epic
 http://epiconvh.akamaized.net/live/epic/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Movies Thriller
@@ -250,6 +254,8 @@ https://mumt03.tangotv.in/HIDOST/index.m3u8
 http://103.140.254.2:3500/live/568.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",National Geographic
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Animal Planet
+http://103.140.254.2:3500/live/567.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Ndtv Good Times
 http://103.140.254.2:3500/live/560.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Zee 24 Ghanta
@@ -336,6 +342,8 @@ http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Motor Vision
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 1🎯
+https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="Football",BIS HABER
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="Football",A SPOR
