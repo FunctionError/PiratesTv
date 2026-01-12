@@ -102,8 +102,6 @@ https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian Bangla News",NK
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Indian Bangla News",NK TV Bangla
-https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies" tvg-logo="",Hinde Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies" tvg-logo="",Hinde Movies 2
@@ -206,6 +204,8 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English News" tvg-logo="https://i.postimg.cc/vH3MKVPY/CNN.jpg",CNA News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Utsav Gold
+http://45.148.145.57/IN_STU/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TNT SPORTS 2
 http://178.33.239.54:8080/510/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TNT SPORTS 3
@@ -298,6 +298,8 @@ https://mumt03.tangotv.in/FOODFOOD/index.m3u8
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Islamic" tvg-logo="https://i.postimg.cc/pdPNPz8J/images.png",AL SUNNAH AL NABAWIYAH TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Islamic" tvg-logo="https://i.imgur.com/afhANph.jpg",Makka live
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",COLORS BANGLA
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="",দূরন্ত টিভি
@@ -426,6 +428,8 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",BBC Cbeebies 
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
+https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duck TV
 https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick
