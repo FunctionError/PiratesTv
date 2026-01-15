@@ -241,11 +241,11 @@ http://200.80.230.124:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",HBO
 http://185.18.56.26:8888/hbo1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", HBO2
+http://200.80.230.124:8000/play/a06q/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", HBO2
 http://185.18.56.26:8888/hbo2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", HBO3
 http://185.18.56.26:8888/hbo3/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", HBO FAMILY
-https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", HBO Zone
 http://200.80.230.124:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", HBO XTREME HD
@@ -318,6 +318,10 @@ http://163.61.227.29:8000/play/a04a/index.m3u8
 http://163.61.227.29:8000/play/a03l/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Discover Pakistan
 http://163.61.227.29:8000/play/a03b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY
+http://163.61.227.29:8000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY TURBO
+http://163.61.227.29:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY SCIENCE
 http://103.140.254.2:3500/live/568.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",National Geographic
@@ -372,8 +376,6 @@ http://163.61.227.29:8000/play/a03w/index.m3u8
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", KIDS ZONE
 http://163.61.227.29:8000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Cartoon Network Hindi 
-http://163.61.227.29:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Islamic" tvg-logo="https://i.postimg.cc/pdPNPz8J/images.png",AL SUNNAH AL NABAWIYAH TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Islamic" tvg-logo="https://i.imgur.com/afhANph.jpg",Makka live
@@ -408,8 +410,6 @@ https://stream.spicefmbd.com/stream.m3u8
 http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19146/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", BPL 2026 🚨 🎯 📡 SholSports  🚨
 https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", BPL 2026 🚨 🎯 📡 নাগরিক Sports  🚨
-https://satoshi-cors.herokuapp.com/http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 🚨 🎯 📡 SKY Sports Nz 🚨
 https://datakameha.route64.de/o11/sky-sport-3-nz/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjuqjosfnjkzrvlz6xf5t5hkat5bkcofc3mpmkkuzi2ttzki4wvclm/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", T SPORT HD 🚨🎯 📡 ⚙️ 📺 🚨
@@ -448,6 +448,8 @@ http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Motor Vision
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 1🎯
+https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="Football",BIS HABER
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="Football",A SPOR
