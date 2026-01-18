@@ -248,6 +248,8 @@ http://163.61.227.29:8000/play/a046/index.m3u8
 http://163.61.227.29:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Epic
 http://epiconvh.akamaized.net/live/epic/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ARY MUSIK
+http://163.61.227.29:8000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ZEE ANMOL CINEMA
 http://163.61.227.29:8000/play/a04j/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",FILMAX
@@ -264,8 +266,6 @@ https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/in
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",START AIR 
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",NEWS18 INDIA
-http://103.140.254.2:3500/live/530.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TRT 2 HD
@@ -290,8 +290,6 @@ http://163.61.227.29:8000/play/a03e/index.m3u8
 http://163.61.227.29:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Dangal
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Dangal 2
-http://163.61.227.29:8000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Hi Dost!
 https://mumt03.tangotv.in/HIDOST/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Express HD 
@@ -306,16 +304,10 @@ http://163.61.227.29:8000/play/a03b/index.m3u8
 http://163.61.227.29:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY TURBO
 http://163.61.227.29:8000/play/a01w/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY SCIENCE
-http://103.140.254.2:3500/live/568.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",National Geographic
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",National Geographic
 http://163.61.227.29:8000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Animal Planet
-http://103.140.254.2:3500/live/567.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Ndtv Good Times
-http://103.140.254.2:3500/live/560.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",5 NEWS HD
 http://163.61.227.29:8000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Zee 24 Ghanta
@@ -360,8 +352,6 @@ http://163.61.227.29:8000/play/a03w/index.m3u8
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", KIDS ZONE
 http://163.61.227.29:8000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Cartoon Network Hindi 
-http://163.61.227.29:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Islamic" tvg-logo="https://i.postimg.cc/pdPNPz8J/images.png",AL SUNNAH AL NABAWIYAH TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Islamic" tvg-logo="https://i.imgur.com/afhANph.jpg",Makka live
@@ -446,6 +436,8 @@ https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="Football",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="Football",TRT SPOR
+https://trn03.tulix.tv/gt-trt-spor1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b0befd2d80789976ef317aeb5ef935b9" group-title="Football",PSN 1 Sports
 https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a6a66023b1ce294c3d0e8ebf256fa5f7" group-title="Football",PSN 2 Sports
@@ -668,6 +660,8 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1 (576p)
 http://103.167.255.18:8085/play/a0ki/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Sports",Star Sports 2 (576p)
+http://103.167.255.18:8085/play/a0jt/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Sports",Star Sports 2 HD (1080p)
 http://103.167.255.18:8085/play/a0jj/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kHerF19.png" group-title="Sports",Star Sports 2 Hindi (576p)
