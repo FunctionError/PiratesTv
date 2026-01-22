@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/FalconCast.png" group-title="Promo",FalconCast
 https://raw.githubusercontent.com/falconcasthoster/promo/refs/heads/main/nolink/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026" group-title="",BPL 2026
+https://satoshi-cors.herokuapp.com/http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026" group-title="",BPL 2026
 https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026" group-title="",BPL 2026
 http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19146/index.m3u8
@@ -10,6 +12,8 @@ http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19146/index.m3u8
 http://163.61.227.29:8000/play/a05l/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports" group-title="",Live Sports
 https://starsportshindiii.pages.dev/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports" group-title="",Live Sports
+http://163.61.227.29:8000/play/a05l/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports" group-title="",Live Sports
 https://starsportshindiii.pages.dev/720p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla" group-title="",BTV World
@@ -232,6 +236,8 @@ http://84.54.128.52:9090/play/1008/index.m3u8
 http://163.61.227.29:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",B4U MUSIC
 http://163.61.227.29:8000/play/a046/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AAN TV
+http://163.61.227.29:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Epic
 http://epiconvh.akamaized.net/live/epic/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ARY MUSIK
@@ -338,14 +344,14 @@ https://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8
 https://cdn-2.pishow.tv/live/228/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Food Food
 https://mumt03.tangotv.in/FOODFOOD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", FASHION TV
+http://163.61.227.29:8000/play/a03v/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", PLANET FUN
 http://163.61.227.29:8000/play/a03w/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",GUBBARE
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", KIDS ZONE
 http://163.61.227.29:8000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Cartoon Network Hindi 
-http://163.61.227.29:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Islamic" tvg-logo="https://i.postimg.cc/pdPNPz8J/images.png",AL SUNNAH AL NABAWIYAH TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Islamic" tvg-logo="https://i.imgur.com/afhANph.jpg",Makka live
@@ -531,6 +537,8 @@ https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkVK043/ekbariya.png" group-title="ISLAMIC CHANNELS",AL EKHBARIA
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkVK043/ekbariya.png" group-title="ISLAMIC CHANNELS",AL EKHBARIA
+https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TkVK043/ekbariya.png" group-title="ISLAMIC CHANNELS",AL EKHBARIA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MctgDQ8/sunnah.png" group-title="ISLAMIC CHANNELS",AL SUNNAH TV
 https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
@@ -604,8 +612,6 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/wgIUsFu.png",BBC News
-https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
