@@ -38,8 +38,6 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="Relagion Channel", Madani TV
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TtHtGkW/20240803-172601.png" group-title="Relagion Channel", Makkah TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Relagion Channel", EWTN TV
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/qrpsvkxl/720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Relagion Channel",God TV
@@ -244,6 +242,8 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ARY Zindagi
 http://163.61.227.29:8000/play/a03o/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BIG MAGIC
+http://163.61.227.29:8000/play/a04f/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ARY DIGITAL
 http://163.61.227.29:8000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Play HD
@@ -322,6 +322,8 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Me-টিভি
 https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",US-BD Journal 24 TV
+http://208.86.19.13:81/510.stream/index.m3u8?
 #EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",Travel xp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Histoire HD
@@ -372,6 +374,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Sky Sports 1
 https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
+#EXTINF:-1 tvg-logo="" group-title="Football",Astro SPORTS Primier 
+http://107.175.220.4:11799/go_assp1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",ASTRO SPORTS PLUS 
 http://107.175.220.4:11799/go_sportsplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",NOW SPORTS PRIME
@@ -382,8 +386,6 @@ https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="Football",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="Football",Shol Sports
-https://kbl-stream.movie.af/live/smil:solhetv.smil/chunklist_w2030971013_b1628000.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b0befd2d80789976ef317aeb5ef935b9" group-title="Football",PSN 1 Sports
 https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a6a66023b1ce294c3d0e8ebf256fa5f7" group-title="Football",PSN 2 Sports
@@ -550,8 +552,6 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/wgIUsFu.png",BBC News
-https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
