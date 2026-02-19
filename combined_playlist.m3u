@@ -210,8 +210,6 @@ http://163.61.227.29:8000/play/a05l/index.m3u8
 http://201.230.121.186:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Makka TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Colors Cineplex Superhits
-http://163.61.227.29:8000/play/a04c/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", LOTUS MACAU
 http://163.61.227.29:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",B4U MUSIC
@@ -228,8 +226,6 @@ http://163.61.227.29:8000/play/a04j/index.m3u8
 http://163.61.227.29:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",FILMAZIA
 http://163.61.227.29:8000/play/a02l/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",B4U MOVIES
-http://163.61.227.29:8000/play/a047/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",GOLDMINES MOVIES
 http://163.61.227.29:8000/play/a04l/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Movies Thriller
@@ -238,6 +234,8 @@ https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/in
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",START AIR 
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TRT 2 HD
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ATV HD
@@ -572,8 +570,6 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/wgIUsFu.png",BBC News
-https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
