@@ -38,10 +38,6 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="Relagion Channel", Madani TV
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TtHtGkW/20240803-172601.png" group-title="Relagion Channel", Makkah TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png" group-title="Relagion Channel", AL Sunnah TV
-http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="Relagion Channel", EWTN TV
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/qrpsvkxl/720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Relagion Channel",God TV
@@ -114,10 +110,22 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/d3227daf-ea13-48c9-95a4-1619862d136e/0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png"group-title="Sports" group-title="",Sony Sports Ten 1 HD
+http://103.229.254.25:7001/play/a0ee/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sports" group-title="",Sony Sports Ten 2 HD
+http://103.229.254.25:7001/play/a0ef/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Sports" group-title="",Sony Sports Ten 3 HD
+http://103.229.254.25:7001/play/a0eg/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",DD Sports 2.0
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",RTA Sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Information" group-title="",Discovery Bangla
+http://103.229.254.25:7001/play/a03g/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information" group-title="",Nat Geo HD
+http://103.229.254.25:7001/play/a038/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Information" group-title="",Sony BBC Earth
+http://103.229.254.25:7001/play/a031/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Information",BBC Earth 
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Information",BBC Earth 
@@ -154,6 +162,8 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies" group-title="",Star Movies HD
 http://103.229.254.25:7001/play/a02w/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies" group-title="",Star Movies Select HD
+http://103.229.254.25:7001/play/a02v/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English Movies" group-title="",Lotus
 https://cdn1.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus-avc1_2089200=342-mp4a_256000_eng=343.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg"group-title="English Movies" group-title="",Action Hollywood Movies
@@ -258,6 +268,8 @@ http://163.61.227.29:8000/play/a04a/index.m3u8
 http://163.61.227.29:8000/play/a03l/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Discover Pakistan
 http://163.61.227.29:8000/play/a03b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY
+http://163.61.227.29:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY TURBO
 http://163.61.227.29:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",National Geographic
@@ -312,6 +324,8 @@ https://tvsen4.aynaott.com/durontotv/index.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",DIPPTO
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",ETV TV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",US-BD Journal 24 TV
 http://208.86.19.13:81/510.stream/index.m3u8?
 #EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",Travel xp
@@ -326,20 +340,16 @@ https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 https://tplay.live/originals/ilm-tv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",WAZ TV 🎯 📡Mizanur Rahman Azhari Waz
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Azan TV 🎯 📡
-https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Star Sport 2 HD
+http://103.99.249.139/starsport2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Sky Sport Mian Event
 https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", T Sports T20 World Cup 
-https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",T Sports T20 World Cup 26 📺
 https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Sky Cricket 
 http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/7343/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 🚨Sathiya TV Srilanka 📡📺
-https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 🚨 Willow USA SPORT HD 🚨📡📺 
 https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 🚨 Hotstar HD 🚨  Willow
