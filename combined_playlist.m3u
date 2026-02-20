@@ -44,10 +44,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="Relagion Channel", EWTN TV
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/qrpsvkxl/720/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Relagion Channel",God TV
-https://hlsb-us.god.tv/GODTV/USA-480.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Relagion Channel", Arihant TV
-https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movie%20Bangla.png",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Bangla Movies",Amar Bangla
@@ -210,6 +206,8 @@ http://163.61.227.29:8000/play/a05l/index.m3u8
 http://201.230.121.186:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Makka TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",GOD TV
+https://hlsb-us.god.tv/GODTV/USA-480.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Colors Cineplex Superhits
 http://163.61.227.29:8000/play/a04c/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", LOTUS MACAU
@@ -280,8 +278,12 @@ http://163.61.227.29:8000/play/a01i/index.m3u8
 http://163.61.227.29:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",National Geographic
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",National Geographic
+http://163.61.227.29:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",5 NEWS HD
 http://163.61.227.29:8000/play/a03m/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Green Entertainment
+http://163.61.227.29:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",AAKASH AATH
 https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ENTER10 BANGLA
@@ -306,8 +308,6 @@ http://163.61.227.29:8000/play/a045/index.m3u8
 https://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", MANORANJAN MOVIES
 https://cdn-2.pishow.tv/live/228/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Food Food
-https://mumt03.tangotv.in/FOODFOOD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", FASHION TV
 http://163.61.227.29:8000/play/a03v/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", PLANET FUN
@@ -342,17 +342,21 @@ https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 https://tplay.live/originals/ilm-tv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",WAZ TV 🎯 📡Mizanur Rahman Azhari Waz
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Star Sport 2 HD
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Star Sport 2 HD 🇮🇳
 http://103.99.249.139/starsport2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Sky Sport Mian Event
 https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", T Sports T20 World Cup 
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", T Sports T20 World Cup 🇧🇩🚹
 https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", T Sports 
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", T Sports 🇧🇩
 https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=1
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Star Sports 1 HD
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",PTV Sports HD 🇵🇰
+https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=92
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",A Sports HD 🇵🇰
+https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=88
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Star Sports 1 HD 🇮🇳
 https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=2
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",T Sports T20 World Cup 26 📺
 https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
