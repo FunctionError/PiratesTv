@@ -364,6 +364,8 @@ https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/star-sports-select-1
 https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/star-sports-select-2
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Sky Sport Mian Event
 https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Sky Sport Mian Event
+https://river-1.rutube.ru/stream/genetta-319.m9.rutube.ru/rnveSzflfFCjJyhzIm2zVw/1772234372/9585fdae92af45f113fdcc9f6c4ba442/576p_stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", T Sports T20 World Cup 🇧🇩🚹
 https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", T Sports 🇧🇩
@@ -558,8 +560,6 @@ https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/AccuWeather_2021.svg",ACCU WEATHER
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V2gtYfH/download-1.png" group-title="Infotainment Channels", Discovery
-http://stvlive.net:8080/discovery/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/mBanglaavel%20XP.png", Travel XP English
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Infotainment Channels",Travel XP English S
@@ -568,6 +568,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZ2NVqN/outdoorch.png" group-title="Documentary", OUTDOOR CHANNEL 🇺🇸
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZ2NVqN/outdoorch.png" group-title="Documentary",Outdor channel
+http://103.66.62.83:8000/play/a04f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sRhcqHT/realwild.png" group-title="Documentary", REAL WILD 🇬🇧
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/7521/01/Insight-TV-Logo-small-150x150.png" group-title="Documentary", INSIGHT
