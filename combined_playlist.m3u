@@ -94,6 +94,8 @@ https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 http://110.39.27.47:8001/play/a03w/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Hindi Movies" group-title="",Star Gold
 http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies" group-title="",Star Gold Romance
+http://119.152.240.15:8000/play/a0ix/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Movies 
 https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Kadak
@@ -112,8 +114,6 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/d3227daf-ea13-48c9-95a4-1619862d136e/0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png"group-title="Sports" group-title="",Sony Sports Ten 1 HD
 http://103.229.254.25:7001/play/a0ee/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sports" group-title="",Sony Sports Ten 2 HD
-http://103.229.254.25:7001/play/a0ef/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Sports" group-title="",Sony Sports Ten 3 HD
 http://103.229.254.25:7001/play/a0eg/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",DD Sports 2.0
@@ -204,10 +204,14 @@ http://163.61.227.29:8000/play/a05l/index.m3u8
 http://201.230.121.186:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Makka TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AND PICTURES HD
+http://119.152.240.15:8000/play/a0h7/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Colors Cineplex Superhits
 http://163.61.227.29:8000/play/a04c/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", LOTUS MACAU
 http://163.61.227.29:8000/play/a03u/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",STAR GOLD THRILLS
+http://119.152.240.15:8000/play/a0iy/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",B4U MUSIC
 http://163.61.227.29:8000/play/a046/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",AAN TV
@@ -216,6 +220,8 @@ http://163.61.227.29:8000/play/a02c/index.m3u8
 http://epiconvh.akamaized.net/live/epic/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ARY MUSIK
 http://163.61.227.29:8000/play/a03r/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ZEE CINEMA HD 
+http://119.152.240.15:8000/play/a0bf/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ZEE ANMOL CINEMA
 http://163.61.227.29:8000/play/a04j/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",FILMAX
@@ -252,6 +258,8 @@ http://163.61.227.29:8000/play/a04f/index.m3u8
 http://163.61.227.29:8000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Play HD
 http://163.61.227.29:8000/play/a03c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AND TV HD
+http://119.152.240.15:8000/play/a0j9/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Aur Life HD
 http://163.61.227.29:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",VENUS ENTERTAINMENT
@@ -276,12 +284,20 @@ http://163.61.227.29:8000/play/a01i/index.m3u8
 http://163.61.227.29:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY SCIENCE
 http://103.140.254.2:3500/live/568.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",INVESTIGATION DISCOVERY
+http://119.152.240.15:8000/play/a0ke/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",National Geographic
+http://119.152.240.15:8000/play/a0i2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",National Geographic
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",National Geographic
 http://163.61.227.29:8000/play/a01d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SONY BBC EARTH 
+http://119.152.240.15:8000/play/a0bm/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Animal Planet
 http://103.140.254.2:3500/live/567.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",History TV18 HD
+http://119.152.240.15:8000/play/a0bj/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Ndtv Good Times
 http://103.140.254.2:3500/live/560.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",5 NEWS HD
@@ -352,46 +368,16 @@ https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Star Sports 1
-https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/star-sports-1
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Star-Sports-Select-1
-https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/star-sports-select-1
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Star-Sports-Select-2
-https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/star-sports-select-2
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Sky Sport Mian Event
 https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", T Sports T20 World Cup 🇧🇩🚹
 https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", T Sports 🇧🇩
-https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=1
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",PTV Sports HD 🇵🇰
-https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=92
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",PTV Sports HD 🇵🇰
-https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/ptv-sports
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",A Sports HD 🇵🇰
-https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=88
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",A Sports HD 🇵🇰
-https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/a-sports
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Star Sports 1 HD 🇮🇳
-https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=2
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Star Sport SL 1 HD 🇮🇳
-https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=28
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Star Sport SL 2 HD 🇮🇳
-https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=16
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",T Sports T20 World Cup 26 📺
 https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Sony Ten 5 Cricket 🇮🇳
-https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=101
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Sky Cricket 
 http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/7343/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Sony Ten 2 🇮🇳
-https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=29
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Sony Ten 1 HD 🇮🇳
-https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=74
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 🚨Sathiya TV Srilanka 📡📺
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Ten Cricket HD
-https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge3/sony-ten-cricket
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 🚨 Willow USA SPORT HD 🚨📡📺 
 https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 🚨 Hotstar HD 🚨  Willow
@@ -598,6 +584,8 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/wgIUsFu.png",BBC News
+https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
