@@ -12,8 +12,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 http://103.229.254.25:7001/play/a05q/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangla" group-title="",NTV UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="Bangla" group-title="",RTV
-http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Bangla" group-title="",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangla" group-title="",Bangla TV Europe
@@ -26,8 +24,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/4VtHQpf/20240907-023221.png" group-title="Bangla", BONGO DRAMAS
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-dramas
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="Bangla Music" group-title="",ATN Music
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla Music" tvg-logo="https://imgpile.com/images/58YDwk.jpg",RTV Music
 https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla Music" tvg-logo="https://tplay.live/originals/bengali-beats/bengali-beats.png",Bengali Beats
@@ -179,12 +175,16 @@ http://103.175.73.12:8080/live/143/143_0.m3u8
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Information",Discover Pakistan TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="h"group-title="KIDS" group-title="",Tom & Jarry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png"group-title="KIDS" group-title="",Motu Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS" tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="KIDS" group-title="",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s"group-title="KIDS" group-title="",Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive
 http://202.70.146.135:8000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive HD
@@ -207,6 +207,8 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",DW Naws
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png"group-title="English News" group-title="",France 24
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",RT Now
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",Sky News
@@ -219,14 +221,14 @@ http://103.175.73.12:8080/live/417/417_0.m3u8
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Islamic" tvg-logo="https://i.imgur.com/afhANph.jpg",Makka live
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="Bangla Music" group-title="",ATN Music
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",SUN BANGLA
 https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Shananda Movie
 http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids🍭🎯🎉" tvg-logo="https://uplo_logo.png",Doraemon
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids🍭🎯🎉" tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png",Jungle Book
-https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",DIPPTO
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",ETV TV
@@ -445,8 +447,6 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/wgIUsFu.png",BBC News
-https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
