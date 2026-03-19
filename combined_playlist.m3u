@@ -113,6 +113,8 @@ http://103.161.153.165:8000/play/a01k/index.m3u8
 http://103.99.249.139/zeecinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="Hindi Movies" group-title="",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="Hindi Movies" group-title="",Zee Action
+http://103.161.153.165:8000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Hindi Movies" group-title="",Star Gold
 http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="Hindi Movies" group-title="",Star Gold Select HD
@@ -153,6 +155,8 @@ http://103.99.249.139/sonyten3/index.m3u8
 http://103.99.249.139/sonyten3/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",DD Sports 2.0
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports" group-title="",Eurosports HD
+http://103.161.153.165:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Information" group-title="",Discovery Bangla
 http://202.70.146.135:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information" group-title="",Nat Geo HD
@@ -191,6 +195,8 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English Movies" group-title="",Fox Action Movies
 http://103.161.153.165:8000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix
+http://103.161.153.165:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive
 http://202.70.146.135:8000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive HD
@@ -355,8 +361,6 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="ISLAMIC CHANNELS", Madina live
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="ISLAMIC CHANNELS", Peace tv Bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="ISLAMIC CHANNELS", Mizanur Rahman Ajhari
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ISLAMIC CHANNELS" tvg-logo=" ", Noor Tv
@@ -411,6 +415,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Infotainment Channels",Travel XP English S
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", Amazon SAT
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZ2NVqN/outdoorch.png" group-title="Documentary", OUTDOOR CHANNEL 🇺🇸
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sRhcqHT/realwild.png" group-title="Documentary", REAL WILD 🇬🇧
