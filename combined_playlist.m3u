@@ -32,8 +32,6 @@ https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bong
 https://tplay.live/originals/bengali-beats/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Relagion Channel", Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="Relagion Channel", Peace TV English
-https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="Relagion Channel", Peace TV Urdu
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="Relagion Channel", Madani TV
@@ -54,6 +52,8 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla" group-title="",Gopal Bhar
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
+http://103.161.153.165:8000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Kolkata Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Bangla Movies
@@ -91,6 +91,8 @@ http://45.127.56.3:6699/live/Corpus-POL1/SRV4/2/SONY-PAL/live.mpd
 http://103.229.254.25:7001/play/a09z/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi" group-title="",Colors
 http://103.229.254.25:7001/play/a077/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi" group-title="",Zee TV
+http://103.161.153.165:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi" group-title="",Zee TV HD
 http://103.229.254.25:7001/play/a0cs/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png"group-title="Hindi Movies" group-title="",Zee Anmol TV
@@ -109,14 +111,16 @@ https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 http://103.161.153.165:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="Hindi Movies" group-title="",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="Hindi Movies" group-title="",Zee Action
+http://103.161.153.165:8000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="Hindi Movies" group-title="",Star Gold Select HD
 http://103.229.254.25:7001/play/a032/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies" group-title="",And Pictures HD
 http://103.229.254.25:7001/play/a033/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Hindi Movies" group-title="",UTV Gold 
+http://103.161.153.165:8000/play/a03c/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi Movies" group-title="",UTV Classic
 http://103.161.153.165:8000/play/a03d/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi Movies" group-title="",UTV Pictures
-http://103.161.153.165:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Movies 
 https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Kadak
@@ -167,8 +171,6 @@ http://103.175.73.12:8080/live/143/143_0.m3u8
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Information",Discover Pakistan TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="h"group-title="KIDS" group-title="",Tom & Jarry
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png"group-title="KIDS" group-title="",Motu Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS" tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg",Zoo Moo
@@ -261,6 +263,8 @@ https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
 https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",  Star Sports SL 1 🇮🇳
 https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",  Star Sports SL 2 🇮🇳
+https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 🚨Sathiya TV Srilanka 📡📺
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",DD SPORTS
@@ -341,10 +345,14 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="ISLAMIC CHANNELS", Madina live
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="ISLAMIC CHANNELS", Peace tv Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="ISLAMIC CHANNELS", Mizanur Rahman Ajhari
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ISLAMIC CHANNELS" tvg-logo=" ", Noor Tv
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ISLAMIC CHANNELS" tvg-logo=" ", Peace Tv English
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ISLAMIC CHANNELS" tvg-logo=" ", Sunnah Tv 
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GnfgKbs/alquran.png" group-title="ISLAMIC CHANNELS",QURAN
@@ -435,8 +443,6 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/wgIUsFu.png",BBC News
-https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
