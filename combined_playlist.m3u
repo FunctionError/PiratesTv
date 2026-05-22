@@ -26,8 +26,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla Music" tvg-logo="://tplay.live/originals/bengali-beats/bengali-beats.png",Bengla Beats
 https://tplay.live/originals/bengali-beats/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Relagion Channel", Peace TV Bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="Relagion Channel", Peace TV English
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="Relagion Channel", Peace TV Urdu
@@ -386,6 +384,10 @@ https://tplay.live/originals/ilm-tv/index.m3u8
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",PTV Sports pk HD
+https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", PTV Sport HD 🇧🇩 📡✴
+https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 🚨Sathiya TV Srilanka 📡📺
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",DD SPORTS
@@ -472,8 +474,6 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="ISLAMIC CHANNELS", Madina live
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="ISLAMIC CHANNELS", Peace tv Bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ
 #EXTINF:-1 tvg-logo="" group-title="ISLAMIC CHANNELS" tvg-logo=" ", Noor Tv
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GnfgKbs/alquran.png" group-title="ISLAMIC CHANNELS",QURAN
@@ -484,6 +484,8 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qdGPCh/Sharjahtvquran.png" group-title="ISLAMIC CHANNELS",QURAN RADIOTV SMC
 https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dQtMFVT/qamar.jpg" group-title="ISLAMIC CHANNELS",AL QAMAR
+https://streamer3.premio.link/alqamar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ypj95gJ/almasirah.png" group-title="ISLAMIC CHANNELS",ALMASIRA MUBASHER
 https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ypj95gJ/almasirah.png" group-title="ISLAMIC CHANNELS",ALMASIRA MUBASHER
@@ -560,8 +562,6 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/wgIUsFu.png",BBC News
-https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
